@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>SotA Lens — Citation-network mapping for exploratory reviews</title>
+  <meta name="description" content="SotA Lens maps scholarly corpora into citation networks for exploratory state-of-the-art, scoping, and systematic mapping reviews.">
+  <meta property="og:title" content="SotA Lens">
+  <meta property="og:description" content="Citation-network mapping for exploratory state-of-the-art and scoping reviews.">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="assets/sota-lens-wordmark-whitebg.png">
+  <link rel="stylesheet" href="assets/style.css">
+  <script defer src="assets/theme.js"></script>
+</head>
+<body>
+<header class="site-header">
+  <a class="brand" href="index.html" aria-label="SotA Lens home">
+    <img class="brand-logo" src="assets/sota-lens-wordmark-transparent.png" alt="SotA Lens">
+  </a>
+  <nav class="nav">
+    <a href="methodology.html">Methodology</a>
+    <a href="tool.html">Tool</a>
+    <a href="publication.html">Publication</a>
+    <a href="https://github.com/diogogithub/sota-lens">GitHub</a>
+    <button class="theme-toggle" type="button" data-theme-toggle>Dark mode</button>
+  </nav>
+</header>
+
+<main>
+  <section class="hero hero-brand">
+    <div>
+      <p class="eyebrow">Research software for exploratory evidence mapping</p>
+      <h1>Map a scholarly field before narrowing the review.</h1>
+      <p class="lead">SotA Lens turns scholarly metadata into citation networks, community summaries, and browser-ready visualisations for early-stage state-of-the-art, scoping, and systematic mapping reviews.</p>
+      <div class="actions">
+        <a class="button primary" href="tool.html">Open the tool</a>
+        <a class="button" href="tool.html?demo=paper">Try the paper case study</a>
+        <a class="button ghost" href="https://github.com/diogogithub/sota-lens">View on GitHub</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="grid three">
+    <article class="card">
+      <h2>Exploratory, not prescriptive</h2>
+      <p>SotA Lens helps discover neighbouring terms, subfields, influential works, and candidate clusters before the final review protocol is fixed.</p>
+    </article>
+    <article class="card">
+      <h2>Complementary to PRISMA</h2>
+      <p>The method supports upstream mapping and protocol design. It does not replace eligibility screening, critical appraisal, or transparent reporting.</p>
+    </article>
+    <article class="card">
+      <h2>Offline-friendly</h2>
+      <p>The Python pipeline can run locally, and the web explorer reads CSV/GEXF files in the browser without uploading them.</p>
+    </article>
+  </section>
+
+  <section class="split">
+    <div>
+      <h2>Designed for public research workflows</h2>
+      <p>SotA Lens is intended for researchers who need to understand a broad field before writing a focused state-of-the-art chapter, scoping review, or systematic mapping study.</p>
+      <p>The included case study maps literature around Dynamic Projection-Mapping and Spatial Augmented Reality, yielding a complete graph of 2,198 publication nodes and 8,249 citation edges.</p>
+    </div>
+    <div class="card brand-card">
+      <img class="brand-card-mark" src="assets/sota-lens-icon-transparent.png" alt="SotA Lens icon">
+      <h3>What it produces</h3>
+      <dl class="metric-list">
+        <div><dt>Input</dt><dd>CSV scholarly metadata</dd></div>
+        <div><dt>Graph</dt><dd>Directed citation network</dd></div>
+        <div><dt>Export</dt><dd>GEXF, JSON, summary tables</dd></div>
+        <div><dt>Explorer</dt><dd>Static local-file web tool</dd></div>
+      </dl>
+    </div>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <span>© 2026 Diogo Peralta Cordeiro</span>
+  <span><a href="publication.html">Cite this software</a></span>
+</footer>
+</body>
+</html>

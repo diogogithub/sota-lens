@@ -1,0 +1,188 @@
+Computer Graphics and Computer-Aided Design
+Computer Vision and Pattern Recognition
+Signal Processing
+Software
+General Medicine
+Artificial Intelligence
+General Engineering
+Geography, Planning and Development
+Hardware and Architecture
+Human-Computer Interaction
+Education
+Human Factors and Ergonomics
+Computer Science Applications
+Computer Networks and Communications
+Behavioral Neuroscience
+Cognitive Neuroscience
+Experimental and Cognitive Psychology
+General Earth and Planetary Sciences
+General Environmental Science
+Health, Toxicology and Mutagenesis
+Fluid Flow and Transfer Processes
+Social Sciences (miscellaneous)
+General Materials Science
+Applied Psychology
+Communication
+Social Psychology
+Media Technology
+Industrial and Manufacturing Engineering
+General Mathematics
+Control and Systems Engineering
+Process Chemistry and Technology
+Instrumentation
+General Computer Science
+Building and Construction
+Civil and Structural Engineering
+Archeology
+Anthropology
+Neurology (clinical)
+Orthopedics and Sports Medicine
+Electrical and Electronic Engineering
+Mechanics of Materials
+Modeling and Simulation
+Biomaterials
+Atomic and Molecular Physics, and Optics
+Biochemistry
+Analytical Chemistry
+Mechanical Engineering
+Energy (miscellaneous)
+Energy Engineering and Power Technology
+Renewable Energy, Sustainability and the Environment
+Control and Optimization
+Engineering (miscellaneous)
+Applied Mathematics
+Neuroscience (miscellaneous)
+Electronic, Optical and Magnetic Materials
+Health Informatics
+Biomedical Engineering
+Surgery
+Biotechnology
+Physics and Astronomy (miscellaneous)
+Chemistry (miscellaneous)
+Computer Science (miscellaneous)
+General Psychology
+Arts and Humanities (miscellaneous)
+Computational Mathematics
+Computational Mechanics
+Architecture
+Information Systems
+Conservation
+Ocean Engineering
+Environmental Engineering
+History and Philosophy of Science
+Developmental and Educational Psychology
+Sociology and Political Science
+General Neuroscience
+Neuropsychology and Physiological Psychology
+Biological Psychiatry
+Developmental Neuroscience
+Endocrine and Autonomic Systems
+Neurology
+General Agricultural and Biological Sciences
+General Biochemistry, Genetics and Molecular Biology
+Physiology
+Histology
+Anatomy
+Polymers and Plastics
+Computational Theory and Mathematics
+Cellular and Molecular Neuroscience
+Genetics
+Molecular Biology
+Ecology
+Ecology, Evolution, Behavior and Systematics
+Clinical Psychology
+Public Health, Environmental and Occupational Health
+Safety, Risk, Reliability and Quality
+Physiology (medical)
+Gastroenterology
+Psychology (miscellaneous)
+Physical Therapy, Sports Therapy and Rehabilitation
+Hepatology
+Geriatrics and Gerontology
+Aging
+Safety Research
+Pulmonary and Respiratory Medicine
+Aerospace Engineering
+Statistics, Probability and Uncertainty
+Statistics and Probability
+Pharmacology
+General Chemistry
+Management of Technology and Innovation
+Organizational Behavior and Human Resource Management
+Strategy and Management
+Economics and Econometrics
+Urban Studies
+Environmental Science (miscellaneous)
+General Business, Management and Accounting
+Management, Monitoring, Policy and Law
+Development
+Food Science
+General Social Sciences
+Law
+Political Science and International Relations
+Public Administration
+Tourism, Leisure and Hospitality Management
+Business and International Management
+Biophysics
+Marketing
+Linguistics and Language
+Language and Linguistics
+Health (social science)
+Library and Information Sciences
+Epidemiology
+Business, Management and Accounting (miscellaneous)
+Management Science and Operations Research
+Information Systems and Management
+Cancer Research
+Oncology
+Psychiatry and Mental health
+Radiology, Nuclear Medicine and imaging
+Radiation
+Radiological and Ultrasound Technology
+Visual Arts and Performing Arts
+Industrial relations
+Management Information Systems
+Advanced and Specialized Nursing
+Cardiology and Cardiovascular Medicine
+Community and Home Care
+Rehabilitation
+Internal Medicine
+Automotive Engineering
+Embryology
+Multidisciplinary
+Philosophy
+Sensory Systems
+Ophthalmology
+Medicine (miscellaneous)
+General Chemical Engineering
+Condensed Matter Physics
+Metals and Alloys
+Ceramics and Composites
+Museology
+History
+Cultural Studies
+Transportation
+Molecular Medicine
+Occupational Therapy
+Theoretical Computer Science
+Earth and Planetary Sciences (miscellaneous)
+Computers in Earth Sciences
+Algebra and Number Theory
+Surfaces, Coatings and Films
+General Immunology and Microbiology
+General Veterinary
+Animal Science and Zoology
+Numerical Analysis
+General Physics and Astronomy
+Biochemistry (medical)
+Health Policy
+Drug Discovery
+Pharmacology (medical)
+Geometry and Topology
+Music
+Otorhinolaryngology
+Oral Surgery
+Speech and Hearing
+Economics, Econometrics and Finance (miscellaneous)
+Applied Microbiology and Biotechnology
+Bioengineering

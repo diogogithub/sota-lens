@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Methodology — SotA Lens</title>
+  <meta property="og:image" content="assets/sota-lens-wordmark-whitebg.png">
+  <link rel="stylesheet" href="assets/style.css">
+  <script defer src="assets/theme.js"></script>
+</head>
+<body>
+<header class="site-header">
+  <a class="brand" href="index.html" aria-label="SotA Lens home">
+    <img class="brand-logo" src="assets/sota-lens-wordmark-transparent.png" alt="SotA Lens">
+  </a>
+  <nav class="nav">
+    <a href="methodology.html">Methodology</a>
+    <a href="tool.html">Tool</a>
+    <a href="publication.html">Publication</a>
+    <a href="https://github.com/diogogithub/sota-lens">GitHub</a>
+    <button class="theme-toggle" type="button" data-theme-toggle>Dark mode</button>
+  </nav>
+</header>
+
+<main class="narrow">
+  <section class="page-intro brand-intro">
+    <img class="intro-mark" src="assets/sota-lens-icon-transparent.png" alt="SotA Lens icon">
+    <div>
+      <p class="eyebrow">Methodology</p>
+      <h1>Exploratory citation-network mapping for state-of-the-art reviews</h1>
+      <p class="lead">SotA Lens provides a reproducible way to inspect the structure of a broad scholarly landscape before a review is narrowed into a formal protocol.</p>
+    </div>
+  </section>
+
+  <section class="steps">
+    <article><span>1</span><h2>Define seed fields</h2><p>Start with broad search terms that capture the main field and neighbouring terminology.</p></article>
+    <article><span>2</span><h2>Collect seed records</h2><p>Import scholarly search results from CSV, including titles, authors, DOIs, years, and URLs.</p></article>
+    <article><span>3</span><h2>Enrich references</h2><p>Add reference DOI lists from available metadata sources or existing bibliographic exports.</p></article>
+    <article><span>4</span><h2>Build the graph</h2><p>Create a directed citation network where publications cite other publications.</p></article>
+    <article><span>5</span><h2>Inspect structure</h2><p>Analyse components, high-degree works, subject terms, author rankings, and communities.</p></article>
+    <article><span>6</span><h2>Refine the review</h2><p>Use the map to refine search terms, identify gaps, and design a more defensible screening protocol.</p></article>
+  </section>
+
+  <section class="card">
+    <h2>How it relates to PRISMA and scoping reviews</h2>
+    <p>PRISMA-style reporting is strongest when the review question, databases, eligibility criteria, and screening process are already defined. SotA Lens is useful earlier, when the researcher is still learning the field structure.</p>
+    <p>The output is not an evidence claim. It is a map that supports better protocol design, better search-term selection, and more transparent explanation of why a review includes particular neighbouring areas.</p>
+  </section>
+
+  <section class="grid two">
+    <article class="card">
+      <h2>Strengths</h2>
+      <ul>
+        <li>Reproducible corpus-to-graph pipeline.</li>
+        <li>Gephi-compatible exports.</li>
+        <li>Browser-based local file exploration.</li>
+        <li>Useful for broad, interdisciplinary fields.</li>
+      </ul>
+    </article>
+    <article class="card">
+      <h2>Limitations</h2>
+      <ul>
+        <li>Metadata quality affects graph quality.</li>
+        <li>Author disambiguation is not solved automatically.</li>
+        <li>Clusters require expert interpretation.</li>
+        <li>Manual screening remains necessary.</li>
+      </ul>
+    </article>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <span>© 2026 Diogo Peralta Cordeiro</span>
+  <span><a href="tool.html">Open the tool</a></span>
+</footer>
+</body>
+</html>

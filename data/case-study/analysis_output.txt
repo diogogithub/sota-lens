@@ -1,0 +1,6724 @@
+Number of nodes: 2198
+Number of edges: 8249
+Author Rankings:
+Daisuke Iwai: 50
+Masatoshi Ishikawa: 41
+Kosuke Sato: 39
+Yoshihiro Watanabe: 32
+Bruce H. Thomas: 27
+Ramesh Raskar: 19
+Mark Billinghurst: 18
+Marc Stamminger: 17
+: 17
+Hiromasa Oku: 17
+Hiroshi Ishii: 17
+Andrew D. Wilson: 16
+Naoki Hashimoto: 15
+Hrvoje Benko: 15
+Shahram Izadi: 15
+Henry Fuchs: 15
+Oliver Bimber: 14
+Ross T. Smith: 12
+Frank Bauer: 12
+Shingo Kagami: 12
+Dieter Schmalstieg: 12
+Markus Funk: 12
+Aditi Majumder: 11
+Michael R. Marner: 11
+Steven Feiner: 11
+Patrick Baudisch: 11
+Pattie Maes: 11
+Koichi Hashimoto: 10
+Tomohiro Sueishi: 10
+Albrecht Schmidt: 10
+Sriram Subramanian: 10
+Christian Siegl: 9
+Hirokazu Kato: 9
+Martin Hachet: 9
+Parinya Punpongsanon: 9
+Anselm Grundhofer: 9
+O. Bimber: 9
+Ivan Poupyrev: 9
+Christian Theobalt: 9
+Gordon Wetzstein: 9
+Sebastian Schlund: 8
+Daniel Vogel: 8
+Vanessa Lange: 8
+Yuki Morimoto: 8
+Leo Miyashita: 8
+Yoones A. Sekhavat: 8
+Gudrun Klinker: 8
+Greg Welch: 8
+Blair MacIntyre: 8
+Hideki Koike: 7
+Lihui Wang: 7
+Frank Steinicke: 7
+Eyal Ofek: 7
+Haoran Xie: 7
+Kazunori Miyata: 7
+Michael Zollhöfer: 7
+Anselm Grundhöfer: 7
+David F. Dinges: 7
+Patrick Cohendet: 7
+Andrew Wilson: 7
+Roel Vertegaal: 7
+Wojciech Matusik: 7
+Markus Gross: 7
+David Kim: 7
+Matthias Nießner: 7
+Patrick Rupprecht: 6
+Gaetano Cascini: 6
+Frank Biocca: 6
+Shio Miyafuji: 6
+Philipp Kurth: 6
+Tomoki Sueyoshi: 6
+Marc Alexa: 6
+Anke M. Brock: 6
+Kaori Fujinami: 6
+Elies Dekoninck: 6
+Jean-François Boujut: 6
+Shinsaku Hiura: 6
+Pierre Leclercq: 6
+David Luebke: 6
+Thomas Kosch: 6
+Carl Gutwin: 6
+Vincent Lepetit: 6
+Szymon Rusinkiewicz: 6
+Otmar Hilliges: 6
+James Baumeister: 5
+Matteo Colaianni: 5
+Giandomenico Caruso: 5
+Bruce Thomas: 5
+Samuel Audet: 5
+David Lindlbauer: 5
+Christophe Jouffrais: 5
+Joan Sol Roo: 5
+Satoshi Tabata: 5
+M. Gopi: 5
+Pratiti Sarkar: 5
+Justus Thies: 5
+Simon Willi: 5
+Gerd Bruder: 5
+Zahra Amiri: 5
+Tobias Höllerer: 5
+Denis Kalkofen: 5
+Jeroen van Baar: 5
+Pushmeet Kohli: 5
+Andrew Maimone: 5
+Takeshi Naemura: 5
+Christoph Resch: 5
+Peter Keitler: 5
+Nassir Navab: 5
+Chenglei Wu: 5
+Takeo Kanade: 5
+Sidney Fels: 5
+Chris Harrison: 5
+Brett R. Jones: 5
+Shin'ya Nishida: 5
+Woontack Woo: 5
+Naoya Koizumi: 5
+Thomas Willwacher: 5
+Hans-Peter Seidel: 5
+Wolfgang Heidrich: 5
+Marc Levoy: 5
+Stewart Von Itzstein: 4
+Fatma Ben Guefrache: 4
+Jianlong Zhou: 4
+Ivan Lee: 4
+Roland Menassa: 4
+Andrew Sansome: 4
+Masatoshi Okutomi: 4
+Achim J. Lilienthal: 4
+Zdenek Materna: 4
+Michal Kapinus: 4
+Vitezslav Beran: 4
+Pavel Smrz: 4
+Kim Halskov: 4
+Takashi Nomoto: 4
+Yoo-Joo Choi: 4
+Hongjin Xu: 4
+Yunpu Hu: 4
+Hao-Lun Peng: 4
+Yuri Mikawa: 4
+Tim Bosch: 4
+Antonio E. Uva: 4
+Michele Gattullo: 4
+Michele Fiorentino: 4
+Feng Zheng: 4
+Sakineh Goljaryan: 4
+Panagiotis Vogiatzidakis: 4
+Panayiotis Koutsabasis: 4
+Christian Sandor: 4
+Gabriel Taubin: 4
+Reinhard Koch: 4
+S. K. Ong: 4
+A. Y. C. Nee: 4
+Kiyoshi Kiyokawa: 4
+Haruo Takemura: 4
+Markus Tatzgern: 4
+Laurent Simon: 4
+David Grandadam: 4
+Koen Frenken: 4
+Rajinder Sodhi: 4
+Hans Gellersen: 4
+Peter Lincoln: 4
+Andrei State: 4
+H. Fuchs: 4
+Kim Witte: 4
+Chen Cao: 4
+Kun Zhou: 4
+Hao Li: 4
+Sotiris Makris: 4
+Gerhard Reitmayr: 4
+Pranav Mistry: 4
+Daniel Wigdor: 4
+Elliot Soloway: 4
+Jun Rekimoto: 4
+Brygg Ullmer: 4
+Alex Olwal: 4
+Jürgen Steimle: 4
+Abhijit Karnik: 4
+Daniel G. Aliaga: 4
+Takafumi Taketomi: 4
+Goshiro Yamamoto: 4
+Douglas Lanman: 4
+Paul Dietz: 4
+Kohei Okumura: 4
+A. Majumder: 4
+David Molyneaux: 4
+Jamie Shotton: 4
+Mark Bolas: 4
+Clifton Forlines: 4
+P. Fua: 4
+Pascal Fua: 4
+William T. Freeman: 4
+Eric Marchand: 4
+Toshiyuki Amano: 4
+Ravin Balakrishnan: 4
+Mel Slater: 4
+Jayesh S. Pillai: 4
+Jeremy R. Cooperstock: 4
+Mark Pauly: 4
+Ravi Ramamoorthi: 4
+George Fitzmaurice: 4
+Bernd Froehlich: 4
+Benjamin Volmer: 3
+Siobhan Banks: 3
+Federico Morosi: 3
+Iacopo Carli: 3
+Raphaël Suire: 3
+Soyoung Jung: 3
+Anthony Farrant: 3
+Florian Leutert: 3
+Klaus Schilling: 3
+Jan Schmitt: 3
+Masayuki Tanaka: 3
+Masumi Kiyokawa: 3
+Jörg Müller: 3
+Maryam Khademi: 3
+Hossein Mousavi Hondori: 3
+Sang-Joon Kim: 3
+Hirotaka Asayama: 3
+Ryohei Nakatsu: 3
+Naoko Tosa: 3
+Gaku Narita: 3
+Daisuke Kobayashi: 3
+Yuki Morikubo: 3
+Kentaro Fukamizu: 3
+Thitirat Siriborvornratanakul: 3
+Reinier Könemann: 3
+Yu Sun: 3
+Susanne Schmidt: 3
+Andrew Irlitti: 3
+Maria Seraphina Astriani: 3
+Lee Huey Yi: 3
+Petar Pjanic: 3
+Yichen Peng: 3
+Lorenzo Giunta: 3
+Salam Daher: 3
+Tadayoshi Aoyama: 3
+Takeshi Takaki: 3
+Idaku Ishii: 3
+D. Iwai: 3
+Ammar Hattab: 3
+Yuta Kageyama: 3
+Michael D. Coovert: 3
+Jeremy Laviole: 3
+Patrick Reuter: 3
+Nadine Couture: 3
+Xavier Granier: 3
+Christoffer Menk: 3
+Valerio De Luca: 3
+Silvia Liaci: 3
+Lucio Tommaso De Paolis: 3
+Karl Friston: 3
+X. Wang: 3
+Giulio Jacucci: 3
+Raphael Grasset: 3
+Mathias Basner: 3
+Turner Whitted: 3
+Kok-Lim Low: 3
+Yu Sheng: 3
+M. Billinghurst: 3
+Harald Bathelt: 3
+Gernot Grabher: 3
+Ken Hinckley: 3
+Enrico Rukzio: 3
+Antti Oulasvirta: 3
+Dominik Schmidt: 3
+I. Scott MacKenzie: 3
+Karl D.D. Willis: 3
+Scott E. Hudson: 3
+Moshe Mahler: 3
+Anselmo Lastra: 3
+M. Gross: 3
+S. Garrido-Jurado: 3
+R. Muñoz-Salinas: 3
+F.J. Madrid-Cuevas: 3
+Cristina Botella: 3
+Jonathan Freeman: 3
+S. Feiner: 3
+Antonio Gomes: 3
+Nigel Cross: 3
+Willemien Visser: 3
+Panagiotis Karagiannis: 3
+Xiangyu Wang: 3
+Tobias Langlotz: 3
+Kari Pulli: 3
+R. Raskar: 3
+M.S. Brown: 3
+Ruigang Yang: 3
+Michael Gervautz: 3
+Tobias Hollerer: 3
+Y. Shen: 3
+H. Kato: 3
+Zhengyou Zhang: 3
+Niccolò Becattini: 3
+Masahiko Inami: 3
+Yuki Ban: 3
+Takuji Narumi: 3
+Tomohiro Tanikawa: 3
+Michitaka Hirose: 3
+Daniel Wagner: 3
+Rasmus S. Andersen: 3
+Thomas B. Moeslund: 3
+Ole Madsen: 3
+Jason Alexander: 3
+James F. Blinn: 3
+Marcelo Coelho: 3
+Peter Dalsgaard: 3
+Sean Follmer: 3
+Daniel Leithinger: 3
+Hendrik P. A. Lensch: 3
+Markus Löchtefeld: 3
+Ian Stavness: 3
+Yu Hong Yeung: 3
+Behzad Sajadi: 3
+A. Emmerling: 3
+Gerwin Damberg: 3
+Albert Ng: 3
+Shree Nayar: 3
+Richard A. Newcombe: 3
+Andrew Fitzgibbon: 3
+Steve Hodges: 3
+M.D. Grossberg: 3
+S.K. Nayar: 3
+Hajime Kajita: 3
+Takatoshi Yoshida: 3
+Yoichi Ochiai: 3
+K. Sato: 3
+Jessica R. Cauchard: 3
+Pascal Knierim: 3
+Yuta Itoh: 3
+John Underkoffler: 3
+R. Sukthankar: 3
+Mike Fraser: 3
+Ian McDowall: 3
+Pat Hanrahan: 3
+Mark Hancock: 3
+Paul Beardsley: 3
+Srinivas Rao: 3
+Kishore Rathinavel: 3
+Ankit Mohan: 3
+Hanhoon Park: 3
+Jong-Il Park: 3
+M. Ishikawa: 3
+Yaser Sheikh: 3
+Bei Xiao: 3
+V. Lepetit: 3
+Antoine Petit: 3
+Takaaki Shiratori: 3
+Jan Herling: 3
+Wolfgang Broll: 3
+Mohammadreza Khalilbeigi: 3
+Adam Herout: 3
+Hideo Saito: 3
+Edward H. Adelson: 3
+Paul Debevec: 3
+Jean-Marie Normand: 3
+Guillaume Moreau: 3
+Xiang Cao: 3
+Kurtis Keller: 3
+Sven Mayer: 3
+Jacob O. Wobbrock: 3
+Claudio Pinhanez: 3
+Shumin Zhai: 3
+Jamie Alexander O'Hare: 3
+Alvin J. Law: 3
+Alla Sheffer: 3
+M. Fiala: 3
+Jay Summet: 3
+Tovi Grossman: 3
+Frédo Durand: 3
+Alexander Kulik: 3
+Stephan Beck: 3
+Mingsong Dou: 3
+James Davis: 3
+L.L. Whitcomb: 3
+D.R. Yoerger: 3
+Fary Khan: 3
+Rosaria De Luca: 3
+Rocco Salvatore Calabrò: 3
+Peter Feys: 3
+Robert W. Motl: 3
+Matthias Hullin: 3
+Elmar Eisemann: 3
+Gregory J. Ward: 3
+Nikolaus Hansen: 3
+Randy Pausch: 3
+Linda R. Elliott: 3
+Duck Bong Kim: 3
+Susumu Tachi: 3
+Pascal Barla: 3
+Gaël Guennebaud: 3
+Ayellet Tal: 3
+Ina Bornkessel-Schlesewsky: 2
+Matthias Schlesewsky: 2
+Majesa Trimmel: 2
+Dominique Sagot-Duvauroux: 2
+Jeremy Hartmann: 2
+Jiyoung Lee: 2
+Ji Won Kim: 2
+Soichiro Toyohara: 2
+Younggeun Choi: 2
+Christian Herrmann: 2
+Julian Alvarez: 2
+Hyeyoung Yoo: 2
+Hyunggi Kim: 2
+Thomas Olsson: 2
+Julie Carmigniani: 2
+Borko Furht: 2
+Magdalena Wójcik: 2
+Ravi Teja Chadalavada: 2
+Henrik Andreasson: 2
+Maike Schindler: 2
+Rainer Palm: 2
+Yuta Ueda: 2
+Yuki Asai: 2
+Ryuichi Enomoto: 2
+Shinichi Okuda: 2
+Andrew Vande Moere: 2
+Lucy Dodakian: 2
+Xin Chen: 2
+Jorge. I. Poveda: 2
+N. Li: 2
+Lauren Thevin: 2
+Gooman Park: 2
+Wanlong Li: 2
+Mayu Arano: 2
+Muhammad Twaha Ibrahim: 2
+Daiki Miyazaki: 2
+Ellen S. Wilschut: 2
+Daekun Kim: 2
+Toshiyuki Kato: 2
+Masatoshi ishikawa: 2
+Daiki Tone: 2
+Hsin-Hung Chen: 2
+Shogo Yoshida: 2
+Pavel Zemcik: 2
+Jamie O'Hare: 2
+Alberto Raposo: 2
+Yanpeng Cao: 2
+Jiangxin Yang: 2
+Yanlong Cao: 2
+Xin Li: 2
+William T. Neale: 2
+James Marr: 2
+David Hessel: 2
+Andreas Fender: 2
+Philipp Herholz: 2
+Shuangjiu Xiao: 2
+Renaud Gervais: 2
+Julius Gelšvartas: 2
+Rimvydas Simutis: 2
+Rytis Maskeliūnas: 2
+Jaewoon Lee: 2
+Yeonjin Kim: 2
+Myeong-Hyeon Heo: 2
+Dongho Kim: 2
+Byeong-Seok Shin: 2
+Jun Chen: 2
+Takashi Yamamoto: 2
+Kosuke Hiratani: 2
+Takefumi Hiraki: 2
+Gu van Rhijn: 2
+Frank Krause: 2
+Kwan H. Lee: 2
+Samia Ben Rajeb: 2
+Giovanni Piumatti: 2
+Andrea Sanna: 2
+Fabrizio Lamberti: 2
+Tanja Zigart: 2
+Joel Murithi Runji: 2
+Chyi-Yeu Lin: 2
+Reto Wettach: 2
+Nicolas Mellado: 2
+Akshay Dave: 2
+Mirue Kang: 2
+Jihyun Hwang: 2
+Mia Lorenzo: 2
+Paul Oh: 2
+Shane R. Port: 2
+Joanne E. Zucco: 2
+Carola Gatto: 2
+Sofia Chiarello: 2
+Giada Sumerano: 2
+Matt Adcock: 2
+Shino Higuchi: 2
+D. Schmalstieg: 2
+Rick A. Adams: 2
+Matthew Turk: 2
+Steven J. Henderson: 2
+R. Azuma: 2
+Jillian Dorrian: 2
+James A. Walsh: 2
+Stephen DiVerdi: 2
+Steven K. Feiner: 2
+Jason Orlosky: 2
+Tomohiro Mashita: 2
+Ernst Kruijff: 2
+John Sweller: 2
+Luciano Gamberini: 2
+Eduardo Veas: 2
+Hartmut Seichter: 2
+Richard E. Kronauer: 2
+Ronnie Fass: 2
+Sally A. Ferguson: 2
+Xuan Zhou: 2
+Raymond W. Matthews: 2
+David J. Kennaway: 2
+Ronald Azuma: 2
+Gary Bishop: 2
+Robert L. Cook: 2
+Morgan McGuire: 2
+Walter Mayrhofer: 2
+Erwin Rauch: 2
+Dominic Gorecky: 2
+Pierre Wellner: 2
+Joseph Redmon: 2
+Ali Farhadi: 2
+Andreas Bächler: 2
+Liane Bächler: 2
+Thomas Heidenreich: 2
+Patrick Renner: 2
+Thies Pfeiffer: 2
+Sandra G. Hart: 2
+Peter-Pike Sloan: 2
+Jan Kautz: 2
+A. Grundhofer: 2
+T. Zeidler: 2
+Barbara Cutler: 2
+Anders Malmberg: 2
+Peter Maskell: 2
+Stoyan V. Sgourev: 2
+Sebastian Boring: 2
+Andreas Butz: 2
+Sean Gustafson: 2
+Pourang P. Irani: 2
+Michael Rohs: 2
+Julian Seifert: 2
+Miguel A. Nacenta: 2
+Alex Blate: 2
+Nobuyasu Yamaguchi: 2
+M.J. Marín-Jiménez: 2
+Hemal Naik: 2
+Federico Tombari: 2
+Rosa M. Baños: 2
+Mariano Alcañiz: 2
+Romero Tori: 2
+Frank A. Biocca: 2
+Mike Allen: 2
+Kwan Min Lee: 2
+Jennifer S. Lerner: 2
+Dacher Keltner: 2
+Giuseppe Riva: 2
+Ana Sacau: 2
+Jari Laarni: 2
+Tilo Hartmann: 2
+Paul Slovic: 2
+Melissa L. Finucane: 2
+Ellen Peters: 2
+Donald G. MacGregor: 2
+Y. Baillot: 2
+B. MacIntyre: 2
+E. Bruns: 2
+M. Inami: 2
+Dieter Fox: 2
+Yanlin Weng: 2
+Levi Valgaerts: 2
+Masato Sugasaki: 2
+Jürgen Scheible: 2
+Masataka Imura: 2
+Osamu Oshiro: 2
+Srinivasa G. Narasimhan: 2
+Diego Martinez Plasencia: 2
+Calvin Rubens: 2
+Sean Braley: 2
+Herbert A. Simon: 2
+Peter R. Magnusson: 2
+Rachael Luck: 2
+Yvonne Rogers: 2
+Xun Luo: 2
+Jongeun Cha: 2
+Maureen K. Holden: 2
+George Chryssolouris: 2
+Spyridon Koukas: 2
+Sami Haddadin: 2
+Lei Hou: 2
+Martijn Truijens: 2
+J.L. Gabbard: 2
+J.E. Swan: 2
+Marc Hassenzahl: 2
+Wei-Chao Chen: 2
+Richard Catrambone: 2
+Anne Collins McLaughlin: 2
+Wendy Mackay: 2
+Davis: 2
+J. Edward Swan: 2
+J. Rekimoto: 2
+G. Welch: 2
+H. Towles: 2
+L.D. Brown: 2
+H. Hua: 2
+Zsolt Szalavári: 2
+L. Miguel Encarnação: 2
+Werner Purgathofer: 2
+A. Olwal: 2
+Christoph Bichlmeier: 2
+David D. Yuh: 2
+Allison M. Okamura: 2
+Rainer Malaka: 2
+Kerstin Schneider: 2
+Ursula Kretschmer: 2
+Murat Akçayır: 2
+Gökçe Akçayır: 2
+Chien-Hsu Chen: 2
+I-Jui Lee: 2
+Monica Tentori: 2
+Manuel Contero: 2
+Joseph L. Gabbard: 2
+Wijnand IJsselsteijn: 2
+S. E. Avons: 2
+Shari L. Jackson: 2
+Chris Quintana: 2
+Joseph Krajcik: 2
+Christopher D. Twigg: 2
+Masaaki Mochimaru: 2
+Shree K. Nayar: 2
+Peter Sturm: 2
+Daniel Cremers: 2
+Craig Schlenoff: 2
+Sandro Rama Fiorini: 2
+Joel Luis Carbonera: 2
+Mara Abel: 2
+Edson Prestes: 2
+Songpo Li: 2
+Xiaoli Zhang: 2
+Mark D. Gross: 2
+Jaewook Lee: 2
+Seung Wan Hong: 2
+Yongwook Jeong: 2
+A.Y.C. Nee: 2
+S.K. Ong: 2
+Kai Kunze: 2
+Momoyo Nagase: 2
+Suzanne Weghorst: 2
+Kellogg S. Booth: 2
+Minoru Kobayashi: 2
+N. Yokoya: 2
+Tom Drummond: 2
+George Michalos: 2
+Jianfeng Li: 2
+Simon Bogh: 2
+Robert W. Sumner: 2
+Manfred Tscheligi: 2
+Michael Walker: 2
+Hooman Hedayati: 2
+Daniel Szafir: 2
+Ricardo Jota: 2
+Bernd Bickel: 2
+Akimitsu Hogge: 2
+Jason Lawrence: 2
+Timothy Merritt: 2
+Esben W. Pedersen: 2
+Kasper Hornbæk: 2
+Billy Lam: 2
+Fabian Hemmert: 2
+Ryuma Niiyama: 2
+Cristina Videira Lopes: 2
+Etienne Burdet: 2
+Alvin Law: 2
+Peng Song: 2
+Tat-Jen Cham: 2
+Anders Ballestad: 2
+Eric Kozak: 2
+Johannes Minor: 2
+Raveen Kumaran: 2
+James Gregson: 2
+Yuichiro Fujimoto: 2
+Jun Miyazaki: 2
+Felix Heide: 2
+Shoichiro Mihara: 2
+Shoichi Takeda: 2
+Takahiro Kawabe: 2
+Taiki Fukiage: 2
+Masataka Sawayama: 2
+G. Wetzstein: 2
+Diego Gutierrez: 2
+Takuro Takezawa: 2
+M. Brown: 2
+Jorge I. Poveda: 2
+Michael D. Sankur: 2
+Daniel B. Arnold: 2
+Na Li: 2
+Julie Ducasse: 2
+Timo Götzelmann: 2
+Youngho Lee: 2
+Jeha Ryu: 2
+Lei Shi: 2
+Shiri Azenkot: 2
+Junji Watanabe: 2
+Andrew J. Davison: 2
+Song Zhang: 2
+Zhan Song: 2
+K. Fujii: 2
+Hiroki Yamamoto: 2
+Satoshi Maekawa: 2
+Ippei Suzuki: 2
+Akira Ishii: 2
+Yoon Jung Park: 2
+Laurence Nigay: 2
+Wataru Yamada: 2
+Hiroyuki Manabe: 2
+Daizo Ikeda: 2
+Michelle Park: 2
+Tommy Fang: 2
+James A. Landay: 2
+Katrin Wolf: 2
+Maki Sugimoto: 2
+Antonio Krüger: 2
+Colin Ware: 2
+Maneesh Agrawala: 2
+T. Hollerer: 2
+David Kirk: 2
+Qiong-Hua Wang: 2
+Daniel Saakes: 2
+Hui-Shyong Yeo: 2
+Seung-Tak Noh: 2
+Gyeol Han: 2
+Zhi Liu: 2
+Jun-Sik Kim: 2
+Grace Woo: 2
+Quinn Smithwick: 2
+Zhanyi Hu: 2
+J. Heikkila: 2
+Yoshitsugu Manabe: 2
+Yuji Yamakawa: 2
+I. Ishii: 2
+Qian Zhou: 2
+Zhe Cao: 2
+Tomas Simon: 2
+Shih-En Wei: 2
+Scott Schaefer: 2
+Travis McPhail: 2
+Joe Warren: 2
+Andreas Jordt: 2
+W.B. Seales: 2
+Wenyan Bi: 2
+Hugo Alvarez: 2
+B. Sajadi: 2
+Ilya Baran: 2
+Alexander Mathis: 2
+Jessica K. Hodgins: 2
+Miguel A. Otaduy: 2
+Anthony Rowe: 2
+Pang Yunian: 2
+V. Gay-Bellile: 2
+A. Bartoli: 2
+P. Sayd: 2
+Roman Lissermann: 2
+Hideaki Uchiyama: 2
+Naokazu Yokoya: 2
+Daisuke Kondo: 2
+Ryugo Kijima: 2
+Y. Nakabo: 2
+Takashi Komuro: 2
+Istvan Szentandrasi: 2
+Marketa Dubska: 2
+Rudolf Kajan: 2
+Robert J. Woodham: 2
+Matthias Müller: 2
+Liming Yang: 2
+Giuseppe Monno: 2
+Yongtian Wang: 2
+Masanori Sugimoto: 2
+Max Mühlhäuser: 2
+Raja Parasuraman: 2
+Karl D. D. Willis: 2
+Takafumi Matsumaru: 2
+Shaun K. Kane: 2
+Daniel Avrahami: 2
+Stephen Voida: 2
+Gregory M. Corso: 2
+Yves Guiard: 2
+Kapil Kadam: 2
+Cedric Masclet: 2
+Monica Bordegoni: 2
+Jouke Verlinden: 2
+Keyvan Kanani: 2
+Filippo Bergamasco: 2
+Andrea Albarelli: 2
+Andrea Torsello: 2
+L. Naimark: 2
+E. Foxlin: 2
+Jihun Yu: 2
+Adrian Ilie: 2
+Sofien Bouaziz: 2
+Derek Bradley: 2
+Hideaki Nii: 2
+Vlad Branzoi: 2
+Erich Bruns: 2
+James M. Rehg: 2
+Scott Hudson: 2
+Robert Xiao: 2
+Rasmus Tamstorf: 2
+Ce Liu: 2
+Michael Rubinstein: 2
+René Meusel: 2
+Christian Holz: 2
+Saul Greenberg: 2
+André Kunert: 2
+Martin Usoh: 2
+Yon Visell: 2
+Severin Smith: 2
+Raymond Bahana: 2
+Andreas Kurniawan: 2
+Xubo Yang: 2
+Oliver Wang: 2
+Rick Stevens: 2
+T. Okabe: 2
+I. Sato: 2
+Y. Sato: 2
+Yuqi Li: 2
+Han Chen: 2
+Kai Li: 2
+Charles Loop: 2
+Sebastian Thrun: 2
+Javier Romero: 2
+D.A. Smallwood: 2
+M. Caccia: 2
+G. Veruggio: 2
+Tack-Don Han: 2
+Dazhao Xie: 2
+Fraser Anderson: 2
+Malte Weiss: 2
+Munehiko Sato: 2
+Steve Cousins: 2
+Maya Cakmak: 2
+Tamy Boubekeur: 2
+Alexis Clay: 2
+Guy Prudhomme: 2
+Elizabeth B.-N. Sanders: 2
+Pieter Jan Stappers: 2
+Simona Leonardi: 2
+Antonino Naro: 2
+Karin Coninx: 2
+Robert W Motl: 2
+Maurício Sousa: 2
+Daniel Medeiros: 2
+Joaquim Jorge: 2
+Johnny C. Lee: 2
+Paul H. Dietz: 2
+N. Navab: 2
+Sungkil Lee: 2
+Ling Shao: 2
+Sven Kratz: 2
+Adam Finkelstein: 2
+Dorit Borrmann: 2
+Andreas Nüchter: 2
+Gunther Notni: 2
+Thomas Whelan: 2
+William T.C. Neale: 2
+Jason Hochreiter: 2
+Arjun Nagendran: 2
+Laura Gonzalez: 2
+Brian Curless: 2
+Steven M. Seitz: 2
+Hongen Liao: 2
+Bailin Deng: 2
+Michael Wimmer: 2
+Wojciech Jarosz: 2
+Steve Dixon: 2
+Mariko Isogawa: 2
+Hanspeter Pfister: 2
+Sameh Khamis: 2
+Yury Degtyarev: 2
+Adarsh Kowdle: 2
+Christoph Rhemann: 2
+Vladimir Tankovich: 2
+Stephen Brewster: 2
+Julien Valentin: 2
+Matthew J. Conway: 2
+Ya-Ting Yue: 2
+Gang Ren: 2
+Wenping Wang: 2
+Stefanie Mueller: 2
+Shunji Kiuchi: 2
+Billy Chen: 2
+Mark Horowitz: 2
+Hirotsugu Yamamoto: 2
+Shiro Suyama: 2
+C. Jaynes: 2
+S. Webb: 2
+R.M. Steele: 2
+Anatole Lécuyer: 2
+Ferran Argelaguet: 2
+Maud Marchal: 2
+Yuichi Hirano: 2
+Asako Kimura: 2
+Fumihisa Shibata: 2
+Hideyuki Tamura: 2
+Matthias Harders: 2
+Alison King: 2
+Richard D. Gilson: 2
+Elizabeth S. Redden: 2
+Kerstin Dautenhahn: 2
+Kenneth E. Torrance: 2
+Stephen R. Marschner: 2
+Stéphane Safin: 2
+Lamberto Piron: 2
+Andrea Turolla: 2
+Paolo Tonin: 2
+Margot Brereton: 2
+Petra Badke-Schaub: 2
+Susan R. Fussell: 2
+John C. Tang: 2
+Richard Keiser: 2
+Naoki Kawakami: 2
+Steve Benford: 2
+Michael Kolomenkin: 2
+Ilan Shimshoni: 2
+Christophe Schlick: 2
+Bruce Cairns: 2
+Shunichi Kasahara: 2
+Valentin Heun: 2
+Lucia A. Cherep: 2
+Alex F. Lim: 2
+Jonathan W. Kelly: 2
+Alec G. Ostrander: 2
+Stephen B. Gilbert: 2
+José Santos-Victor: 2
+Jesper Haglund: 2
+Fredrik Jeppsson: 2
+Konrad J. Schönborn: 2
+Charles Xie: 2
+Kouta Minamizawa: 2
+Irene Rae: 2
+Carman Neustaedter: 2
+Raymond Matthews: 1
+Linda Grosser: 1
+Markus Broecker: 1
+Hans Kueffner-McCauley: 1
+Wallace Lages: 1
+Doug Bowman: 1
+Vimal Dhokia: 1
+Etienne Capron: 1
+Yundong Guo: 1
+Shu-Chuan Chu: 1
+Zhenyu Liu: 1
+Chan Qiu: 1
+Hao Luo: 1
+Jianrong Tan: 1
+C. Masclet: 1
+J.-F. Boujut: 1
+M. Poulin: 1
+Laetitia Baldaccino: 1
+Andreas Hillenbrand: 1
+Philipp Kranz: 1
+Tobias Kaupp: 1
+Hye-Jun Lee: 1
+Hyung-Gi Kim: 1
+Dongil Han: 1
+Markus Salo: 1
+Leith K. Y. Chan: 1
+Henry Y. K. Lau: 1
+Çelebi Uluyol: 1
+Marco Anisetti: 1
+Paolo Ceravolo: 1
+Ernesto Damiani: 1
+Misa Ivkovic: 1
+Thuong Hoang: 1
+Martin Reinoso: 1
+Zaher Joukhadar: 1
+Frank Vetere: 1
+David Kelly: 1
+Berna Ekim: 1
+Yixuan Jin: 1
+JoonOh Seo: 1
+Jin Gang Lee: 1
+Seungjun Ahn: 1
+SangUk Han: 1
+Kai Wang: 1
+Mark Livingston: 1
+Pedro Tavares: 1
+Carlos M. Costa: 1
+Luís Rocha: 1
+Pedro Malaca: 1
+Pedro Costa: 1
+António P. Moreira: 1
+Armando Sousa: 1
+Germano Veiga: 1
+Daniel Bambusek: 1
+Jens Emil Grønbæk: 1
+Morten Birk: 1
+Eslam Nofal: 1
+Robin Stevens: 1
+Thomas Coomans: 1
+Steve Cramer: 1
+Cristina V. Lopes: 1
+Markus Leuschner: 1
+Nicolas Rodier: 1
+Nicolas Palard: 1
+Ryo Koishihara: 1
+Sora Hisaichi: 1
+Kiwamu Sumino: 1
+Kunihiro Ueda: 1
+Hidenori Kasebe: 1
+Tohru Yamashita: 1
+Takeshi Yuasa: 1
+Uwe Lippmann: 1
+Petra Aswendt: 1
+Roland Höfling: 1
+Austin Shaw: 1
+John Colette: 1
+Danielle Shaw: 1
+Bin Xu: 1
+Zhiyong Yang: 1
+Shan Jiang: 1
+Zeyang Zhou: 1
+Bowen Jiang: 1
+Shiwu Yin: 1
+Nammee Moon: 1
+Min Hong: 1
+Sung-Dae Hong: 1
+Rajkumar Darbar: 1
+Thibault Lainé: 1
+Federico Zannier: 1
+Injae Jo: 1
+Youjin Koh: 1
+Taewon Kim: 1
+Gopi Meenakshisundaram: 1
+Ningfeng Yang: 1
+Hirokazu Takata: 1
+Takashi Nakanishi: 1
+Makoto Kitaguchi: 1
+Semi Kim: 1
+Jaeyoung Kim: 1
+Hwanik Jo: 1
+Bonhwa Choi: 1
+Jungah Im: 1
+Junghwan Sung: 1
+Ryo Koizumi: 1
+Tommaso Empler: 1
+H. Oku: 1
+M. Nomura: 1
+K. Shibahara: 1
+A. Obara: 1
+Keita Ichihashi: 1
+Molly S. Murphy: 1
+Gu J. W. van Rhijn: 1
+Vito M. Manghisi: 1
+Daniele Spagnulo: 1
+Giuseppe L. Cascella: 1
+Shunya Fukuda: 1
+Adrian S. Johnson: 1
+Feederico Morosi: 1
+Jude Joseph Lamug Martinez: 1
+Bayu Prakoso Dirgantoro: 1
+Hsu-Hui Chang: 1
+Chun-Hung Chou: 1
+Pin-Hsien Tseng: 1
+Sebastian Słomiński: 1
+Magdalena Sobaszek: 1
+S. Balakrishnan: 1
+M.Syed Shahul Hameed: 1
+K Venkatesan: 1
+G Aswin: 1
+Yi He: 1
+Xiaojie Zheng: 1
+Asuka Yagami: 1
+Hideaki Kanai: 1
+YanXiang Zhang: 1
+YiRun Shen: 1
+WeiWei Zhang: 1
+ZiQiang Zhu: 1
+PengFei Ma: 1
+James Gopsill: 1
+Samad Roohi: 1
+Thiago Motta: 1
+Manuel Loaiza: 1
+Luciano Soares: 1
+Shane R. Porter: 1
+Markus M. Broecker: 1
+Benjamin Close: 1
+Taichi Watanabe: 1
+Yafei Dong: 1
+Fan Wang: 1
+Nikhita Joshi: 1
+Yi Zhou: 1
+Ning Tang: 1
+Zhiyong Wei: 1
+Xu Chen: 1
+Jérémy Frey: 1
+Sofia Kourkoulakou: 1
+Masatoshi Iuchi: 1
+Yuito Hirohashi: 1
+Lucas Thies: 1
+A. Grundhöfer: 1
+Andy D. Wilson: 1
+Yuta Halvorson: 1
+Takumi Saito: 1
+Dinh Quang Huy: 1
+I. Vietcheslav: 1
+Gerald Seet Gim Lee: 1
+Maura Mengoni: 1
+Silvia Ceccacci: 1
+Andrea Generosi: 1
+Alma Leopardi: 1
+Tiffany Lee: 1
+Ivan Shindev: 1
+Michiel de Looze: 1
+Christian Tonn: 1
+Frank Petzold: 1
+Dirk Donath: 1
+Min Ki Park: 1
+Kyu Je Lim: 1
+Myoung Kook Seo: 1
+Soon Jong Jung: 1
+Marco Gaspardone: 1
+Woodrow Barfield: 1
+Craig Rosenberg: 1
+Jose Miguel Mota: 1
+Ruben Baena-Perez: 1
+Ivan Ruiz-Rube: 1
+M. Jesus Paredes Duarte: 1
+Antonio Ruiz-Castellanos: 1
+Jose Maria Correro-Barquin: 1
+Fatma Ben Guefrech: 1
+Adam Gomes: 1
+Keegan Fernandes: 1
+David Wang: 1
+Eugene San Lorenzo: 1
+Xaviéra Calixte: 1
+Patrick Oswald: 1
+Jordi Tost: 1
+Brett Ridel: 1
+Shohei Sakamaki: 1
+Sandy Walker: 1
+Laura Corchia: 1
+Federica Faggiano: 1
+Eduard Jundt: 1
+Karljohan Lundin Palmerius: 1
+Konrad Schönborn: 1
+David Feng: 1
+Bjorn Schwerdtfeger: 1
+Harold Pashler: 1
+Fred Paas: 1
+Juhani E. Tuovinen: 1
+Huib Tabbers: 1
+Pascal W. M. Van Gerven: 1
+U. Neumann: 1
+A. Majoros: 1
+Glenn S. Sanders: 1
+Robert S. Baron: 1
+Rajesh P. N. Rao: 1
+Dana H. Ballard: 1
+Michael I. Posner: 1
+Robert Desimone: 1
+John Duncan: 1
+M. Steinberger: 1
+M. Waldner: 1
+M. Streit: 1
+A. Lex: 1
+Leandro L. Di Stasi: 1
+Carolina Diaz-Piedra: 1
+Juan Suárez: 1
+Michael B. McCamy: 1
+Susana Martinez-Conde: 1
+Joaquín Roca-Dorda: 1
+Andrés Catena: 1
+Blair Macintyre: 1
+Dorée Seligmann: 1
+Laurent Perrinet: 1
+Michael Breakspear: 1
+Steffen Gauglitz: 1
+Cha Lee: 1
+Rick Grush: 1
+Andre M. Bastos: 1
+W. Martin Usrey: 1
+Rick A. Adams: 1
+George R. Mangun: 1
+Pascal Fries: 1
+Karl J. Friston: 1
+C. Furmanski: 1
+Tirin Moore: 1
+Marc Zirnsak: 1
+Seung Youb Ssin: 1
+Neven A. M. ElSayed: 1
+David P. Webb: 1
+Timothy M. Simon: 1
+Mark Kohler: 1
+Christopher R. Davis: 1
+Lorne K. Rosenfield: 1
+T.P. Caudell: 1
+D.W. Mizell: 1
+Daniel Andersen: 1
+Voicu Popescu: 1
+Maria Eugenia Cabrera: 1
+Aditya Shanghavi: 1
+Gerardo Gomez: 1
+Sherri Marley: 1
+Brian Mullis: 1
+Juan Wachs: 1
+Stewart Shipp: 1
+Karl J. Friston: 1
+Jason Wither: 1
+Jun Izawa: 1
+Reza Shadmehr: 1
+Li-Chen Wu: 1
+I-Chen Lin: 1
+Ming-Han Tsai: 1
+Raphael Hoffmann: 1
+Daniel S. Weld: 1
+Naohiro Kishishita: 1
+Paul Ayres: 1
+Slava Kalyuga: 1
+Valeria Orso: 1
+Jacob Boesen Madsen: 1
+Claus B. Madsen: 1
+Raymond M. Klein: 1
+Nadia Lopez: 1
+Fred H. Previc: 1
+Joseph Fischer: 1
+Richard P. Heitz: 1
+Randall W. Engle: 1
+Patricia A. LeDuc: 1
+John A. Caldwell: 1
+Peggy S. Ruyak: 1
+Clete A. Kushida: 1
+Jen-Shuo Liu: 1
+Carmine Elvezio: 1
+Barbara Tversky: 1
+Julian Lim: 1
+Michael G. Lenné: 1
+Thomas J. Triggs: 1
+Jennifer R. Redman: 1
+Megan E. Jewett: 1
+Derk-Jan Dijk: 1
+Florian Jasche: 1
+Sven Hoffmann: 1
+Thomas Ludwig: 1
+Volker Wulf: 1
+M. P. JOHNSON: 1
+J. F. DUFFY: 1
+D. J. DIJK: 1
+J. M. RONDA: 1
+C. M. DYAL: 1
+C. A. CZEISLER: 1
+Pauline K. Arnold: 1
+Laurence R. Hartley: 1
+Angela Corry: 1
+David Hochstadt: 1
+Fulvio Penna: 1
+Anne Marie Feyer: 1
+William Harris: 1
+Devon A. Grant: 1
+Kimberly A. Honn: 1
+Matthew E. Layton: 1
+Samantha M. Riedy: 1
+Hans P. A. Van Dongen: 1
+Shelley Hershner: 1
+Ron Chervin: 1
+Diana R. Haslam: 1
+Roberto Refinetti: 1
+Michael Menaker: 1
+A M Williamson: 1
+NANCY J. WESENSTEN: 1
+WILLIAM D. S. KILLGORE: 1
+THOMAS J. BALKIN: 1
+J. Waterhouse: 1
+G. Atkinson: 1
+B. Edwards: 1
+T. Reilly: 1
+D. Wagner: 1
+Ron Schey: 1
+Ram Dickman: 1
+Sairam Parthasarathy: 1
+Stuart F. Quan: 1
+Christopher Wendel: 1
+Jonah Merchant: 1
+Jeannette Powers: 1
+Bing Han: 1
+Daniel van Handel: 1
+Thomas Bollinger: 1
+Annalena Bollinger: 1
+Henrik Oster: 1
+Werner Solbach: 1
+Michael H. Bonnet: 1
+Thomas J. Balkin: 1
+Timothy Roehrs: 1
+Naomi L. Rogers: 1
+Nancy J. Wesensten: 1
+Mary Chipman: 1
+Yue Lena Jin: 1
+Charles A. Czeisler: 1
+Michael P. Johnson: 1
+Jeanne F. Duffy: 1
+Emery N. Brown: 1
+Joseph M. Ronda: 1
+David Darwent: 1
+Charli Sargent: 1
+Gemma M. Paech: 1
+Louise Williams: 1
+Drew Dawson: 1
+Greg D. Roach: 1
+John W. Powell: 1
+Daniel Mollicone: 1
+Douglas Bates: 1
+Martin Mächler: 1
+Ben Bolker: 1
+Steve Walker: 1
+Joshua Rubinstein: 1
+M. T. Purnell: 1
+A.-M. Feyer: 1
+G. P. Herbison: 1
+Alex Chatburn: 1
+Mary A. Carskadon: 1
+Kurt Lushington: 1
+June J. Pilcher: 1
+Allen I. Huffcutt: 1
+David Penetar: 1
+Una McCann: 1
+David Thorne: 1
+Gary Kamimori: 1
+Cynthia Galinski: 1
+Helen Sing: 1
+Maria Thomas: 1
+Gregory Belenky: 1
+TIMOTHY MONK: 1
+DANIEL BUYSSE: 1
+CHARLES REYNOLDS III: 1
+SARAH BERGA: 1
+DAVID JARRETT: 1
+AMY BEGLEY: 1
+DAVID KUPFER: 1
+Anastasi Kosmadopoulos: 1
+Gregory D. Roach: 1
+Charles M Morin: 1
+Ruth Benca: 1
+Thomas Porter: 1
+Loren Carpenter: 1
+Ronald T. Azuma: 1
+Steven G. Parker: 1
+Austin Robison: 1
+Martin Stich: 1
+James Bigler: 1
+Andreas Dietrich: 1
+Heiko Friedrich: 1
+Jared Hoberock: 1
+David McAllister: 1
+Keith Morley: 1
+Mark R. Mine: 1
+David Rose: 1
+Bei Yang: 1
+Hans Kueffner-Mccauley: 1
+Manuel A. Ruiz Garcia: 1
+Rafael Rojas: 1
+Luca Gualtieri: 1
+Dominik Matt: 1
+Mathias Schmitt: 1
+Matthias Loskyll: 1
+Detlef Zuhlke: 1
+Robin Sochor: 1
+Lorenz Kraus: 1
+Lukas Merkel: 1
+Stefan Braunreuther: 1
+Gunther Reinhart: 1
+Marco Bortolini: 1
+Emilio Ferrari: 1
+Mauro Gamberi: 1
+Francesco Pilati: 1
+Maurizio Faccio: 1
+Santosh Divvala: 1
+Ross Girshick: 1
+Oliver Korn: 1
+Christoph Krieger: 1
+Jonas Blattgerste: 1
+Benjamin Strenge: 1
+Kai Essig: 1
+Scott W. Greenwald: 1
+John Snyder: 1
+Deepak Bandyopadhyay: 1
+D. Danch: 1
+P. Kapakos: 1
+Chao Chen: 1
+Joshua Nasman: 1
+J. Bowskill: 1
+N. Dyer: 1
+J. Morphett: 1
+Marcus Haupt: 1
+Eliot Solomon: 1
+Charles Ambrosino: 1
+Vincent Guillon: 1
+Ash Amin: 1
+Bjørn Asheim: 1
+Pierre-Alexandre Balland: 1
+Cristian Jara-Figueroa: 1
+Sergio G. Petralia: 1
+Mathieu P. A. Steijn: 1
+David L. Rigby: 1
+César A. Hidalgo: 1
+Rafael Boix: 1
+Francesco Capone: 1
+Lisa De Propris: 1
+Luciana Lazzeretti: 1
+Daniel Sanchez: 1
+Ronald S. Burt: 1
+Ignasi Capdevila: 1
+James S. Coleman: 1
+Jeroen Content: 1
+Philip Cooke: 1
+Joan Crespo: 1
+Denis Réquier-Desjardins: 1
+Jérôme Vicente: 1
+J. Crespo: 1
+R. Suire: 1
+J. Vicente: 1
+Mila Davids: 1
+Frank Van Oort: 1
+Thijs Verburg: 1
+Roger V. Gould: 1
+Roberto M. Fernandez: 1
+Oliver Ibert: 1
+Saskia Flohr: 1
+Mark Granovetter: 1
+Peter M. Haas: 1
+Matthijs J Janssen: 1
+Candace Jones: 1
+William S. Hesterly: 1
+Stephen P. Borgatti: 1
+Robert C. Kloosterman: 1
+Jean Lave: 1
+Etienne Wenger: 1
+David Lazer: 1
+Allan Friedman: 1
+Elizabeth Long Lingo: 1
+Siobhán O'Mahony: 1
+Roman Martin: 1
+Jerker Moodysson: 1
+Vojkan Nedkovski: 1
+Marco Guerci: 1
+Bart Nooteboom: 1
+David Obstfeld: 1
+Norma M. Rantisi: 1
+Norma M Rantisi: 1
+Deborah Leslie: 1
+Andrés Rodríguez-Pose: 1
+Neil Lee: 1
+Nathalie Schieb-Bienfait: 1
+Anne-Laure Saives: 1
+Brigitte Charles-Pauvers: 1
+Elke Schüßler: 1
+Gordon Müller-Seitz: 1
+Allen John Scott: 1
+Silvia Rita Sedita: 1
+Ivan De Noni: 1
+Luciano Pilotti: 1
+M. Storper: 1
+A. J. Venables: 1
+Raphael Suire: 1
+Jerome Vicente: 1
+André Torre: 1
+Brian Uzzi: 1
+Jarrett Spiro: 1
+Linda Wilks: 1
+Dominikus Baur: 1
+Andrew Bragdon: 1
+Rob DeLine: 1
+Meredith Ringel Morris: 1
+Robert Hardy: 1
+Juan David Hincapié-Ramos: 1
+Kasim Ozacar: 1
+Yoshifumi Kitamura: 1
+Brett Jones: 1
+Michael Murdock: 1
+Ravish Mehra: 1
+Nikunj Raghuvanshi: 1
+Lior Shapira: 1
+Andreas Bayer: 1
+Steven Shafer: 1
+Marko Jurmu: 1
+J. Cashion: 1
+C. Wingrave: 1
+J. J. LaViola: 1
+Yeonjoo Cha: 1
+Rohae Myung: 1
+Pierre Geurts: 1
+Damien Ernst: 1
+Louis Wehenkel: 1
+J. L. Hodges: 1
+Regis Kopper: 1
+Doug A. Bowman: 1
+Mara G. Silva: 1
+Ryan P. McMahan: 1
+David E. Meyer: 1
+Richard A. Abrams: 1
+Sylvan Kornblum: 1
+Charles E. Wright: 1
+J. E. Keith Smith: 1
+Raul Mur-Artal: 1
+Juan D. Tardos: 1
+Atsuo Murata: 1
+Hirokazu Iwase: 1
+Dzmitry Aliakseyeu: 1
+Mathieu Nancel: 1
+Emmanuel Pietriga: 1
+Olivier Chapuis: 1
+Michel Beaudouin-Lafon: 1
+Peter Ondruska: 1
+Goshiro YAMAMOTO: 1
+Luiz SAMPAIO: 1
+Takafumi TAKETOMI: 1
+Christian SANDOR: 1
+Hirokazu KATO: 1
+Tomohiro KURODA: 1
+Manja Seeger: 1
+Ferry Hantsch: 1
+Shogo Fukushima: 1
+Tsutomu Kusanagi: 1
+Montek Singh: 1
+Ian E. McDowall: 1
+Mark T. Bolas: 1
+Perry Hoberman: 1
+Scott S. Fisher: 1
+Geraldo Silveira: 1
+Ezio Malis: 1
+Simon Baker: 1
+Iain Matthews: 1
+Amit H. Bermano: 1
+Markus Billeter: 1
+Genta Suzuki: 1
+Shigeyoshi Nakamura: 1
+Hirotaka Chiba: 1
+S. Benhimane: 1
+E. Malis: 1
+D. Cotting: 1
+M. Naef: 1
+Wakana Oshiro: 1
+Matt Cutts: 1
+Adam Lake: 1
+Lev Stesin: 1
+Saleem Alhabash: 1
+Anna R. McAlister: 1
+Chen Lou: 1
+Amy Hagerstrom: 1
+Isabel Rubió: 1
+Soledad Quero: 1
+Azucena García-Palacios: 1
+Rajeev Batra: 1
+Michael L. Ray: 1
+Elizabeth Behm-Morawitz: 1
+Luca Chittaro: 1
+Riccardo Sioni: 1
+Cristiano Crescentini: 1
+Franco Fabbro: 1
+Fábio R. De Miranda: 1
+Cláudio E. S. Bueno: 1
+Lucas P. Trias: 1
+JAMES PRICE DILLARD: 1
+EUGENIA PECK: 1
+Mohan J. Dutta-Bergman: 1
+Sherine El-Toukhy: 1
+Sherry Emery: 1
+Yoonsang Kim: 1
+Young Ku Choi: 1
+Glen Szczypka: 1
+Melanie Wakefield: 1
+Frank J. Chaloupka: 1
+Matthew C. Farrelly: 1
+Jennifer C. Duke: 1
+Kevin C. Davis: 1
+James M. Nonnemaker: 1
+Kian Kamyab: 1
+Jeffrey G. Willett: 1
+Harlan R. Juster: 1
+David Hammond: 1
+Geoffrey T. Fong: 1
+Paul W. McDonald: 1
+K. Stephen Brown: 1
+Roy Cameron: 1
+Andrew F. Hayes: 1
+Carrie Heeter: 1
+Shigemi Iriyama: 1
+Shinji Nakahara: 1
+Masamine Jimba: 1
+Masao Ichikawa: 1
+Susumu Wakai: 1
+Eui Jun Jeong: 1
+Corey J. Bohil: 1
+Jeremy Kees: 1
+Scot Burton: 1
+J. Craig Andrews: 1
+John Kozup: 1
+Sang-Yeon Kim: 1
+Timothy R. Levine: 1
+Sung Yeun (Su) Kim: 1
+Nathan Prestopnik: 1
+Jane Lessiter: 1
+Edmund Keogh: 1
+Jules Davidoff: 1
+George F. Loewenstein: 1
+Elke U. Weber: 1
+Christopher K. Hsee: 1
+Ned Welch: 1
+Sheila T. Murphy: 1
+Lauren B. Frank: 1
+Joyee S. Chatterjee: 1
+Lourdes Baezconde-Garbanati: 1
+Robin Nabi: 1
+Robin L. Nabi: 1
+Fabrizia Mantovani: 1
+Claret Samantha Capideville: 1
+Alessandra Preziosa: 1
+Francesca Morganti: 1
+Daniela Villani: 1
+Andrea Gaggioli: 1
+Ronald W. Rogers: 1
+Edward F. Schneider: 1
+Thomas Schubert: 1
+Frank Friedmann: 1
+Holger Regenbrecht: 1
+Erwin Seyde: 1
+Erik Taal: 1
+Oene Wiegman: 1
+DHAVAN V. SHAH: 1
+RONALD J. FABER: 1
+SEOUNMI YOUN: 1
+Lijiang Shen: 1
+James Price Dillard: 1
+Jiyeon So: 1
+Kevin M. Sweet: 1
+Sharla K. Willis: 1
+Sato Ashida: 1
+Judith A. Westman: 1
+D.W.F. Van Krevelen: 1
+R. Poelman: 1
+Neil D. Weinstein: 1
+Kevin D. Williams: 1
+Bob G. Witmer: 1
+Michael J. Singer: 1
+KIM WITTE: 1
+Judy M. Berkowitz: 1
+Kenzie A. Cameron: 1
+Janet K. McKeon: 1
+Hsin-Kai Wu: 1
+Silvia Wen-Yu Lee: 1
+Hsin-Yi Chang: 1
+Jyh-Chong Liang: 1
+R. Behringer: 1
+S. Julier: 1
+F. Coriand: 1
+A. Kleppe: 1
+S. Zollmann: 1
+T. Langlotz: 1
+M. Kojima: 1
+M. Sugimoto: 1
+A. Nakamura: 1
+M. Tomita: 1
+H. Nii: 1
+Robert Krempien: 1
+Harald Hoppe: 1
+Lüder Kahrs: 1
+Sascha Daeuber: 1
+Oliver Schorr: 1
+Georg Eggers: 1
+Marc Bischof: 1
+Marc W. Munter: 1
+Juergen Debus: 1
+Wolfgang Harms: 1
+S.A. Nicolau: 1
+X. Pennec: 1
+L. Soler: 1
+X. Buy: 1
+A. Gangi: 1
+N. Ayache: 1
+J. Marescaux: 1
+H. Regenbrecht: 1
+G. Baratoff: 1
+W. Wilke: 1
+Björn Schwerdtfeger: 1
+Daniel Pustka: 1
+Andreas Hofhauser: 1
+Peter Henry: 1
+Michael Krainin: 1
+Evan Herbst: 1
+Xiaofeng Ren: 1
+Stephen Lin: 1
+S. Thrun: 1
+W. Burgard: 1
+D. Fox: 1
+Etienne Vouga: 1
+Anton Gudym: 1
+Linjie Luo: 1
+Jonathan T. Barron: 1
+Gleb Gusev: 1
+Carsten Stoll: 1
+Pablo Garrido: 1
+Levi Valgaert: 1
+Xiaolin Wei: 1
+Peizhao Zhang: 1
+Jinxiang Chai: 1
+Ronald L. Iman: 1
+Alexandru Telea: 1
+Takuya Nojima: 1
+Hiroyuki Kajimoto: 1
+Hiroki Nozaki: 1
+Raymond Oung: 1
+Raffaello D’Andrea: 1
+Ismo Rakkolainen: 1
+Jan Landkammer: 1
+Markku Laitinen: 1
+Mika Piirto: 1
+Karri Palovuori: 1
+Stefan Schneegass: 1
+Florian Alt: 1
+Asuka Yagi: 1
+Yoshihiro Kuroda: 1
+J. Batlle: 1
+E. Mouaddib: 1
+J. Salvi: 1
+Peter C. Barnum: 1
+Edward Joyce: 1
+Nathalie Bonnardel: 1
+Franck Zenasni: 1
+Eric Blanco: 1
+Niccolo Becattini: 1
+Millissa F.Y. Cheung: 1
+W.M. To: 1
+Bo T. Christensen: 1
+Christian D. Schunn: 1
+Patrick D’Astous: 1
+Françoise Détienne: 1
+Pierre N. Robillard: 1
+K. Anders Ericsson: 1
+John S. Gero: 1
+Thomas Mc Neill: 1
+Gabriela Goldschmidt: 1
+S. A. Gregory: 1
+Sarah Harvey: 1
+Chia-Yu Kou: 1
+Alain Jeantet: 1
+Kohler: 1
+Fueller: 1
+Matzler: 1
+Stieger: 1
+Füller: 1
+Janet L. Kolodner: 1
+Linda M. Wills: 1
+Per Kristensson: 1
+Marianthi Leon: 1
+Richard Laing: 1
+Mary Maher: 1
+Hsien-Hui Tang: 1
+Judi Ellis: 1
+Jeremy Roschelle: 1
+Stephanie D. Teasley: 1
+N.B. Lincoln: 1
+D. Willis: 1
+S.A. Philips: 1
+L.C. Juby: 1
+P. Berman: 1
+Heidi C. Fischer: 1
+Kathy Stubblefield: 1
+Tiffany Kline: 1
+Robert V. Kenyon: 1
+Derek G. Kamper: 1
+Dominic E. Nathan: 1
+Michelle J. Johnson: 1
+John R. McGuire: 1
+Atif Alamri: 1
+Abdulmotaleb El Saddik: 1
+Thomas A. Dyar: 1
+Lilian Dayan-Cimadoro: 1
+Dario Deponti: 1
+Dario Maggiorini: 1
+Claudio E. Palazzi: 1
+M. Zaeh: 1
+W. Vogl: 1
+Lucilla Dammacco: 1
+Francesca Ruospo: 1
+Alessandro Evangelista: 1
+Florian Schuster: 1
+Uwe Sponholz: 1
+Bastian Engelmann: 1
+Andreas Huber: 1
+Astrid Weiss: 1
+Jens Hegenberg: 1
+Daniel Wilhelm Schimpf: 1
+Nadja Fischer: 1
+Ludger Schmidt: 1
+George Pintzos: 1
+Loukas Rentzos: 1
+Arthur Tang: 1
+Charles Owen: 1
+Weimin Mou: 1
+Andreea Blaga: 1
+Levente Tamas: 1
+Aleksandros-Stereos Matthaiakis: 1
+Johanna Ender: 1
+Jan Cetric Wagner: 1
+Georg Kunert: 1
+Fang Bin Guo: 1
+Roland Larek: 1
+Thorsten Pawletta: 1
+Ales Vysocky: 1
+Petr Novak: 1
+Paul Bobka: 1
+Tomas Germann: 1
+Jakob K. Heyn: 1
+Roman Gerbers: 1
+Franz Dietrich: 1
+Klaus Dröder: 1
+Zsolt Kemény: 1
+Richárd Beregi: 1
+János Nacsa: 1
+Csaba Kardos: 1
+Dániel Horváth: 1
+Lars Johannsmeier: 1
+Amedeo Cesta: 1
+Andrea Orlandini: 1
+Alessandro Umbrico: 1
+Eunseo Lee: 1
+Andre Barthelmey: 1
+Thorsten Reckelkamm: 1
+Hyunchul Kang: 1
+Jiyeon Son: 1
+Susanna Nilsson: 1
+Björn Johansson: 1
+Oscar Danielsson: 1
+Anna Syberfeldt: 1
+Rodney Brewster: 1
+Sylvain Haudegond: 1
+Clémentine Havrez: 1
+Christophe Kolski: 1
+Yoann Lebrun: 1
+Sophie Lepreux: 1
+Aurélien Libessart: 1
+Raine Kajastila: 1
+Leo Holsti: 1
+Perttu Hämäläinen: 1
+J. Scholtz: 1
+S. Consolvo: 1
+D. Saha: 1
+A. Mukherjee: 1
+D. Hix: 1
+M.A. Livingston: 1
+T.H. Hollerer: 1
+S.J. Julier: 1
+D. Brown: 1
+Chin-Lung Hsu: 1
+Hsi-Peng Lu: 1
+Huei-Hsia Hsu: 1
+Noam Tractinsky: 1
+Sarah Diefenbach: 1
+Anja Göritz: 1
+Gabriel Takacs: 1
+Vijay Chandrasekhar: 1
+Natasha Gelfand: 1
+Yingen Xiong: 1
+Thanos Bismpigiannis: 1
+Radek Grzeszczuk: 1
+Bernd Girod: 1
+Tuomas Vaittinen: 1
+Tuula Kärkkäinen: 1
+Maribeth Gandy: 1
+Chris Alvarez: 1
+Elsa Eiriksdottir: 1
+Matthew Hilimire: 1
+Brian Davidson: 1
+Tim Kindberg: 1
+S Karpischek: 1
+F Michahelles: 1
+Rich Gold: 1
+Venkatesh: 1
+Morris: 1
+Eric Klopfer: 1
+Kurt Squire: 1
+Tobias Kowatsch: 1
+Wolfgang Maass: 1
+Kalle Lyytinen: 1
+Jan Damsgaard: 1
+Ann Morrison: 1
+Peter Peltonen: 1
+Saija Lemmela: 1
+Jaana Näsänen: 1
+Antti Juustila: 1
+Peter Fröhlich: 1
+Matthias Baldauf: 1
+Antti Nurminen: 1
+Icek Ajzen: 1
+Fred D. Davis: 1
+Y. Ayatsuka: 1
+K. Hayashi: 1
+Evan Barba: 1
+Rebecca Rouse: 1
+Jay Bolter: 1
+Andreas Dünser: 1
+Raphaël Grasset: 1
+B. Scales: 1
+Eric A. Bier: 1
+Maureen C. Stone: 1
+Ken Pier: 1
+William Buxton: 1
+Tony D. DeRose: 1
+Ed Lantz: 1
+Martin Spindler: 1
+Sophie Stellmach: 1
+Raimund Dachselt: 1
+Feng Zhou: 1
+Henry Been-Lirn Duh: 1
+F. Ababsa: 1
+M. Mallem: 1
+Jonas Nilsson: 1
+Anders C. E. Odblom: 1
+Jonas Fredriksson: 1
+Adeel Zafar: 1
+Fahim Ahmed: 1
+Anton Fuhrmann: 1
+Gerd Hesina: 1
+Liyan Chang: 1
+Jae-Young Lee: 1
+Seok-Han Lee: 1
+Hyung-Min Park: 1
+Sang-Keun Lee: 1
+Jong-Soo Choi: 1
+Jun-Sik Kwon: 1
+Li Yi-bo: 1
+Kang Shao-peng: 1
+Qiao Zhi-hua: 1
+Zhu Qiong: 1
+George Papagiannakis: 1
+Gurminder Singh: 1
+Nadia Magnenat-Thalmann: 1
+Tsuyoshi Kuroki: 1
+Chaochi Chang: 1
+Sean White: 1
+Levi Lister: 1
+Nicholas Cooper: 1
+Aaron Keatley: 1
+Maria Dahlquist: 1
+Simon Mann: 1
+Hannah Slay: 1
+Joanne Zucco: 1
+Ross Smith: 1
+C. Sandor: 1
+B. Bell: 1
+Salvatore Sorce: 1
+Agnese Augello: 1
+Antonella Santangelo: 1
+Antonio Gentile: 1
+Alessandro Genco: 1
+Salvatore Gaglio: 1
+Giovanni Pilato: 1
+Felix Wimmer: 1
+Sandro Michael Heining: 1
+T. Kline: 1
+H.C. Fischer: 1
+K.A. Stubblefield: 1
+R.V. Kenyon: 1
+D.G. Kamper: 1
+Hidetomo Takahashi: 1
+Shun Shimazaki: 1
+Toshikazu Kawashima: 1
+Takintope Akinbiyi: 1
+Carol E. Reiley: 1
+Sunipa Saha: 1
+Darius Burschka: 1
+Christopher J. Hasser: 1
+T. Miyashita: 1
+P. Meier: 1
+T. Tachikawa: 1
+S. Orlic: 1
+T. Eble: 1
+V. Scholz: 1
+A. Gapel: 1
+O. Gerl: 1
+S. Arnaudov: 1
+S. Lieberknecht: 1
+B. Brombach: 1
+Guido Maria Re: 1
+Theodoros N. Arvanitis: 1
+Argeroula Petrou: 1
+James F. Knight: 1
+Stavros Savas: 1
+Sofoklis Sotiriou: 1
+Michael Gargalakos: 1
+Elpida Gialouri: 1
+Brandon Stutzman: 1
+David Nilsen: 1
+Tanner Broderick: 1
+Jeremiah Neubert: 1
+Enrico Costanza: 1
+Samuel A. Inverso: 1
+Elan Pavlov: 1
+Rebecca Allen: 1
+Volker Coors: 1
+Ulrike Spierling: 1
+Dieter Grasbon: 1
+Isabel Rojas: 1
+Brian T. Bethea: 1
+Masaya Kitagawa: 1
+Torin P. Fitton: 1
+Stephen M. Cattaneo: 1
+Vincent L. Gott: 1
+William A. Baumgartner: 1
+L. Gallo: 1
+A. Minutolo: 1
+G. De Pietro: 1
+M Hara: 1
+S Shokur: 1
+A Yamamoto: 1
+T Higuchi: 1
+R Gassert: 1
+H Bleuler: 1
+Hüseyin Miraç Pektaş: 1
+Mehmet Akif Ocak: 1
+Alexandru BALOG: 1
+Costin PRIBEANU: 1
+Marie Bodén: 1
+Andrew Dekker: 1
+Stephen Viller: 1
+Ben Matthews: 1
+Matt Bower: 1
+Cathie Howe: 1
+Nerida McCredie: 1
+Austin Robinson: 1
+David Grover: 1
+Su Cai: 1
+Xu Wang: 1
+Feng-Kuang Chiang: 1
+Ling-Yi Lin: 1
+Che Samihah Che Dalim: 1
+Hoshang Kolivand: 1
+Huda Kadhim: 1
+Mohd Shahrizal Sunar: 1
+Lizbeth Escobedo: 1
+Eduardo Quintana: 1
+Jesus Favela: 1
+Daniel Garcia-Rosas: 1
+Sevda Küçük: 1
+Samet Kapakin: 1
+Yüksel Göktaş: 1
+Jorge Martín-Gutiérrez: 1
+Peña Fabiani: 1
+Wanda Benesova: 1
+María Dolores Meneses: 1
+Carlos E. Mora: 1
+Christian Moro: 1
+Zane Štromberga: 1
+Athanasios Raikos: 1
+Allan Stirling: 1
+Muhammad Arief Nazaruddin: 1
+Mohammad Efendi: 1
+Fezile Ozdamli: 1
+Cigdem Hursen: 1
+Bennie G.P. Lindeque: 1
+Brent A. Ponce: 1
+Mariano E. Menendez: 1
+Lasun O. Oladeji: 1
+Charles T. Fryberger: 1
+Phani K. Dantuluri: 1
+Gustavo Salvador-Herranz: 1
+David Perez-Lopez: 1
+Mario Ortega: 1
+Emilio Soto: 1
+Mariano Alcaniz: 1
+Missie Smith: 1
+Gary Burnett: 1
+Nadejda Doutcheva: 1
+Michael Bajura: 1
+Ryutarou Ohbuchi: 1
+Daeun Lee: 1
+Sanne M. B. I. Botden: 1
+Jack J. Jakimowicz: 1
+Michael W.A. Chu: 1
+John Moore: 1
+Terry Peters: 1
+Daniel Bainbridge: 1
+David McCarty: 1
+Gerard M. Guiraudon: 1
+Chris Wedlake: 1
+Pencilla Lang: 1
+Martin Rajchl: 1
+Maria E. Currie: 1
+Richard C. Daly: 1
+Bob Kiaii: 1
+David Low: 1
+Cheng Kiang Lee: 1
+Lee Lian Tay Dip: 1
+Wai Hoe Ng: 1
+Beng Ti Ang: 1
+Ivan Ng: 1
+Mohammad H Jamal: 1
+Stephanie Wong: 1
+Thomas V Whalen: 1
+Cornelis J. Hopmans: 1
+Pieter T. den Hoed: 1
+Lijckle van der Laan: 1
+Erwin van der Harst: 1
+Maarten van der Elst: 1
+Guido H.H. Mannaerts: 1
+Imro Dawson: 1
+Reinier Timman: 1
+Bas P.L. Wijnhoven: 1
+Jan N.M. IJzermans: 1
+Jannick P. Rolland: 1
+P. W. Gu: 1
+J. Zhang: 1
+M.C. Juan: 1
+C. Botella: 1
+M. Alcaniz: 1
+R. Banos: 1
+C. Carrion: 1
+M. Melero: 1
+J.A. Lozano: 1
+Deirdre Lawrence: 1
+Pebbles Fagan: 1
+Cathy L. Backinger: 1
+James T. Gibson: 1
+Anne Hartman: 1
+Valery Lemmens: 1
+Anke Oenema: 1
+Inge Klepp Knut: 1
+Johannes Brug: 1
+Thomas W. Schubert: 1
+Yung Kyun Choi: 1
+Gordon E. Miracle: 1
+Nick Yee: 1
+Jeremy Bailenson: 1
+Ki Joon Kim: 1
+S. Shyam Sundar: 1
+Werner Wirth: 1
+Saskia Böcking: 1
+Peter Vorderer: 1
+Christoph Klimmt: 1
+Holger Schramm: 1
+Timo Saari: 1
+Niklas Ravaja: 1
+Feliz Ribeiro Gouveia: 1
+Lutz Jäncke: 1
+Thomas Baumgartner: 1
+Petra Jäncke: 1
+Jeremy N. Bailenson: 1
+Jim Blascovich: 1
+Andrew C. Beall: 1
+Jack M. Loomis: 1
+Huib de Ridder: 1
+Don Bouwhuis: 1
+Ray Meddis: 1
+Don E. Pearson: 1
+Stephen L. Crites: 1
+Leandre R. Fabrigar: 1
+Richard E. Petty: 1
+Changjo Yoo: 1
+Deborah MacInnis: 1
+Nancy Rhodes: 1
+Mario Keer: 1
+Bas Putte: 1
+Peter Neijens: 1
+Jörg Henseler: 1
+Geoffrey Hubona: 1
+Pauline Ash Ray: 1
+Ian Yen-Hung Chen: 1
+Bruce MacDonald: 1
+Burkhard Wünsche: 1
+P. Dahne: 1
+J.N. Karigiannis: 1
+David Merrill: 1
+A. Feldman: 1
+E.M. Tapia: 1
+S. Sadi: 1
+P. Maes: 1
+C. Schmandt: 1
+I. Poupyrev: 1
+K. Imamoto: 1
+K. Tachibana: 1
+Byungsung Lee: 1
+Junchul Chun: 1
+Patricia P. Wang: 1
+Tao Wang: 1
+Dayong Ding: 1
+Yimin Zhang: 1
+Wenyuan Bi: 1
+Yingze Bao: 1
+Kevin W Eva: 1
+Carolien Kamphuis: 1
+Esther Barsom: 1
+Marlies Schijven: 1
+Noor Christoph: 1
+Kapil Sugand: 1
+Peter Abrahams: 1
+Ashish Khurana: 1
+Sophia Sakellariou: 1
+Ben M. Ward: 1
+Vassilis Charissis: 1
+David Chanock: 1
+Paul Anderson: 1
+Tobias Blum: 1
+Valerie Kleeberger: 1
+Tao Ni: 1
+Amy K. Karlson: 1
+Nancy Scala: 1
+Jonathan Klein: 1
+James Reed: 1
+Jeff Spitulnik: 1
+Steven J. Stratford: 1
+Scott Studer: 1
+Jim Eng: 1
+Raven Wallace: 1
+David Richardson: 1
+Ofer Ronen: 1
+Nathan Bos: 1
+Joseph Hoffman: 1
+Heather Eccleston Hunter: 1
+Dan Kiskis: 1
+Elisabeth Klann: 1
+Greg Peters: 1
+Stephen Maloney: 1
+Michael Storr: 1
+Sophie Paynter: 1
+Prue Morgan: 1
+Dragan Ilic: 1
+Paul G. McMenamin: 1
+Annie Piolat: 1
+Thierry Olive: 1
+Ronald T. Kellogg: 1
+Matthew Hackett: 1
+Michael Proctor: 1
+J. Ferrer-Torregrosa: 1
+J. Torralba: 1
+M. A. Jimenez: 1
+S. García: 1
+J. M. Barcia: 1
+Kathleen Luchini: 1
+Rachel Nuwer: 1
+Jan Meyer: 1
+Paul Lukowicz: 1
+Gerhard Troster: 1
+Marek Teichmann: 1
+Seth Teller: 1
+Doug L. James: 1
+Sevgi Ozkan: 1
+Refika Koseler: 1
+Nazife Baykal: 1
+Virginia Braun: 1
+Victoria Clarke: 1
+John Canny: 1
+Makoto Kimura: 1
+Daniel Moreno: 1
+Gurunandan Krishnan: 1
+Michael D. Grossberg: 1
+Steven Benkhardt: 1
+F. Sadlo: 1
+T. Weyrich: 1
+R. Peikert: 1
+S. Bougnoux: 1
+D. Bandyopadhyay: 1
+Shaoyi Du: 1
+Nanning Zheng: 1
+Lei Xiong: 1
+Shihui Ying: 1
+Jianru Xue: 1
+Jamil Drareni: 1
+Sebastien Roy: 1
+Hafeez Anwar: 1
+Irfanud Din: 1
+Kang Park: 1
+Marina Raineri: 1
+Simone Perri: 1
+Corrado Guarino Lo Bianco: 1
+Rudolph Triebel: 1
+Kai Arras: 1
+Rachid Alami: 1
+Lucas Beyer: 1
+Stefan Breuers: 1
+Raja Chatila: 1
+Mohamed Chetouani: 1
+Vanessa Evers: 1
+Michelangelo Fiore: 1
+Hayley Hung: 1
+Omar A. Islas Ramírez: 1
+Michiel Joosse: 1
+Harmish Khambhaita: 1
+Tomasz Kucner: 1
+Bastian Leibe: 1
+Timm Linder: 1
+Manja Lohse: 1
+Martin Magnusson: 1
+Billy Okal: 1
+Luigi Palmieri: 1
+Umer Rafi: 1
+Marieke van Rooij: 1
+Lu Zhang: 1
+John Lyle: 1
+Zeid Kootbally: 1
+Anthony Pietromartire: 1
+Marek Franaszek: 1
+Sebti Foufou: 1
+Vitor A.M. Jorge: 1
+Vitor F. Rey: 1
+Renan Maffei: 1
+Flora Branchi: 1
+João P. Meireles: 1
+Guilherme S. Franco: 1
+Flávia Farina: 1
+Tatiana S. da Silva: 1
+Mariana Kolberg: 1
+Vitor A. M. Jorge: 1
+Raj Madhavan: 1
+Angela Locoro: 1
+Paulo Goncalves: 1
+Marcos E. Barreto: 1
+Maki Habib: 1
+Abdelghani Chibani: 1
+Sébastien Gérard: 1
+Yacine Amirat: 1
+Annemarie Turnwald: 1
+Daniel Althoff: 1
+Dirk Wollherr: 1
+Martin Buss: 1
+Marcel Adam Just: 1
+Patricia A Carpenter: 1
+Marcel A. Just: 1
+Patricia A. Carpenter: 1
+Daniel Baldauf: 1
+Heiner Deubel: 1
+Aftab E. Patla: 1
+Joan N. Vickers: 1
+Mary M. Hayhoe: 1
+Constantin A. Rothkopf: 1
+B. W. Tatler: 1
+M. M. Hayhoe: 1
+M. F. Land: 1
+D. H. Ballard: 1
+Aftab Patla: 1
+Joan Vickers: 1
+Jelena Jovancevic-Misic: 1
+Mary Hayhoe: 1
+Fernando J. Kim: 1
+Rodrigo Donalisio da Silva: 1
+Diedra Gustafson: 1
+Wilson R. Molina: 1
+John Paulin Hansen: 1
+Marco Bertamini: 1
+Letizia Palumbo: 1
+Tamara Nicoleta Gheorghes: 1
+Mai Galatsidas: 1
+Moshe Bar: 1
+Maital Neta: 1
+Christine L. Larson: 1
+Joel Aronoff: 1
+Issidoros C. Sarinopoulos: 1
+David C. Zhu: 1
+Pieter Blignaut: 1
+Keith Rayner: 1
+Boyko Iliev: 1
+Bourhane Kadmiry: 1
+Yuqiuge Hao: 1
+Petri Helo: 1
+Ellen Yi-Luen Do: 1
+Raymond J. McCall: 1
+Wayne V. Citrin: 1
+Paul Hamill: 1
+Adrienne Warmack: 1
+Kyle S. Kuczun: 1
+Tamer El-Diraby: 1
+Thomas Krijnen: 1
+Manos Papagelis: 1
+Ying Wang: 1
+Ying Zhou: 1
+Mikael Johansson: 1
+Mattias Roupé: 1
+Petra Bosch-Sijtsema: 1
+Minho Oh: 1
+Sebastjan Meža: 1
+Žiga Turk: 1
+Matevž Dolenc: 1
+Donna R. Berryman: 1
+Min Basadur: 1
+Pam Pringle: 1
+Gwen Speranzini: 1
+Marie Bacot: 1
+Yehuda E. Kalay: 1
+Sungwon Jung: 1
+Claudia Calderon-Hernandez: 1
+G. Chryssolouris: 1
+D. Mourtzis: 1
+Jamie O’Hare: 1
+Mendy Mombeshora: 1
+Philippe Martens: 1
+Jean-Francois Boujut: 1
+Hyungjun Park: 1
+Hee-Cheol Moon: 1
+Francis Li: 1
+Hicham Sekkati: 1
+Jason Deglint: 1
+Christian Scharfenberger: 1
+Mark Lamm: 1
+David Clausi: 1
+John Zelek: 1
+Alexander Wong: 1
+Eria Chita: 1
+Yuta Sugiura: 1
+Sunao Hashimoto: 1
+Masa Ogata: 1
+Jun Nishida: 1
+Hikaru Takatori: 1
+Kenji Suzuki: 1
+Nami Ogawa: 1
+Sho Sakurai: 1
+Francesco Pavani: 1
+Umberto Castiello: 1
+Tadao Ichikawa: 1
+Masanori Saitoh: 1
+Thomas Seifried: 1
+Michael Haller: 1
+Stacey D. Scott: 1
+Florian Perteneder: 1
+Christian Rendl: 1
+Daisuke Sakamoto: 1
+Garth Shoemaker: 1
+Anthony Tang: 1
+Donald R. Lampton: 1
+Bruce W. Knerr: 1
+Stephen L. Goldberg: 1
+James P. Bliss: 1
+J. Michael Moshell: 1
+Brian S. Blau: 1
+Mark Mon-Williams: 1
+John P. Wann: 1
+Harvey S. Smallman: 1
+Robert M. Boynton: 1
+Cali Fidopiastis: 1
+Christopher Fuhrman: 1
+Catherine Meyer: 1
+Jannick Rolland: 1
+Robert C. Carter: 1
+Ellen C. Carter: 1
+Stuart Appelle: 1
+Russell L. Woods: 1
+Ivonne Fetchenheuer: 1
+Fernando Vargas-Martín: 1
+Eli Peli: 1
+Kazuho Arita: 1
+K. Kiyokawa: 1
+H. Takemura: 1
+Elin Rønby Pedersen: 1
+Kim McCall: 1
+Thomas P. Moran: 1
+Frank G. Halasz: 1
+O. Cakmakci: 1
+J. Rolland: 1
+Ari Shamash: 1
+Rose Mae M. Richardson: 1
+Ronald U. Telson: 1
+Christopher G. Koch: 1
+Susan T. Chrysler: 1
+Geoffrey Hinton: 1
+Tomoichi Takahashi: 1
+Fumio Kishino: 1
+Anthony Webster: 1
+Vassilios Vlahakis: 1
+John Karigiannis: 1
+Manolis Tsotros: 1
+Michael Gounaris: 1
+Luis Almeida: 1
+Didier Stricker: 1
+Tim Gleue: 1
+Ioannis T. Christou: 1
+Renzo Carlucci: 1
+Nikos Ioannidis: 1
+Thomas Pintaric: 1
+Alessandro Mulloni: 1
+Abigail Sellen: 1
+Tachio Terauchi: 1
+Gus Rashid: 1
+Drexel Hallaway: 1
+Aaron Stafford: 1
+Wayne Piekarski: 1
+Anders Henrysson: 1
+Mark Ollila: 1
+Thuong N. Hoang: 1
+Graham Thomas: 1
+Oliver Grau: 1
+Mads Hvilshøj: 1
+Simon Bøgh: 1
+Paul Westhead: 1
+Mike Wright: 1
+Deniz Ucbasaran: 1
+G.A. van Nederveen: 1
+F.P. Tolman: 1
+Bilal Succar: 1
+Shengyong Chen: 1
+Youfu Li: 1
+Ngai Ming Kwok: 1
+Ashish Doshi: 1
+Con Bouras: 1
+Niki Kousi: 1
+Christos Gkournelos: 1
+Konstantinos Dimoulas: 1
+Konstantinos Mparis: 1
+Apostolis Papavasileiou: 1
+I. Iglesias: 1
+M.A. Sebastián: 1
+J.E. Ares: 1
+Yanling Xu: 1
+Na Lv: 1
+Gu Fang: 1
+Shaofeng Du: 1
+Wenjun Zhao: 1
+Zhen Ye: 1
+Shanben Chen: 1
+Z. Zhang: 1
+Jianhua Zhu: 1
+Yongkang Guo: 1
+Xiangdi Lin: 1
+Kailiang Duan: 1
+Yishan Wang: 1
+Qing Tang: 1
+Ming Chen: 1
+Xuebi Jin: 1
+Yu Chen: 1
+Zhiyong Dai: 1
+Zhonghua Ou: 1
+Qin Tang: 1
+Camilo Perez Quintero: 1
+Sarah Li: 1
+Matthew KXJ Pan: 1
+Wesley P. Chan: 1
+H.F. Machiel Van der Loos: 1
+Elizabeth Croft: 1
+Dennis Krupke: 1
+Paul Lubos: 1
+Yannick Jonetzko: 1
+Michael Gorner: 1
+Jianwei Zhang: 1
+Sebastian Blankemeyer: 1
+Rolf Wiemann: 1
+Lukas Posniak: 1
+Christoph Pregizer: 1
+Annika Raatz: 1
+Lowell E. Staveland: 1
+Stéphane Magnenat: 1
+Morderchai Ben-Ari: 1
+Severin Klinger: 1
+Susanne Stadler: 1
+Kevin Kain: 1
+Manuel Giuliani: 1
+Nicole Mirnig: 1
+Gerald Stollnberger: 1
+Jennifer Lee: 1
+Önder Tokçalar: 1
+Tomas Akenine-Möller: 1
+Andrés Lucero: 1
+Olivier Bau: 1
+Ali Israr: 1
+Amit Bermano: 1
+Philipp Brüschweiler: 1
+Martin E. Newell: 1
+Jamie Zigelbaum: 1
+Andrea Nesbitt: 1
+Louise Bak Stolze: 1
+Dávid Lakatos: 1
+Leonardo Bonanni: 1
+Jean-Baptiste Labrune: 1
+M.W. Jones: 1
+J.A. Baerentzen: 1
+M. Sramek: 1
+Samuel Luescher: 1
+Jinha Lee: 1
+David Lakatos: 1
+Anthony DeVincenzi: 1
+Matthew Blackshaw: 1
+Boris Ajdin: 1
+Jinwei Gu: 1
+Fabio Pellacini: 1
+Simon Olberding: 1
+Michael Wessely: 1
+Ben Piper: 1
+Carlo Ratti: 1
+Majken Kirkegård Rasmussen: 1
+Miguel Bruns Alonso: 1
+Marianne Graves Petersen: 1
+Majken K. Rasmussen: 1
+Marianne G. Petersen: 1
+Anne Roudaut: 1
+Jonas Togler: 1
+Lance Williams: 1
+Lining Yao: 1
+Jifei Ou: 1
+Clark Della Silva: 1
+Sonit Bafna: 1
+A. Doulamis: 1
+N. Doulamis: 1
+C. Ioannidis: 1
+C. Chrysouli: 1
+N. Grammalidis: 1
+K. Dimitropoulos: 1
+C. Potsiou: 1
+E.-K. Stathopoulou: 1
+M. Ioannides: 1
+Gabrielle L. Hands: 1
+Cara E. Stepp: 1
+L. Harald Fredheim: 1
+Manal Khalaf: 1
+Dongjo Kim: 1
+Laura King: 1
+James F. Stark: 1
+Paul Cooke: 1
+Duncan Light: 1
+Anna Macaranas: 1
+Alissa N. Antle: 1
+Bernhard E. Riecke: 1
+Mark T. Marshall: 1
+Nick Dulake: 1
+Luigina Ciolfi: 1
+Daniele Duranti: 1
+Hub Kockelkorn: 1
+Daniela Petrelli: 1
+Christina Pollalis: 1
+Whitney Fahnbulleh: 1
+Jordan Tynes: 1
+Orit Shaer: 1
+Jinsil Hwaryoung Seo: 1
+Janelle Arita: 1
+Sharon Chu: 1
+Francis Quek: 1
+Stephen Aldriedge: 1
+Niels Wouters: 1
+V. Vlahakis: 1
+M. Ioannidis: 1
+J. Karigiannis: 1
+M. Tsotros: 1
+M. Gounaris: 1
+D. Stricker: 1
+T. Gleue: 1
+P. Daehne: 1
+L. Almeida: 1
+Rafal Wojciechowski: 1
+Krzysztof Walczak: 1
+Martin White: 1
+Wojciech Cellary: 1
+Peta Wyeth: 1
+D. J. Tinson: 1
+Martha Flanders: 1
+Stephen I. Helms Tillery: 1
+John F. Soechting: 1
+F. David Rose: 1
+Barbara. M. Brooks: 1
+Albert A. Rizzo: 1
+M-C Fluet: 1
+O. Lambercy: 1
+R. Gassert: 1
+Steve C. Cramer: 1
+Sarah J. Housman: 1
+Kelly M. Scott: 1
+David J. Reinkensmeyer: 1
+Jurgen Broeren: 1
+Lisbeth Claesson: 1
+Daniel Goude: 1
+Martin Rydmark: 1
+Katharina S. Sunnerhagen: 1
+J. F. Soechting: 1
+S. I. H. Tillery: 1
+M. Flanders: 1
+Neil R. Sims: 1
+Hakan Muyderman: 1
+Katja Fiehler: 1
+Frank Rösler: 1
+Denise Y. P. Henriques: 1
+Joy Adamson: 1
+Andy Beswick: 1
+Shah Ebrahim: 1
+Joseph Tiffin: 1
+E. J. Asher: 1
+Gergory T. Thielman: 1
+Catherine M. Dean: 1
+A.M. Gentile: 1
+Catherine A. Trombly: 1
+Ching-Yi Wu: 1
+Ludovic Dovat: 1
+Olivier Lambercy: 1
+Berna Salman: 1
+Vineet Johnson: 1
+Roger Gassert: 1
+Chee Leong Teo: 1
+Ted Milner: 1
+Douglas Carroll: 1
+Max Grosse: 1
+Dikpal Reddy: 1
+Matthew Hirsch: 1
+Naoto Hino: 1
+Pulkit Budhiraja: 1
+Kevin Karsch: 1
+Brian Bailey: 1
+David Forsyth: 1
+Yuki Kitajima: 1
+Chenguang Ma: 1
+Jinli Suo: 1
+Qionghai Dai: 1
+Belen Masia: 1
+Piotr Didyk: 1
+Tomohiro Yamazaki: 1
+Kenji Uehara: 1
+Tomoya Nakamura: 1
+Ryoichi Horisaki: 1
+Jun Tanida: 1
+Julian Lepinski: 1
+Steven Sanders: 1
+Nagisa Okutani: 1
+Matthew Regan: 1
+Gavin S. P. Miller: 1
+Saeko Shimazu: 1
+Li Zhang: 1
+R. Yang: 1
+Jun Tsukamoto: 1
+Kenji Kashima: 1
+Guodong Rong: 1
+Tiow-Seng Tan: 1
+Kartik B. Ariyur: 1
+Miroslav Krstić: 1
+Andrew R. Teel: 1
+Maojiao Ye: 1
+Guoqiang Hu: 1
+Roel Dobbe: 1
+Alexandra von Meier: 1
+Xiao Li: 1
+Yaoyu Li: 1
+John E. Seem: 1
+Matias Negrete-Pincetic: 1
+David M. Auslander: 1
+Duncan S. Callaway: 1
+Hamidreza Nazaripouya: 1
+Hemanshu Roy Pota: 1
+Chi-Cheng Chu: 1
+Rajit Gadh: 1
+Jay Johnson: 1
+Adam Summers: 1
+Rachid Darbali-Zamora: 1
+Javier Hernandez-Alvidrez: 1
+Jimmy Quiroz: 1
+Daniel Arnold: 1
+Jithendar Anandan: 1
+Yue Chen: 1
+Andrey Bernstein: 1
+Adithya Devraj: 1
+Sean Meyn: 1
+Xing-Bao Gao: 1
+Huaguang Zhang: 1
+Jianguo Zhou: 1
+Qiuye Sun: 1
+Josep M. Guerrero: 1
+Dazhong Ma: 1
+Junbo Zhang: 1
+Zhihao Chen: 1
+Chuyao He: 1
+Zetao Jiang: 1
+Lin Guan: 1
+Wei Wang: 1
+Nanpeng Yu: 1
+Yuanqi Gao: 1
+Jie Shi: 1
+Hanchen Xu: 1
+Alejandro D. Dominguez-Garcia: 1
+Venugopal V. Veeravalli: 1
+Peter W. Sauer: 1
+Ying Zhang: 1
+Xinan Wang: 1
+Jianhui Wang: 1
+Yingchen Zhang: 1
+Hao Zhu: 1
+Hao Jan Liu: 1
+Guannan Qu: 1
+Yanan Zhu: 1
+Wenwu Yu: 1
+Guanghui Wen: 1
+Guanrong Chen: 1
+Ray Daniel Zimmerman: 1
+Carlos Edmundo Murillo-Sanchez: 1
+Robert John Thomas: 1
+A.R. Teel: 1
+L. Moreau: 1
+D. Nesic: 1
+Jérémy Albouys-Perrois: 1
+Jérémy Laviole: 1
+Carine Briant: 1
+Philippe Truillet: 1
+Bernard Oriola: 1
+Delphine Picard: 1
+Tania Calle-Jimenez: 1
+Sergio Luján-Mora: 1
+Claudia Daudén Roquet: 1
+Jeeeun Kim: 1
+Tom Yeh: 1
+Marc J-M Macé: 1
+Marcos Serrano: 1
+Stéphanie Giraud: 1
+Marc J.-M. Macé: 1
+Cagatay Goncu: 1
+Kim Marriott: 1
+Klaus Winkler: 1
+Taejin Ha: 1
+Junhun Lee: 1
+Hankyun Choi: 1
+Kwanheng Lee: 1
+Gunnar Jansson: 1
+Imre Juhasz: 1
+Arina Cammilton: 1
+Yeongmi Kim: 1
+Ian Oakley: 1
+C. Lallemand: 1
+V. Koenig: 1
+G. Gronier: 1
+R. Martin: 1
+J. Laviole: 1
+M. Hachet: 1
+Joshua A. Miele: 1
+Steven Landau: 1
+Deborah Gilden: 1
+H. Minagawa: 1
+N. Ohnishi: 1
+N. Sugie: 1
+Valerie S Morash: 1
+Allison E Connell Pensky: 1
+Steven T W Tseng: 1
+Joshua A Miele: 1
+Azadeh Nazemi: 1
+Iain Murray: 1
+Nazanin Mohammadi: 1
+Benjamin Poppinga: 1
+Charlotte Magnusson: 1
+Martin Pielot: 1
+Kirsten Rassmus-Gröhn: 1
+Jochen Schneider: 1
+Thomas Strothotte: 1
+Holly Lawson: 1
+Zhuohao Zhang: 1
+Yuhang Zhao: 1
+Jakub Wabiński: 1
+Albina Mościcka: 1
+Zheshen Wang: 1
+Baoxin Li: 1
+Terri Hedgpeth: 1
+Teresa Haven: 1
+Ichiro Kuriki: 1
+Toyotaro Tokimoto: 1
+Pushmeet Kohi: 1
+V. Srinivasan: 1
+H. C. Liu: 1
+M. Halioua: 1
+Oliver P. Gautschi: 1
+Bawarjan Schatlo: 1
+Karl Schaller: 1
+Enrico Tessitore: 1
+Mario Ammirati: 1
+Asem Salma: 1
+Eric W. Nottmeier: 1
+Stephen M. Pirris: 1
+Adrian Elmi-Terander: 1
+Rami Nachabe: 1
+Halldor Skulason: 1
+Kyrre Pedersen: 1
+Michael Söderman: 1
+John Racadio: 1
+Drazenko Babic: 1
+Paul Gerdhem: 1
+Erik Edström: 1
+Daniel J. Thomas: 1
+Yassmin Abdallah: 1
+Abdelaziz Abdelhamid: 1
+Taha Elarif: 1
+Abdel-Badeeh M. Salem: 1
+Beiwen Li: 1
+Zexi Feng: 1
+Zhiquan Cheng: 1
+Yasutaka Furukawa: 1
+Jean Ponce: 1
+Marta Kersten-Oertel: 1
+Pierre Jannin: 1
+D. Louis Collins: 1
+Bojan Jerbić: 1
+Filip Šuligoj: 1
+Marko Švaco: 1
+Bojan Šekoranja: 1
+Lih-Shyang CHEN: 1
+Young-Jinn LAY: 1
+Je-Bin HUANG: 1
+Yan-De CHEN: 1
+Ku-Yaw CHANG: 1
+Shao-Jer CHEN: 1
+Tom Botterill: 1
+Steven Mills: 1
+Richard Green: 1
+Javier Navarrete: 1
+Diego Viejo: 1
+Miguel Cazorla: 1
+Shi-Fang Yuan: 1
+Qing-Wen Wang: 1
+Stephen J. Sangwine: 1
+Nicolas Le Bihan: 1
+Sol Pedre: 1
+Tomáš Krajník: 1
+Elías Todorovich: 1
+Patricia Borensztejn: 1
+Maarten M. Arnolli: 1
+Martijn Buijze: 1
+Michel Franken: 1
+Koert P. de Jong: 1
+Dannis M. Brouwer: 1
+Ivo A. M. J. Broeders: 1
+Ayşe Binay Kurultay: 1
+Youngsil Sohn: 1
+Yoenyong Park: 1
+Longchun Lin: 1
+Moonyurl Jung: 1
+Y.I. Abdel-Aziz: 1
+H.M. Karara: 1
+In-Jae Jo: 1
+Joohun Lee: 1
+Eric Akaoka: 1
+Tim Ginn: 1
+J. Ehnes: 1
+K. Hirota: 1
+M. Hirose: 1
+Joe Finney: 1
+Hanyuool Kim: 1
+Issei Takahashi: 1
+Shuntarou Yoshimitsu: 1
+Keisuke Kawahara: 1
+Nobutaka Ito: 1
+Atsushi Shinoda: 1
+T. Yabiki: 1
+Yoonsik Yang: 1
+Seungho Chae: 1
+Inhwan Kim: 1
+Tack-don Han: 1
+Walterio Mayol-Cuevas: 1
+Florent Berthaut: 1
+Michaël Ortega: 1
+Jérôme Maisonnasse: 1
+Achim Hoth: 1
+Julian Saal: 1
+Haifeng Su: 1
+Kazuhiro Yamada: 1
+Julia Chatain: 1
+Steffen Maurer: 1
+Mikhail Matrosov: 1
+Olga Volkova: 1
+Dzmitry Tsetserukou: 1
+Alex Tamkin: 1
+Cheng Yao Wang: 1
+Luke Vink: 1
+Jeremy Albouys-Perrois: 1
+Anke Brock: 1
+Yuichi Hiroi: 1
+Takumi Hamasaki: 1
+Xujing Zhang: 1
+Marius Hoggenmueller: 1
+Martin Tomitsch: 1
+Hiroaki Tobita: 1
+Shigeaki Maruyama: 1
+Takuya Kuzi: 1
+Alexander Achberger: 1
+G. Sukthankar: 1
+Frank Chun Yat Li: 1
+David Dearman: 1
+Khai N. Truong: 1
+Jessica Cauchard: 1
+Kevin W. Arthur: 1
+Andrew C. Beers: 1
+Bernd Fröhlich: 1
+B. Frohlich: 1
+D. Schmalsteig: 1
+L.M. Encarnacao: 1
+Carolina Cruz-Neira: 1
+Daniel J. Sandin: 1
+Thomas A. DeFanti: 1
+James E. Cutting: 1
+Peter M. Vishton: 1
+Alberta S. Gilinsky: 1
+Miguel Nacenta: 1
+Sheelagh Carpendale: 1
+Heejeong Heo: 1
+Hyung Kun Park: 1
+Seungki Kim: 1
+Jeeyong Chung: 1
+Geehyuk Lee: 1
+Woohun Lee: 1
+Jinghui Hou: 1
+Yujung Nam: 1
+Wei Peng: 1
+K. Khoshelham: 1
+S. DiVerdi: 1
+N. Candussi: 1
+I. Rakkolainen: 1
+John T. E. Richardson: 1
+Brett Stevens: 1
+Jennifer Jerrams-Smith: 1
+David Heathcote: 1
+David Callear: 1
+Yichen Tang: 1
+Armando Garcia-Mendoza: 1
+Yu-Ping Wang: 1
+Sen-Wei Xie: 1
+Li-Hui Wang: 1
+Jen-Hao Rick Chang: 1
+B. V. K. Vijaya Kumar: 1
+Aswin C. Sankaranarayanan: 1
+Hanpeng Wang: 1
+Hongwen Ren: 1
+Haiqing Xianyu: 1
+Su Xu: 1
+Shin-Tson Wu: 1
+Guoqiang Li: 1
+David L. Mathine: 1
+Pouria Valley: 1
+Pekka Äyräs: 1
+Joshua N. Haddock: 1
+M. S. Giridhar: 1
+Gregory Williby: 1
+Jim Schwiegerling: 1
+Gerald R. Meredith: 1
+Bernard Kippelen: 1
+Seppo Honkanen: 1
+Nasser Peyghambarian: 1
+Lei Li: 1
+Liang Xiao: 1
+Jin-Hui Wang: 1
+Yanru Sun: 1
+Lech Świrski: 1
+Andreas Bulling: 1
+Neil Dodgson: 1
+B.W. Zhang: 1
+Y.F. Li: 1
+S.Y. Chen: 1
+P. Gurdjos: 1
+In-So Kweon: 1
+Zijian Zhao: 1
+Ying Weng: 1
+G. Taubin: 1
+Walter Gander: 1
+Gene H. Golub: 1
+Rolf Strebel: 1
+Fred L. Bookstein: 1
+A. Fitzgibbon: 1
+M. Pilu: 1
+R.B. Fisher: 1
+Perng-Fei Luo: 1
+Zhengqing Li: 1
+Erwin Wu: 1
+Hideaki Kuzuoka: 1
+Naomi Yamashita: 1
+Ankur Datta: 1
+Francisco Abad: 1
+Emilio Camahort: 1
+Roberto Vivó: 1
+Guang Jiang: 1
+Long Quan: 1
+Homayoun Bagherinia: 1
+Roberto Manduchi: 1
+Qian Chen: 1
+Haiyuan Wu: 1
+Toshikazu Wada: 1
+R.J. Leach: 1
+S.E. Forrester: 1
+A.C. Mears: 1
+J.R. Roberts: 1
+Yihong Wu: 1
+Xinju Li: 1
+Fuchao Wu: 1
+Keiko Yokoyama: 1
+Shohei Noguchi: 1
+Irena Bojanova: 1
+Asahi Suzuki: 1
+Noriko Yata: 1
+Chikara Miyaji: 1
+Masataka Narumiya: 1
+Dylan Brodie Fafard: 1
+Chris Chamberlain: 1
+Georg Hagemann: 1
+Pablo Alcantarilla: 1
+Jesus Nuevo: 1
+Adrien Bartoli: 1
+Mahdi Abbaspour Tehrani: 1
+C. Harris: 1
+M. Stephens: 1
+Tyler Johnson: 1
+Florian Gyarfas: 1
+Rick Skarbez: 1
+Herman Towles: 1
+J. Pilet: 1
+Ibai Leizea: 1
+Iker Aguinaga: 1
+Diego Borro: 1
+Dat Tien Ngo: 1
+Jonas Ostlund: 1
+Vincenzo Lippiello: 1
+Bruno Siciliano: 1
+T. Johnson: 1
+Katherine L. Bouman: 1
+Peter Battaglia: 1
+Alec Jacobson: 1
+Jovan Popović: 1
+Olga Sorkine: 1
+Carl Vondrick: 1
+Abhinav Shrivastava: 1
+Alireza Fathi: 1
+Sergio Guadarrama: 1
+Kevin Murphy: 1
+Laetitia Hebert: 1
+Tosif Ahamed: 1
+Antonio C. Costa: 1
+Liam O’Shaughnessy: 1
+Greg J. Stephens: 1
+Gines Hidalgo: 1
+Pranav Mamidanna: 1
+Kevin M. Cury: 1
+Taiga Abe: 1
+Venkatesh N. Murthy: 1
+Mackenzie Weygandt Mathis: 1
+Matthias Bethge: 1
+Gary A Kane: 1
+Gonçalo Lopes: 1
+Jonny L Saunders: 1
+Mackenzie W Mathis: 1
+Breannan Smith: 1
+He Wen: 1
+Patrick Peluse: 1
+Jiayi Wang: 1
+Franziska Mueller: 1
+Florian Bernard: 1
+Suzanne Sorli: 1
+Oleksandr Sotnychenko: 1
+Neng Qian: 1
+Dan Casas: 1
+Henry Kang: 1
+Seungyong Lee: 1
+Charles K. Chui: 1
+Domhnall Finch: 1
+Bethany Smith: 1
+Charlotte Marshall: 1
+Frazer Coomber: 1
+Laura Kubasiewicz: 1
+Max Anderson: 1
+Patrick Wright: 1
+Fiona Mathews: 1
+Shota Murayama: 1
+Ippei Torii: 1
+Naohiro Ishii: 1
+Liang Zhao: 1
+Kosuke Ogata: 1
+Y. G. Leclerc: 1
+Wolfgang Kleine: 1
+Wen-Chieh Lin: 1
+Yanxi Liu: 1
+Julien Pilet: 1
+Yusuke Nakazato: 1
+Masayuki Kanbara: 1
+Youngmin Park: 1
+Kiyoung Kim: 1
+Bojan Kocev: 1
+Felix Ritter: 1
+Lars Linsen: 1
+Georg Klein: 1
+David Murray: 1
+P. Lagger: 1
+I. Guskov: 1
+David Holman: 1
+Mark Altosaar: 1
+Nikolaus Troje: 1
+Derek Johns: 1
+Zsolt Horváth: 1
+István Szentandrási: 1
+Michal Zachariáš: 1
+F.L. Bookstein: 1
+Mark de Berg: 1
+Otfried Cheong: 1
+Marc van Kreveld: 1
+Mark Overmars: 1
+Michal Zacharias: 1
+Jiri Havel: 1
+Ray Asahina: 1
+Taku Senoo: 1
+J. Gall: 1
+A. Yao: 1
+N. Razavi: 1
+L. Van Gool: 1
+V. Lempitsky: 1
+Yusuke Nakayama: 1
+Masayoshi Shimizu: 1
+Takahiro Uji: 1
+Yiting Zhang: 1
+James R. Bergen: 1
+MS Livingstone: 1
+DH Hubel: 1
+D. Comaniciu: 1
+V. Ramesh: 1
+P. Meer: 1
+T. Klemmer: 1
+Bruno Heidelberger: 1
+Marcus Hennix: 1
+John Ratcliff: 1
+Wan-Chun Ma: 1
+Tim Hawkins: 1
+Charles-Felix Chabert: 1
+Pieter Peers: 1
+Alex Butler: 1
+R.G. Stockton: 1
+M.D. Mullin: 1
+Yu Suzuki: 1
+Shunsuke Morioka: 1
+Hirotada Ueda: 1
+Kimie Suzuki: 1
+Alireza Sahami Shirazi: 1
+Lars Lischke: 1
+Jorge Joo-Nagata: 1
+Fernando Martinez Abad: 1
+José García-Bermejo Giner: 1
+Francisco J. García-Peñalvo: 1
+Akifumi Sokan: 1
+Ming Wei Hou: 1
+Norihide Shinagawa: 1
+Hironori Egi: 1
+David Pérez-López: 1
+Antonia Cascales-Martínez: 1
+María-José Martínez-Segura: 1
+Satoshi Murata: 1
+Masanori Suzuki: 1
+Nozomu Tanaka: 1
+Blaine Bell: 1
+Lauren Scharff: 1
+Alyson Hill: 1
+Albert Ahumada: 1
+Deborah Hix: 1
+K. Makita: 1
+M. Kanbara: 1
+Makoto Sato: 1
+Kohei Tanaka: 1
+Yasue Kishino: 1
+Masakazu Miyamae: 1
+Tsutomu Terada: 1
+Shojiro Nishio: 1
+Eduard Imhof: 1
+Michele Di Donato: 1
+Shohei Mori: 1
+Sei Ikeda: 1
+Radhakrishna Achanta: 1
+Sheila Hemami: 1
+Francisco Estrada: 1
+Sabine Susstrunk: 1
+Miko May Lee Chang: 1
+Soh Khim Ong: 1
+Andrew Yeh Ching Nee: 1
+Barrett M. Ens: 1
+Rory Finnegan: 1
+Gang Li: 1
+Yue Liu: 1
+Zhaoji Xu: 1
+Jan Riemann: 1
+Martin Schmitz: 1
+Sebastian Doeweling: 1
+Florian Müller: 1
+Daniel Cotting: 1
+Isamu Motoyoshi: 1
+B.B. Chaudhuri: 1
+N. Sarkar: 1
+K.-H. Lin: 1
+K.-M. Lam: 1
+W.-C. Siu: 1
+T. Ida: 1
+Y. Sambonsugi: 1
+G Neil: 1
+K.M Curtis: 1
+Heinz-Otto Peitgen: 1
+Hartmut Jürgens: 1
+Dietmar Saupe: 1
+Robert M. Haralick: 1
+K. Shanmugam: 1
+Its'Hak Dinstein: 1
+Mary M. Galloway: 1
+Timo Engelke: 1
+Jens Keil: 1
+Pavel Rojtberg: 1
+Folker Wientapper: 1
+Michael Schmitt: 1
+Ulrich Bockholt: 1
+Sebastian Büttner: 1
+Oliver Sand: 1
+Carsten Röcker: 1
+Hans de Cock: 1
+T. P. WRIGHT: 1
+George A. Miller: 1
+Federico Manuri: 1
+Gianluca Paravati: 1
+Pietro Pezzolla: 1
+Paolo Montuschi: 1
+Steven G. Vandenberg: 1
+Allan R. Kuse: 1
+Christopher D. Wickens: 1
+Justin G. Hollands: 1
+Simon Banbury: 1
+Saverio Debernardis: 1
+Srdjan Tegeltija: 1
+Milovan Lazarevic: 1
+Stevan Stankovski: 1
+Ilija Cosic: 1
+Vladimir Todorovic: 1
+Gordana Ostojic: 1
+Valerio Elia: 1
+Maria Grazia Gnoni: 1
+Alessandra Lanzilotto: 1
+SeungJun Kim: 1
+Anind K. Dey: 1
+Jonny Gustafsson: 1
+Christoffer Lindfors: 1
+Heni Ben Amor: 1
+Lixing Zhang: 1
+Shotaro Narita: 1
+Seymour Weissman: 1
+C. M. Freeburne: 1
+Jonathan Deber: 1
+Michelle Annett: 1
+Anoop Gupta: 1
+Walter F. Bischof: 1
+Josef Spjut: 1
+Ben Boudaoud: 1
+Kamran Binaee: 1
+Jonghyun Kim: 1
+Alexander Majercik: 1
+Joohwan Kim: 1
+Masahiko YASUI: 1
+M. SAKTI ALVISSALIM: 1
+Hirotsugu YAMAMOTO: 1
+Masatoshi ISHIKAWA: 1
+Nobuyuki Otsu: 1
+Selig Hecht: 1
+Simon Shlaer: 1
+Christian Kaernbach: 1
+Eugene R. Wist: 1
+Michael Schrauf: 1
+Walter H. Ehrenstein: 1
+Ruth Rosenholtz: 1
+Géry Casiez: 1
+Nicolas Roussel: 1
+Craig Wisneski: 1
+Scott Brave: 1
+Andrew Dahley: 1
+Matt Gorbet: 1
+Paul Yarin: 1
+Brad Johanson: 1
+Greg Hutchins: 1
+Terry Winograd: 1
+Maureen Stone: 1
+Beverly Harrison: 1
+Adam D. Rea: 1
+Matthai Philipose: 1
+Anthony LaMarca: 1
+Elizabeth D. Mynatt: 1
+Klaus M. Hansen: 1
+Joe Tullio: 1
+Samer Sallam: 1
+Bernard Champoux: 1
+Kousuke Nakashima: 1
+Takashi Machida: 1
+Tomislav Pejsa: 1
+Julian Kantor: 1
+Simon T. Perrault: 1
+Eric Lecolinet: 1
+Yoann Pascal Bourse: 1
+Shengdong Zhao: 1
+Katie A. Siek: 1
+Kay H. Connelly: 1
+Mark Podlaseck: 1
+Rick Kjeldsen: 1
+Alan Baddeley: 1
+Sheila J. Cunningham: 1
+David J. Turk: 1
+Lynda M. Macdonald: 1
+C. Neil Macrae: 1
+William Odom: 1
+John Zimmerman: 1
+Jodi Forlizzi: 1
+Cynthia S. Symons: 1
+Blair T. Johnson: 1
+Matthew Botvinick: 1
+Jonathan Cohen: 1
+Mar Gonzalez-Franco: 1
+Daniel Perez-Marcos: 1
+Bernhard Spanlang: 1
+David Drascic: 1
+Julius J. Grodski: 1
+Paul Milgram: 1
+Ken Ruffo: 1
+Peter Wong: 1
+Ankita Gupta: 1
+Tom Lowrie: 1
+Tracy Logan: 1
+Ajay Ramful: 1
+Yi-Ting Liao: 1
+Chih-Hung Yu: 1
+Cheng-Chih Wu: 1
+Matt Dunleavy: 1
+Myriam Servières: 1
+Sébastien Cuendet: 1
+Quentin Bonnard: 1
+Son Do-Lenh: 1
+Pierre Dillenbourg: 1
+Marc Ericson C. Santos: 1
+Angie Chen: 1
+Keith R. Bujak: 1
+Iulian Radu: 1
+Ruby Zheng: 1
+Gary Golubski: 1
+Douglas Miller: 1
+Tonia Dousay: 1
+Umberto Cugini: 1
+Samuele Polistina: 1
+Francisco Felip Miralles: 1
+Vicente Chulvi: 1
+Carlos García: 1
+Diego Diaz: 1
+Julia Galan: 1
+Elena Mulet: 1
+John R Gleason: 1
+Mateus Mendes: 1
+Jorge Almeida: 1
+Hajji Mohamed: 1
+Rudi Giot: 1
+H. Mitasova: 1
+L. Mitas: 1
+C. Ratti: 1
+H. Ishii: 1
+J. Alonso: 1
+R.S. Harmon: 1
+Wendy A. Rogers: 1
+Arthur D. Fisk: 1
+Richard Pak: 1
+Andrew Sears: 1
+Ben Shneiderman: 1
+Imre Horváth: 1
+T C Yapo: 1
+C Young: 1
+B Cutler: 1
+Fabien Spindler: 1
+Hyon Lim: 1
+Sudipta N. Sinha: 1
+Michael F. Cohen: 1
+Matt Uyttendaele: 1
+H. Jin Kim: 1
+Zygmunt Pizlo: 1
+Chris Sweeney: 1
+John Flynn: 1
+Benjamin Nuernberger: 1
+Henning Tjaden: 1
+Ulrich Schwanecke: 1
+Elmar Schömer: 1
+Sebastien Valette: 1
+Jean-Marc Chassery: 1
+Michal Zacharia: 1
+Bruno Lévy: 1
+Maxim Mogilnitsky: 1
+Alexander Bogomyakov: 1
+Victor A. Prisacariu: 1
+Ian D. Reid: 1
+Changhyun Choi: 1
+Henrik I Christensen: 1
+A.I. Comport: 1
+E. Marchand: 1
+M. Pressigout: 1
+F. Chaumette: 1
+Mark Fiala: 1
+Pierre Alliez: 1
+Giuliana Ucelli: 1
+Craig Gotsman: 1
+Marco Attene: 1
+Emanuele Rodola: 1
+Kota Ishihara: 1
+Ryota Yonezawa: 1
+Eray Molla: 1
+Cristina Altomare: 1
+Raffaella Guglielmann: 1
+Marco Riboldi: 1
+Riccardo Bellazzi: 1
+Guido Baroni: 1
+K. Kanatani: 1
+S. Umeyama: 1
+Ryan Schubert: 1
+Greg Weich: 1
+M. Hisada: 1
+K. Takase: 1
+K. Yamamoto: 1
+I. Kanaya: 1
+David M. Eagleman: 1
+Renato F. Salas-Moreno: 1
+Hauke Strasdat: 1
+Paul H.J. Kelly: 1
+Norihiko Kawai: 1
+Masayoshi Yamasaki: 1
+Tomokazu Sato: 1
+N. Kawakami: 1
+D. Sekiguchi: 1
+Y. Yanagida: 1
+T. Maeda: 1
+S. Tachi: 1
+C. Nitschke: 1
+Qiming Hou: 1
+Hongzhi Wu: 1
+Tianjia Shao: 1
+Naoto Hieda: 1
+Pei-Lun Hsieh: 1
+Chongyang Ma: 1
+Yuting Ye: 1
+Chris Bregler: 1
+Andrew Nashel: 1
+Thibaut Weise: 1
+Yangang Wang: 1
+Volker Blanz: 1
+Thomas Vetter: 1
+Thabo Beeler: 1
+Oleg Alexander: 1
+Mike Rogers: 1
+William Lambeth: 1
+Matt Chiang: 1
+Jason M. Saragih: 1
+Simon Lucey: 1
+Jeffrey F. Cohn: 1
+Leandra Vicci: 1
+Stephen Brumback: 1
+D'nardo Colucci: 1
+Bert deDecker: 1
+Yuki Hashimoto: 1
+Dylan Moore: 1
+Yong Zhao: 1
+Jonathan Westhues: 1
+John Barnwell: 1
+Philippe Bekaert: 1
+Michael Noland: 1
+Kejie Qiu: 1
+Fangyi Zhang: 1
+Ming Liu: 1
+Toshihiro Hara: 1
+Yusaku Takeda: 1
+Kenji Murase: 1
+Valkyrie Savage: 1
+Ryan Schmidt: 1
+Björn Hartmann: 1
+Alec Rivers: 1
+Andrew Adams: 1
+Matthew Flagg: 1
+Karl Willis: 1
+Eric Brockmeyer: 1
+T. Karitsuka: 1
+Francesc Moreno-Noguer: 1
+Thiago Pereira: 1
+Karan Ahuja: 1
+Sujeath Pareddy: 1
+Mayank Goel: 1
+Dingzeyu Li: 1
+Avinash S. Nair: 1
+Changxi Zheng: 1
+N. Matsushita: 1
+D. Hihara: 1
+T. Ushiro: 1
+S. Yoshimura: 1
+Y. Yamamoto: 1
+David Clyde: 1
+Joseph Teran: 1
+Leonid Sigal: 1
+Spencer Diaz: 1
+Kyna McIntosh: 1
+Elizabeth Carter: 1
+Timothy Richards: 1
+Jessica Hodgins: 1
+Mingliang Cao: 1
+Yi Li: 1
+Zhigeng Pan: 1
+Josephine Csete: 1
+Shu Sun: 1
+Jie Li: 1
+Yu Liu: 1
+Peiran Jin: 1
+Hendrikje Nienborg: 1
+Carlos Aliaga: 1
+Carol O'Sullivan: 1
+S. Hauswiesner: 1
+M. Straka: 1
+G. Reitmayr: 1
+Huamin Wang: 1
+James F. O'Brien: 1
+Jun Ehara: 1
+Yair Weiss: 1
+Gunnar Farnebäck: 1
+Antonio Torralba: 1
+Neal Wadhwa: 1
+Fredo Durand: 1
+Hao-Yu Wu: 1
+Eugene Shih: 1
+John Guttag: 1
+William Freeman: 1
+Thomas Augsten: 1
+Konstantin Kaefer: 1
+Caroline Fetzer: 1
+Dorian Kanitz: 1
+Thomas Stoff: 1
+Torsten Becker: 1
+Till Ballendat: 1
+Nicolai Marquardt: 1
+Alan Bränzel: 1
+Daniel Hoffmann: 1
+Marius Knaust: 1
+Patrick Lühne: 1
+Stephan Richter: 1
+Barry Brown: 1
+Ian MacColl: 1
+Matthew Chalmers: 1
+Areti Galani: 1
+Cliff Randell: 1
+Anthony Steed: 1
+Seongju Chang: 1
+Sungil Ham: 1
+Seungbum Kim: 1
+Dongjun Suh: 1
+Hyunseok Kim: 1
+I. Choi: 1
+C. Ricci: 1
+Kaj Grønbæk: 1
+Ole S. Iversen: 1
+Karen Johanne Kortbek: 1
+Kaspar Rosengreen Nielsen: 1
+Louise Aagaard: 1
+Peter Krogh: 1
+Martin Ludvigsen: 1
+Andreas Lykke-Olesen: 1
+Roman Reichel: 1
+Roland Blach: 1
+Armin Zink: 1
+Joseph J. LaViola: 1
+Daniel Acevedo Feliz: 1
+Daniel F. Keefe: 1
+Robert C. Zeleznik: 1
+Francesco Martino: 1
+Roberto Baù: 1
+Anna Spagnolli: 1
+Raf Ramakers: 1
+Johannes Jasper: 1
+Sven Köhler: 1
+Aileen Pohl: 1
+Hannes Rantzsch: 1
+Andreas Rau: 1
+Patrick Schmidt: 1
+Christoph Sterz: 1
+Yanina Yurchenko: 1
+Amela Sadagic: 1
+Ralph Schroeder: 1
+Harrison Jesse Smith: 1
+Michael Neff: 1
+Y. Visell: 1
+A. Law: 1
+J.R. Cooperstock: 1
+Rishi Rajalingham: 1
+Mohammad Hadhrawi: 1
+Kent Larson: 1
+Abhiup Sinha: 1
+Pallabi Das: 1
+Apar Garg: 1
+Rohit Kumar Kaliyar: 1
+Anurag Goswami: 1
+M.A. Adeagbo: 1
+J.E.T. Akinsola: 1
+A.A. Awoseyi: 1
+F. Kasali: 1
+Anna Sfard: 1
+Zeinab Baghizadeh: 1
+Dubravka Cecez-Kecmanovic: 1
+Daniel Schlagwein: 1
+Harwati Hashim: 1
+Nathaniel Good: 1
+Paul Stewart: 1
+Dewen Cheng: 1
+Hong Hua: 1
+Jose Sasian: 1
+C. Gao: 1
+J. Adam Jones: 1
+J. Edward Swan II: 1
+Bernard Kress: 1
+Thad Starner: 1
+Nate Dierk: 1
+Vasilis Linakis: 1
+Rob Kooper: 1
+Mihran Tuceryan: 1
+Yakup Genc: 1
+Jonathan Finger: 1
+Qingxiong Yang: 1
+Daniele Rossi: 1
+Carlos Ricolfe-Viala: 1
+Antonio-Jose Sanchez-Salmeron: 1
+Abderyim Purkhet: 1
+Osama Halabi: 1
+Tadahiro Fujimoto: 1
+Norishige Chiba: 1
+M. Ashdown: 1
+Misaki Kasetani: 1
+Tomonobu Noguchi: 1
+Hirotake Yamazoe: 1
+Joo-Ho Lee: 1
+Isaac Kauvar: 1
+Samuel J. Yang: 1
+Liang Shi: 1
+Dongming Lu: 1
+R.A. Lorentz: 1
+Shourui Yang: 1
+Miao Liu: 1
+Jiahui Song: 1
+Shibin Yin: 1
+Yin Guo: 1
+Yongjie Ren: 1
+Jigui Zhu: 1
+Chengyi Yu: 1
+Xiaobo Chen: 1
+Juntong Xi: 1
+Gianluca Donato: 1
+Serge Belongie: 1
+Jean Duchon: 1
+Theodore C. Yapo: 1
+R. Medina-Carnicer: 1
+O. Halabi: 1
+N. Chiba: 1
+O. Silven: 1
+Kenichi Kanatani: 1
+Yasuyuki Sugaya: 1
+Yasushi Kanazawa: 1
+Panagiotis-Alexandros Bokaris: 1
+Michèle Gouiffès: 1
+Christian Jacquemin: 1
+Jean-Marc Chomaz: 1
+Ouk Choi: 1
+Hwasup Lim: 1
+Sang Chul Ahn: 1
+G. Wallace: 1
+Bill Triggs: 1
+Philip F. McLauchlan: 1
+Richard I. Hartley: 1
+Andrew W. Fitzgibbon: 1
+I. E. Sutherland: 1
+Grant Wallace: 1
+Johannes Schmid: 1
+Christoph Rehmann: 1
+Christopher Zach: 1
+Matthew Fisher: 1
+Binh Huy Le: 1
+Zhigang Deng: 1
+Dragomir Anguelov: 1
+Praveen Srinivasan: 1
+Daphne Koller: 1
+Jim Rodgers: 1
+Matthew Loper: 1
+Naureen Mahmood: 1
+Gerard Pons-Moll: 1
+Michael J. Black: 1
+Akihiko Murai: 1
+Q. Youn Hong: 1
+Katsu Yamane: 1
+Madeline Gannon: 1
+P. van de Ven: 1
+C. Flanagan: 1
+D. Toal: 1
+F.R. Driscoll: 1
+R.G. Lueck: 1
+M. Nahon: 1
+P. Ridao: 1
+A. Tiano: 1
+A. El-Fakdi: 1
+M. Carreras: 1
+A. Zirilli: 1
+S. Negahdaripour: 1
+Xun Xu: 1
+N.R. Gracias: 1
+S. van der Zwaan: 1
+A. Bernardino: 1
+J. Santos-Victor: 1
+M. Nomoto: 1
+M. Hattori: 1
+A.T. Morrison: 1
+J. Farrell: 1
+B. Clauberg: 1
+Joonyoung Kim: 1
+Kihun Kim: 1
+H.S. Choi: 1
+Woojae Seong: 1
+Kyu-Yeul Lee: 1
+A. Heron: 1
+A. Duncan: 1
+B. Anderson: 1
+G. Indiveri: 1
+Christophe R. C. Guibal: 1
+Birgitta Dresp: 1
+Kuo-Chen Huang: 1
+Shigeru Ichihara: 1
+Norimichi Kitagawa: 1
+Hiromi Akutsu: 1
+Bela Julesz: 1
+Manuel Lang: 1
+Alexander Hornung: 1
+Steven Poulakos: 1
+Aljoscha Smolic: 1
+George Mather: 1
+M. Dengler: 1
+W. Nitschke: 1
+Craig F. Bohren: 1
+Alistair B. Fraser: 1
+Hiroyuki Egusa: 1
+Stuart M. Anstis: 1
+Ian P. Howard: 1
+Brian Rogers: 1
+Jocelyn Faubert: 1
+Robert P. O'Shea: 1
+Shane G. Blackburn: 1
+Hiroshi Ono: 1
+Ronald A. Rensink: 1
+J. Kevin O'Regan: 1
+James J. Clark: 1
+N.-C. Tai: 1
+John D. Bullough: 1
+Nicholas P. Skinner: 1
+Timothy T. Plummer: 1
+Rafał Krupiński: 1
+Licong Zhang: 1
+Jurgen Sturm: 1
+Dongheui Lee: 1
+Zhenbao Liu: 1
+Jinxin Huang: 1
+Junwei Han: 1
+Shuhui Bu: 1
+Jianfeng Lv: 1
+Hanguen Kim: 1
+Sangwon Lee: 1
+Youngjae Kim: 1
+Serin Lee: 1
+Dongsung Lee: 1
+Jinsun Ju: 1
+Hyun Myung: 1
+Sungphill Moon: 1
+Youngbin Park: 1
+Dong Wook Ko: 1
+Il Hong Suh: 1
+SungYong Chun: 1
+Chan-Su Lee: 1
+Ja-Soon Jang: 1
+Liangliang Pan: 1
+Jun Cheng: 1
+Wei Feng: 1
+Xiaopeng Ji: 1
+Xinrui Meng: 1
+Wei Gao: 1
+Kerem Altun: 1
+Billur Barshan: 1
+Marc Gowing: 1
+Amin Ahmadi: 1
+François Destelle: 1
+David S. Monaghan: 1
+Noel E. O’Connor: 1
+Kieran Moran: 1
+Alireza Bilesan: 1
+Mohammadhasan Owlia: 1
+Saeed Behzadipour: 1
+Shuhei Ogawa: 1
+Teppei Tsujita: 1
+Shunsuke Komizunai: 1
+Atsushi Konno: 1
+Thomas Helten: 1
+Meinard Muller: 1
+Jeffrey Kodosky: 1
+Tao Luo: 1
+Zaifeng Shi: 1
+Pumeng Wang: 1
+Dariusz Czyżewski: 1
+Balakrishnan. S: 1
+K. L. Shunmuganathan: 1
+Hyocheol Ro: 1
+Nam Kyu Lee: 1
+Yuji Sano: 1
+Koya Sato: 1
+Ryoichiro Shiraishi: 1
+Mai Otsuki: 1
+Zhizhou He: 1
+Cheng Xu: 1
+Kuan-Ju Wu: 1
+Golan Levin: 1
+Naiyun Chen: 1
+Chia-Ming Chang: 1
+Yuki Mishima: 1
+Yamato Igarashi: 1
+Ryoma Miyauchi: 1
+Masahiro Okawa: 1
+Shuhei Ajisaka: 1
+Shinichiro Hara: 1
+Moe Matsuchi: 1
+Shuyang Luo: 1
+Milka Trajkova: 1
+Francesco Cafaro: 1
+K. Hachimura: 1
+H. Tamura: 1
+Justin Matejka: 1
+Augusto Dias Pereira dos Santos: 1
+Lian Loke: 1
+Roberto Martinez-Maldonado: 1
+Matthew Kyan: 1
+Guoyu Sun: 1
+Haiyan Li: 1
+Ling Zhong: 1
+Paisarn Muneesawang: 1
+Nan Dong: 1
+Bruce Elder: 1
+Ling Guan: 1
+Imogen J. Aujla: 1
+Emma Redding: 1
+Dieter Drobny: 1
+Jan Borchers: 1
+Kathrin Rehfeld: 1
+Angie Lüders: 1
+Anita Hökelmann: 1
+Volkmar Lessmann: 1
+Joern Kaufmann: 1
+Tanja Brigadski: 1
+Patrick Müller: 1
+Notger G. Müller: 1
+Masaya Tsuruta: 1
+Shuta Nakamae: 1
+Junichi Suzuki: 1
+Yunwoo Jeong: 1
+Han-Jong Kim: 1
+Tek-Jin Nam: 1
+Atsushi Watatani: 1
+Hao-Shu Fang: 1
+Shuqin Xie: 1
+Yu-Wing Tai: 1
+Cewu Lu: 1
+Julieta Martinez: 1
+Rayat Hossain: 1
+James J. Little: 1
+Philipp Schoessler: 1
+Jonas Loh: 1
+T. Kohyama: 1
+Y. Aizawa: 1
+Thomas Binder: 1
+Giorgio De Michelis: 1
+Kresimir Matkovic: 1
+Thomas Psik: 1
+Ina Wagner: 1
+M. Fiorentino: 1
+R. de Amicis: 1
+G. Monno: 1
+A. Stork: 1
+Richard Newcombe: 1
+Dustin Freeman: 1
+Andrew Davison: 1
+Bruno Simões: 1
+Federico Prandi: 1
+Raffaele De Amicis: 1
+Michal Spanel: 1
+Daniela Wurhofer: 1
+Verena Fuchsberger: 1
+Thomas Meneweger: 1
+Christiane Moser: 1
+Sachin Chitta: 1
+Ioan Sucan: 1
+Justin Huang: 1
+Kelleher R. Guerin: 1
+Colin Lea: 1
+Chris Paxton: 1
+Gregory D. Hager: 1
+Yasaman S. Sefidgar: 1
+Prerna Agarwal: 1
+Eric M. Orendt: 1
+Myriel Fichtner: 1
+Dominik Henrich: 1
+Dimitrios S. Alexiadis: 1
+Philip Kelly: 1
+Petros Daras: 1
+Noel E. O'Connor: 1
+Maher Ben Moussa: 1
+Jean-Baptiste de la Riviere: 1
+Jean-Claude Martin: 1
+Matthieu Courgeon: 1
+Myriam Desainte-Catherine: 1
+Emmanuel Orvain: 1
+Vincent Girondel: 1
+Gael Domengero: 1
+Sam Haren: 1
+Matthew Gardiner: 1
+C.K. Prahalad: 1
+Venkat Ramaswamy: 1
+Adrian F. Payne: 1
+Kaj Storbacka: 1
+Pennie Frow: 1
+Pamela V. Ulrich: 1
+Lenda Jo Anderson‐Connell: 1
+Weifang Wu: 1
+V. Soancatl Aguilar: 1
+C.J.C. Lamoth: 1
+N.M. Maurits: 1
+J.B.T.M. Roerdink: 1
+B. Amatya: 1
+M.P. Galea: 1
+J. Kesselring: 1
+Kleber O. Andrade: 1
+Ricardo C. Joaquim: 1
+Glauco A. P. Caurin: 1
+Marcio K. Crocomo: 1
+Francisco J. Badesa: 1
+Ricardo Morales: 1
+Nicolas Garcia-Aracil: 1
+J.M. Sabater: 1
+Alicia Casals: 1
+Loredana Zollo: 1
+Grigore C. Burdea: 1
+Daniel Cioi: 1
+Angad Kale: 1
+William E. Janes: 1
+Sandy A. Ross: 1
+Jack R. Engsberg: 1
+María Jesús Casuso-Holgado: 1
+Rocío Martín-Valero: 1
+Ana F Carazo: 1
+Esther M. Medrano-Sánchez: 1
+M. Dolores Cortés-Vega: 1
+Francisco José Montero-Bancalero: 1
+G. A. P. Caurin: 1
+A. A. G. Siqueira: 1
+K. O. Andrade: 1
+R. C. Joaquim: 1
+H. I. Krebs: 1
+A. Da Gama: 1
+T. Chaves: 1
+L. Figueiredo: 1
+V. Teichrieb: 1
+Alana Da Gama: 1
+Pascal Fallavollita: 1
+Veronica Teichrieb: 1
+Dal Jae Im: 1
+Jeunghun Ku: 1
+Yeun Joon Kim: 1
+Sangwoo Cho: 1
+Yun Kyung Cho: 1
+Teo Lim: 1
+Hye Sun Lee: 1
+Hyun Jung Kim: 1
+Youn Joo Kang: 1
+Marion Dalmazane: 1
+Matthieu Gallou-Guyot: 1
+Maxence Compagnat: 1
+Laurent Magy: 1
+Alexis Montcuquet: 1
+Maxime Billot: 1
+Jean-Christophe Daviet: 1
+Anaick Perrochon: 1
+Simona Portaro: 1
+Maria Le Cause: 1
+Carmela De Domenico: 1
+Pia Valentina Colucci: 1
+Federica Pranio: 1
+Placido Bramanti: 1
+Viviana Lo Buono: 1
+Antonino Leo: 1
+Margherita Russo: 1
+Bianca Aragona: 1
+Antonio Buda: 1
+Michele Torrisi: 1
+Adriana Piccolo: 1
+Giovanni Bonfiglio: 1
+Provvidenza Tomasello: 1
+Andrea Döring: 1
+Caspar F Pfueller: 1
+Friedemann Paul: 1
+Jan Dörr: 1
+Geert Alders: 1
+Domien Gijbels: 1
+Joan De Boeck: 1
+Tom De Weyer: 1
+Chris Raymaekers: 1
+Veronik Truyens: 1
+Patric Groenen: 1
+Kenneth Meijer: 1
+Hans Savelberg: 1
+O. Bert Eijnde: 1
+Lousin Moumdjian: 1
+Florian Van Halewyck: 1
+Inez Wens: 1
+Bert O Eijnde: 1
+Bart Van Wijmeersch: 1
+Veronica Popescu: 1
+Paul Van Asch: 1
+Christian Giang: 1
+Elvira Pirondini: 1
+Nawal Kinany: 1
+Camilla Pierella: 1
+Alessandro Panarese: 1
+Martina Coscia: 1
+Jenifer Miehlbradt: 1
+Cécile Magnin: 1
+Pierre Nicolo: 1
+Adrian Guggisberg: 1
+Silvestro Micera: 1
+Noa Givon Schaham: 1
+Gabi Zeilig: 1
+Harold Weingarden: 1
+Debbie Rand: 1
+Rosa Ortiz Gutiérrez: 1
+Fernando Galán del Río: 1
+Roberto Cano de la Cuerda: 1
+Isabel M. Alguacil-Diego: 1
+Rafael Arroyo González: 1
+Juan Carlos Miangolarra Page: 1
+Phu Hoang: 1
+Daniel Schoene: 1
+Simon Gandevia: 1
+Stuart Smith: 1
+Stephen R Lord: 1
+Zheng-Yu Hoe: 1
+Kuo-Ping Chang: 1
+Shih-Yu Huang: 1
+Jen-Perng Yu: 1
+Yuan-Kai Wang: 1
+Jia-Wei Liu: 1
+Barbara CH Huijgen: 1
+Miriam MR Vollenbroek-Hutten: 1
+Mauro Zampolini: 1
+Eloy Opisso: 1
+Montse Bernabeu: 1
+Johan Van Nieuwenhoven: 1
+Stephan Ilsbroukx: 1
+Riccardo Magni: 1
+Claudia Giacomozzi: 1
+Velio Marcellari: 1
+Sandro Scattareggia Marchese: 1
+Hermie J Hermens: 1
+Patricia Kan: 1
+Rajibul Huq: 1
+Jesse Hoey: 1
+Robby Goetschalckx: 1
+Alex Mihailidis: 1
+F Khan: 1
+L Turner-Stokes: 1
+L Ng: 1
+S Abrahamson: 1
+T Kilpatrick: 1
+Andreas Kramer: 1
+Christian Dettmers: 1
+Markus Gruber: 1
+Yunju Lee: 1
+Kai Chen: 1
+Yupeng Ren: 1
+Jongsang Son: 1
+Bruce A. Cohen: 1
+James A. Sliwa: 1
+Li-Qun Zhang: 1
+Jia Liu: 1
+Jianhui Mei: 1
+Xiaorui Zhang: 1
+Xiong Lu: 1
+Jing Huang: 1
+José-Antonio Lozano-Quilis: 1
+Sergio Albiol-Pérez: 1
+Hermenegildo Gil-Gómez: 1
+Guillermo Palacios-Navarro: 1
+Habib Fardoun: 1
+José-Antonio Gil-Gómez: 1
+Abdulfattah Mashat: 1
+Mengxuan Ma: 1
+Rachel Proffitt: 1
+Marjorie Skubic: 1
+Brian M. Sandroff: 1
+Brian M Sandroff: 1
+Gert Kwakkel: 1
+Ulrik Dalgas: 1
+Anthony Feinstein: 1
+Christoph Heesen: 1
+Alan J Thompson: 1
+PA McNulty: 1
+MR Mouawad: 1
+CG Doust: 1
+MD Max: 1
+Johanna Renny Octavia: 1
+Rosa Ortiz-Gutiérrez: 1
+Roberto Cano-de-la-Cuerda: 1
+Fernando Galán-del-Río: 1
+Isabel Alguacil-Diego: 1
+Domingo Palacios-Ceña: 1
+Juan Miangolarra-Page: 1
+C. Pazzaglia: 1
+I. Imbimbo: 1
+E. Tranchita: 1
+C. Minganti: 1
+D. Ricciardi: 1
+R. Lo Monaco: 1
+A. Parisi: 1
+L. Padua: 1
+Oscar Peña: 1
+Franceli L. Cibrian: 1
+Matthew Plow: 1
+Marcia Finlayson: 1
+Chris H. Polman: 1
+Stephen C. Reingold: 1
+Brenda Banwell: 1
+Michel Clanet: 1
+Jeffrey A. Cohen: 1
+Massimo Filippi: 1
+Kazuo Fujihara: 1
+Eva Havrdova: 1
+Michael Hutchinson: 1
+Ludwig Kappos: 1
+Fred D. Lublin: 1
+Xavier Montalban: 1
+Paul O'Connor: 1
+Magnhild Sandberg‐Wollheim: 1
+Alan J. Thompson: 1
+Emmanuelle Waubant: 1
+Brian Weinshenker: 1
+Jerry S. Wolinsky: 1
+Sharah A. Mutalib: 1
+Michael Mace: 1
+Nicolas Schweighofer: 1
+Carolee Winstein: 1
+James Gordon: 1
+Emerson Sebastião: 1
+Edward McAuley: 1
+Ryosuke Shigematsu: 1
+Brynn C. Adamson: 1
+Rachel E. Bollaert: 1
+Mohammad S. Namani: 1
+Giacomo Severini: 1
+Sofia Straudi: 1
+Claudia Pavarelli: 1
+Marco Da Roit: 1
+Carlotta Martinuzzi: 1
+Laura Di Marco Pizzongolo: 1
+Nino Basaglia: 1
+Camille J. Shanahan: 1
+Frederique M. C. Boonstra: 1
+L. Eduardo Cofré Lizama: 1
+Myrte Strik: 1
+Bradford A. Moffat: 1
+Trevor J. Kilpatrick: 1
+Anneke van der Walt: 1
+Mary P. Galea: 1
+Scott C. Kolbe: 1
+Roland Sigrist: 1
+Georg Rauter: 1
+Robert Riener: 1
+Peter Wolf: 1
+João Vieira: 1
+Artur Arsenio: 1
+Chung-Ho Su: 1
+MJD Taylor: 1
+M Griffin: 1
+Matthew J. D. Taylor: 1
+Darren McCormick: 1
+Teshk Shawis: 1
+Rebecca Impson: 1
+Murray Griffin: 1
+Sara Ventura: 1
+Joanne M. Wagner: 1
+Rosemary A. Norris: 1
+Linda R. Van Dillen: 1
+Florian P. Thomas: 1
+Robert T. Naismith: 1
+Hartwig Woldag: 1
+Horst Hummelsheim: 1
+Erin M. Snook: 1
+Antoni Jaume-i-Capo: 1
+Pau Martinez-Bueso: 1
+Biel Moya-Alcover: 1
+Javier Varona: 1
+Lynne Turner-Stokes: 1
+Louisa Ng: 1
+Trevor Kilpatrick: 1
+Bhasker Amatya: 1
+George W. Fitzmaurice: 1
+William A. S. Buxton: 1
+H. G. Hoffman: 1
+A. Hollander: 1
+K. Schroder: 1
+S. Rousseau: 1
+T. Furness: 1
+Dan Maynes-Aminzade: 1
+Yao Wang: 1
+Johnny Lee: 1
+Darren Leigh: 1
+Remo Ziegler: 1
+Akira Suganuma: 1
+Yusuke Ogata: 1
+Atsushi Shimada: 1
+Daisaku Arita: 1
+Rin-ichiro Taniguchi: 1
+Jeff Rose: 1
+Klaus Dorfmüller: 1
+Y. Genc: 1
+S. Riedel: 1
+F. Souvannavong: 1
+C. Akinlar: 1
+Hanxuan Yang: 1
+Liang Wang: 1
+Andreas M. Hötker: 1
+Michael B. Pitton: 1
+Peter Mildenberger: 1
+Christoph Düber: 1
+Eunjung Choi: 1
+Sunghyuk Kwon: 1
+Donghun Lee: 1
+Hogin Lee: 1
+Min K. Chung: 1
+Radu-Daniel Vatavu: 1
+Christine Kühnel: 1
+Tilo Westermann: 1
+Alexander Müller: 1
+Sebastian Möller: 1
+Martin Schrepp: 1
+Andreas Hinderks: 1
+Jörg Thomaschewski: 1
+Scott Carter: 1
+Jennifer Mankoff: 1
+Scott R. Klemmer: 1
+Tara Matthews: 1
+G. Farneback: 1
+Jonas G�rding: 1
+Carlos Hernandez: 1
+George Vogiatzis: 1
+Gabriel J. Brostow: 1
+Bjorn Stenger: 1
+Roberto Cipolla: 1
+Berthold K. P. Horn: 1
+Matthias B. Hullin: 1
+Ivo Ihrke: 1
+Emil Praun: 1
+Hugues Hoppe: 1
+E. Rosten: 1
+R. Porter: 1
+T. Drummond: 1
+Ethan Rublee: 1
+Vincent Rabaud: 1
+Kurt Konolige: 1
+Gary Bradski: 1
+Samuele Salti: 1
+Luigi Di Stefano: 1
+Li-Yi Wei: 1
+Marija Đakulović: 1
+Ivan Maurović: 1
+Ivan Petrović: 1
+Dinko Osmanković: 1
+Jasmin Velagić: 1
+Y.-W. Qin: 1
+N.-K. Bao: 1
+Girum G. Demisse: 1
+Baobei Xu: 1
+Zhangyu Ye: 1
+Christel-Loic Tisse: 1
+Seppe Sels: 1
+Boris Bogaerts: 1
+Simon Verspeek: 1
+Bart Ribbens: 1
+Gunther Steenackers: 1
+Rudi Penne: 1
+Steve Vanlanduit: 1
+Martin Landmann: 1
+Stefan Heist: 1
+Patrick Dietrich: 1
+Peter Lutzke: 1
+Ingo Gebhart: 1
+Joachim Templin: 1
+Peter Kühmstedt: 1
+Andreas Tünnermann: 1
+Yatong An: 1
+Henning Metzmacher: 1
+Daniel Wölki: 1
+Carolin Schmidt: 1
+Jérôme Frisch: 1
+Christoph van Treeck: 1
+Kangdon Lee: 1
+Mei Aoki: 1
+Michael Kaess: 1
+Hordur Johannsson: 1
+Maurice Fallon: 1
+John J. Leonard: 1
+John McDonald: 1
+David G. Lowe: 1
+Renato F Salas-Moreno: 1
+Ben Glocker: 1
+Andrew J Davison: 1
+Stefan Leutenegger: 1
+Angela Dai: 1
+Stephen Vidas: 1
+Ruan Lakemond: 1
+Simon Denman: 1
+Clinton Fookes: 1
+Sridha Sridharan: 1
+Tim Wark: 1
+Gennaro Cardone: 1
+Andrea Ianiro: 1
+Gennaro dello Ioio: 1
+Andrea Passaro: 1
+B.F. Jones: 1
+Y. Ohashi: 1
+I. Uchida: 1
+Jacek Rumiski: 1
+Mariusz Kaczmarek: 1
+Alicja Renkielska: 1
+Antoni Nowakowski: 1
+B SONMEZ: 1
+S. Marinetti: 1
+E. Grinzato: 1
+P.G. Bison: 1
+E. Bozzi: 1
+M. Chimenti: 1
+G. Pieri: 1
+O. Salvetti: 1
+Carlos Javier Rengifo: 1
+Andrés David Restrepo: 1
+Sandra Esperanza Nope: 1
+Steve Fenton: 1
+Scott McFadden: 1
+Nathan A. Rose: 1
+David R. Hessel: 1
+Robert D. Holohan: 1
+Alan M. Billing: 1
+Stephen D. Murray: 1
+Thomas J Ayres: 1
+Tate Kubose: 1
+Joseph W. Wulfeck: 1
+Alexander Weisz: 1
+Margaret W. Raben: 1
+Inc. Jackson & Moreland: 1
+George O. Emerson: 1
+Clay Coleman: 1
+Donald Tandy: 1
+Jason Colborn: 1
+Nicholas Ault: 1
+Dimitar Valkov: 1
+Klaus Hinrichs: 1
+Anne Auger: 1
+Raymond Ros: 1
+Steffen Finck: 1
+Petr Pošík: 1
+Andreas Ostermeier: 1
+Moon-Hyun Lee: 1
+Byung-Kuk Seo: 1
+Hong-Chang Shin: 1
+Daniel Mendes: 1
+Rafael Kuffner Dos Anjos: 1
+Alfredo Ferreira: 1
+João Madeiras Pereira: 1
+Johnny Accot: 1
+Drini Cami: 1
+Fabrice Matulic: 1
+Richard G. Calland: 1
+Brian Vogel: 1
+R. William Soukoreff: 1
+Leah Findlater: 1
+Darren Gergle: 1
+James J. Higgins: 1
+Steven Schkolne: 1
+Michael Pruett: 1
+Peter Schröder: 1
+Robert Bridson: 1
+Ali O. Ercan: 1
+Abbas El Gamal: 1
+Leonidas J. Guibas: 1
+Robert Held: 1
+Ankit Gupta: 1
+Edward Tse: 1
+Rahul Sukthankar: 1
+Junchen Wang: 1
+Hideyuki Suenaga: 1
+Kazuto Hoshi: 1
+Liangjing Yang: 1
+Etsuko Kobayashi: 1
+Ichiro Sakuma: 1
+Edward Cutrell: 1
+Robert Gruen: 1
+Leila Schemali: 1
+Robert J. Teather: 1
+Wolfgang Stuerzlinger: 1
+Enrico Motta: 1
+Susan Wiedenbeck: 1
+Wei GAO: 1
+Liang WANG: 1
+Zhan-Yi HU: 1
+Kenichi MURAKAMI: 1
+Akio NAMIKI: 1
+A Bolu Ajiboye: 1
+Francis R Willett: 1
+Daniel R Young: 1
+William D Memberg: 1
+Brian A Murphy: 1
+Jonathan P Miller: 1
+Benjamin L Walter: 1
+Jennifer A Sweet: 1
+Harry A Hoyen: 1
+Michael W Keith: 1
+P Hunter Peckham: 1
+John D Simeral: 1
+John P Donoghue: 1
+Leigh R Hochberg: 1
+Robert F Kirsch: 1
+S. Hinterstoisser: 1
+C. Cagniart: 1
+S. Ilic: 1
+P. Sturm: 1
+Leigh R. Hochberg: 1
+Daniel Bacher: 1
+Beata Jarosiewicz: 1
+Nicolas Y. Masse: 1
+John D. Simeral: 1
+Joern Vogel: 1
+Jie Liu: 1
+Sydney S. Cash: 1
+Patrick van der Smagt: 1
+John P. Donoghue: 1
+Rytis Maskeliunas: 1
+Robertas Damasevicius: 1
+Ignas Martisius: 1
+Mindaugas Vasiljevas: 1
+Solomon Rojhani: 1
+Steven A. Stiens: 1
+Albert C. Recio: 1
+Alexander Yeh: 1
+Photchara Ratsamee: 1
+Yuki Uranishi: 1
+Morten Fjeld: 1
+Mohammad Obaid: 1
+Werner Alexander Isop: 1
+Jesus Pestana: 1
+Gabriele Ermacora: 1
+Friedrich Fraundorfer: 1
+Kazuhisa Iida: 1
+Charles E. Baker: 1
+Kishore V. Chellappan: 1
+Erdem Erden: 1
+Hakan Urey: 1
+Lihao Xu: 1
+Baiyue Zhao: 1
+M. R. Luo: 1
+H. Peri: 1
+P.N. Belhumeur: 1
+Cheryl Lau: 1
+Rafal Mantiuk: 1
+Chong Wang: 1
+Jieyu Zhao: 1
+Dong Wang: 1
+Po-Jung Chiu: 1
+Shao-Yi Chien: 1
+Patrick Tobias Fischer: 1
+Anke von der Heide: 1
+Eva Hornecker: 1
+Sabine Zierold: 1
+Andreas Kästner: 1
+Felix Dondera: 1
+Matti Wiegmann: 1
+Fernando Millán: 1
+Jonas Lideikis: 1
+Aidas Čergelis: 1
+Reinaldo Verde: 1
+Christoph Drews: 1
+Till Fastnacht: 1
+Kai Gerrit Lünsdorf: 1
+Djamel Merad: 1
+Aryan Khosravani: 1
+Hesam Jannesar: 1
+Zhu He: 1
+M. Lazarov: 1
+Oliver Cossairt: 1
+Alexandre Kaspar: 1
+Martin Knecht: 1
+Christoph Traxler: 1
+Oliver Mattausch: 1
+Derek Nowrouzezahrai: 1
+Stefan Geiger: 1
+Kenny Mitchell: 1
+Robert Sumner: 1
+Daniel Weber: 1
+Jan Bender: 1
+Markus Schnoes: 1
+André Stork: 1
+Dieter Fellner: 1
+Sebastian Feese: 1
+Michael Joseph Burscher: 1
+Klaus Jonas: 1
+Gerhard Tröster: 1
+Nagappa Bhajantri: 1
+Kumar R. Pradeep: 1
+P. Nagabhushan: 1
+Yoshihiro Yasumuro: 1
+Kunihiro Chihara: 1
+Suk Chon: 1
+Hohyun Lee: 1
+Joonsung Yoon: 1
+Yongjiu Liu: 1
+Hao Gao: 1
+Qingyi Gu: 1
+Joanne L. Armitage: 1
+Kia Ng: 1
+Takeyuki Ajito: 1
+Will Allen: 1
+Robert Ulichney: 1
+O Bimber: 1
+D Kloeck: 1
+T Amano: 1
+A Grundhoefer: 1
+D Kurz: 1
+Xinli Chen: 1
+Meng Li: 1
+I. Din: 1
+H. Anwar: 1
+I. Syed: 1
+H. Zafar: 1
+L. Hasan: 1
+Jamil Draréni: 1
+Sébastien Roy: 1
+Niranjan Damera-Venkata: 1
+Nelson L. Chang: 1
+Keita Hirai: 1
+Daisuke Irie: 1
+Takahiko Horiuchi: 1
+Hsin-Ni Ho: 1
+Yuki Yoshikawa: 1
+Abir Jaafar Hussain: 1
+Liam Knight: 1
+Dhiya Al-Jumeily: 1
+Paul Fergus: 1
+Hani Hamdan: 1
+Reynald Hoskinson: 1
+Boris Stoeber: 1
+Kei Kodama: 1
+A J Law: 1
+D G Aliaga: 1
+A Majumder: 1
+Tuotuo Li: 1
+Feng Hu: 1
+Zheng Geng: 1
+Dong Li: 1
+Jinghui Xie: 1
+Lu Zhao: 1
+Lijing Zhou: 1
+Dongdong Weng: 1
+Cameron Browne: 1
+Michael S. Brown: 1
+Ryutaro Mine: 1
+C. Menk: 1
+R. Koch: 1
+Jack Tumblin: 1
+Tian-Tsong Ng: 1
+Ramanpreet Singh Pahwa: 1
+Jiamin Bai: 1
+Kar-Han Tan: 1
+T. Okatani: 1
+M. Wada: 1
+K. Deguchi: 1
+Marios Papas: 1
+Wenzel Jakob: 1
+Tim Weyrich: 1
+Andrew Richardson: 1
+Johannes Strom: 1
+Edwin Olson: 1
+Noah Snavely: 1
+Richard Szeliski: 1
+Robert Tamburo: 1
+Eriko Nurvitadhi: 1
+Abhishek Chugh: 1
+Mei Chen: 1
+Shuntaro Yamazaki: 1
+Mahdi Azmandian: 1
+P.J. Besl: 1
+Neil D. McKay: 1
+Adrian Clark: 1
+Gun Lee: 1
+Klaus H. Hinrichs: 1
+K. Burger: 1
+J. Kruger: 1
+R. Westermann: 1
+Philip Davidson: 1
+Sean Ryan Fanello: 1
+Sergio Orts Escolano: 1
+Jonathan Taylor: 1
+Sebastian Freitag: 1
+Dominik Rausch: 1
+Torsten Kuhlen: 1
+Anuruddha Hettiarachchi: 1
+Yung-Ta Lin: 1
+Yi-Chi Liao: 1
+Shan-Yuan Teng: 1
+Yi-Ju Chung: 1
+Liwei Chan: 1
+Bing-Yu Chen: 1
+Joerg Mueller: 1
+Jörg Mueller: 1
+Sang-won Leigh: 1
+Steve Mann: 1
+James Fung: 1
+Mark McGill: 1
+Daniel Boland: 1
+Roderick Murray-Smith: 1
+Takashi Miyaki: 1
+M. Mohring: 1
+C. Lessig: 1
+Sergio Orts-Escolano: 1
+Sean Fanello: 1
+Wayne Chang: 1
+Philip L. Davidson: 1
+Qin Cai: 1
+Philip A. Chou: 1
+Sarah Mennicken: 1
+Vivek Pradeep: 1
+Shenlong Wang: 1
+Sing Bing Kang: 1
+Yuliya Lutchyn: 1
+Cem Keskin: 1
+Shigeru Owada: 1
+Frank Nielsen: 1
+Takeo Igarashi: 1
+Katashi Nagao: 1
+Claus Scheiblauer: 1
+V. Singh: 1
+D. Silver: 1
+N. Cornea: 1
+Adriana de Souza e Silva: 1
+Misha Sra: 1
+Sergio Garrido-Jurado: 1
+Chris Schmandt: 1
+Richard Stoakley: 1
+Vibhav Vineet: 1
+Ming-Ming Cheng: 1
+Antonio Criminisi: 1
+Philip Torr: 1
+John Viega: 1
+George Williams: 1
+Yong-Liang Yang: 1
+H. Toyoda: 1
+S. Mizuno: 1
+Dustin Beyer: 1
+Serafima Gurevich: 1
+Hsiang-Ting Chen: 1
+Michael Holroyd: 1
+Min Liu: 1
+Yunbo Zhang: 1
+Jing Bai: 1
+Yuanzhi Cao: 1
+Jeffrey M. Alperovich: 1
+Karthik Ramani: 1
+Tobias Mohr: 1
+Kerstin Guenther: 1
+Johannes Frohnhofen: 1
+Ziqi Wang: 1
+Zhichao Dong: 1
+Wei Li: 1
+Chi-Wing Fu: 1
+Ligang Liu: 1
+Xiaolong Zhang: 1
+Yongliang Yang: 1
+Yi-King Choi: 1
+Amit Zoran: 1
+Roy Shilkrot: 1
+Joseph Paradiso: 1
+Wee Ching Pang: 1
+Gerald Seet: 1
+Xiling Yao: 1
+Sandra P. Osorio: 1
+Luis M. Aristizabal: 1
+Carlos A. Zuluaga: 1
+Anant Agarwal: 1
+Manish K Thakur: 1
+M. Mohandes: 1
+S. Aliyu: 1
+M. Deriche: 1
+C. A. Grimaldos-Trillos: 1
+S. N. Moreno-Lizarazo: 1
+S. A. Salinas: 1
+Pierre Rouanet: 1
+Jerome Bechu: 1
+Pierre-Yves Oudeyer: 1
+Xinran Zhang: 1
+Guowen Chen: 1
+Robert Krug: 1
+Chunjia Hu: 1
+Guangtao Zhai: 1
+Duo Li: 1
+S. Tano: 1
+K. Suzuki: 1
+K. Miki: 1
+N. Watanabe: 1
+M. Iwata: 1
+T. Hashiyama: 1
+J. Ichino: 1
+K. Nakayama: 1
+Katsutoshi Masai: 1
+Zhiwei Zhu: 1
+Mikhail Sizintsev: 1
+Nicholas Vitovitch: 1
+Taragay Oskiper: 1
+Ryan Villamil: 1
+Ali Chaudhry: 1
+Supun Samarasekera: 1
+Rakesh Kumar: 1
+Takuya Sasai: 1
+Yo Takahashi: 1
+Mitsunori Kotani: 1
+Akio Nakamura: 1
+Patrick Grady: 1
+Chengcheng Tang: 1
+Samarth Brahmbhatt: 1
+Chengde Wan: 1
+James Hays: 1
+Charles C. Kemp: 1
+Jefferson Y. Han: 1
+Sungwon Choi: 1
+Sungwoong Park: 1
+Sung-Wook Min: 1
+Ayami Hoshi: 1
+Ryo Matsukage: 1
+Sota Aoyama: 1
+Tsuyoshi Kikukawa: 1
+T. Peterka: 1
+R.L. Kooima: 1
+D.J. Sandin: 1
+A. Johnson: 1
+J. Leigh: 1
+T.A. DeFanti: 1
+Kazuki Otao: 1
+Kazuki Takazawa: 1
+Hiroyuki Osone: 1
+Takehiro Niikura: 1
+Takashi Matsubara: 1
+Naoki Mori: 1
+Yudai Niwa: 1
+Hiroto Nishino: 1
+Etsuro Hatano: 1
+Satoru Seo: 1
+Takashi Nitta: 1
+Tomoyuki Saito: 1
+Masaaki Nakamura: 1
+Kayo Hattori: 1
+Muneo Takatani: 1
+Hiroaki Fuji: 1
+Kojiro Taura: 1
+Shinji Uemoto: 1
+Yugo Minomo: 1
+Yasuaki Kakehi: 1
+Makoto Iida: 1
+Kouichi Nitta: 1
+Osamu Matoba: 1
+Han-Le Zhang: 1
+Huan Deng: 1
+Hui Ren: 1
+Xin Yang: 1
+Yan Xing: 1
+Da-Hai Li: 1
+Masahiko Yasui: 1
+Vaibhav Vaish: 1
+Myron W. Krueger: 1
+Thomas Gionfriddo: 1
+Katrin Hinrichsen: 1
+Kazuhiro Matsushita: 1
+Huichuan Xu: 1
+Yuka Tomiyama: 1
+Gregory D. Abowd: 1
+J. Tsukamoto: 1
+K. Kashima: 1
+Jaedong Kim: 1
+Hyunggoog Seo: 1
+Seunghoon Cha: 1
+Junyong Noh: 1
+Yoshiko Sugaya: 1
+Isao Miyagawa: 1
+Naoki Sugita: 1
+Moritz Bächer: 1
+Hyunho Richard Lee: 1
+Irvin Rock: 1
+Jack Victor: 1
+Marc O. Ernst: 1
+Martin S. Banks: 1
+A. Lecuyer: 1
+S. Coquillart: 1
+A. Kheddar: 1
+P. Richard: 1
+P. Coiffet: 1
+David Antonio Gómez Jáuregui: 1
+Andreas Dippon: 1
+Seokhee Jeon: 1
+Seungmoon Choi: 1
+Yohei Sano: 1
+Shuhei Ikemoto: 1
+Heni Amor: 1
+Takashi Minato: 1
+Bernhard Jung: 1
+Hiroshi Ishiguro: 1
+Hisashi Ishihara: 1
+Yuichiro Yoshikawa: 1
+Minoru Asada: 1
+Merwan Achibet: 1
+Anatole Lecuyer: 1
+John M. Hollerbach: 1
+Stephen A. Mascaro: 1
+A. Kumar: 1
+K.V. Prathyusha: 1
+Jack Sklansky: 1
+Stefan Werrlich: 1
+Kai Nitsche: 1
+Alia Rukubayihunga: 1
+Jean-Yves Didier: 1
+Samir Otmane: 1
+Frieder Loch: 1
+Fabian Quint: 1
+Iuliia Brishtel: 1
+Nicolas Vignais: 1
+Markus Miezal: 1
+Gabriele Bleser: 1
+Katharina Mura: 1
+Frédéric Marin: 1
+Michela Dalle Mura: 1
+Gino Dini: 1
+Franco Failli: 1
+Pierre Plantard: 1
+Edouard Auvinet: 1
+Anne-Sophie Pierres: 1
+Franck Multon: 1
+H. Haggag: 1
+M. Hossny: 1
+S. Nahavandi: 1
+D. Creighton: 1
+Shengqian Jiang: 1
+Peng Liu: 1
+Danni Fu: 1
+Yiming Xue: 1
+Wentao Luo: 1
+Mingjie Wang: 1
+Sue Hignett: 1
+Lynn McAtamney: 1
+Gabriella Airenti: 1
+Bruno G. Bara: 1
+Marco Colombetti: 1
+Dale J. Barr: 1
+Boaz Keysar: 1
+Joseph Bates: 1
+J. Christopher Brill: 1
+Michael David Coovert: 1
+Melvin Goldstein: 1
+Ashley A. Walvoord: 1
+Richard Cox: 1
+Jan Peter de Ruiter: 1
+Matthijs L. Noordzij: 1
+Sarah Newman-Norlund: 1
+Roger Newman-Norlund: 1
+Peter Hagoort: 1
+Stephen C. Levinson: 1
+Ivan Toni: 1
+Terrence Fong: 1
+Illah Nourbakhsh: 1
+J. Fritsch: 1
+M. Kleinehagenbrock: 1
+S. Lang: 1
+T. Plötz: 1
+G.A. Fink: 1
+G. Sagerer: 1
+Michael A. Goodrich: 1
+Alan C. Schultz: 1
+Peter A. Hancock: 1
+Deborah R. Billings: 1
+Kristin E. Schaefer: 1
+Jessie Y. C. Chen: 1
+Ewart J. de Visser: 1
+Pamela Hinds: 1
+Teresa Roberts: 1
+Hank Jones: 1
+L.A. Jones: 1
+M. Nakamura: 1
+B. Lockyer: 1
+Judith A. Ouellette: 1
+Wendy Wood: 1
+M. S. Prewett: 1
+L. R. Elliott: 1
+A. G. Walvoord: 1
+M. D. Coovert: 1
+Matthew S. Prewett: 1
+Ryan C. Johnson: 1
+Kristin N. Saboe: 1
+Jens Rasmussen: 1
+William B. Rouse: 1
+Nancy M. Morris: 1
+F. Sakaue: 1
+M. Kobayashi: 1
+T. Migita: 1
+T. Shakunaga: 1
+Richard M. Shiffrin: 1
+Walter Schneider: 1
+Paul Chandler: 1
+T. D. Wilson: 1
+Michiel P. de Looze: 1
+Konrad S. Stadler: 1
+Leonard W. O’Sullivan: 1
+Marco Pattke: 1
+Manuel Martin: 1
+Michael Voit: 1
+Alexandre Moeuf: 1
+Robert Pellerin: 1
+Samir Lamouri: 1
+Simon Tamayo-Giraldo: 1
+Rodolphe Barbaray: 1
+Nadia Galaske: 1
+Reiner Anderl: 1
+Yuichi Shiwaku: 1
+Seung Joo Lee: 1
+Bui Tuong Phong: 1
+Henrik Wann Jensen: 1
+Hung-Cheng Tsai: 1
+Shih-Wen Hsiao: 1
+Fei-Kung Hung: 1
+Cindy E. Hmelo-Silver: 1
+JENS ALLWOOD: 1
+DAVID TRAUM: 1
+KRISTIINA JOKINEN: 1
+Roland Juchmes: 1
+Doris Fay: 1
+Michael Frese: 1
+Sami Ben Rajeb: 1
+Clarence A. Ellis: 1
+Simon J. Gibbs: 1
+Gail Rein: 1
+John M. Carroll: 1
+Dennis C. Neale: 1
+Philip L. Isenhour: 1
+Mary Beth Rosson: 1
+D.Scott McCrickard: 1
+Daniel Calife: 1
+João Luiz Bernardes: 1
+Haipeng Mi: 1
+Aleksander Krzywinski: 1
+Tomoki Fujita: 1
+David Robert: 1
+Ryan Wistorrt: 1
+Jesse Gray: 1
+Cynthia Breazeal: 1
+Brian Gerkey: 1
+Ken Conley: 1
+Willow Garage: 1
+Zdenek Kalal: 1
+Krystian Mikolajczyk: 1
+Jiri Matas: 1
+Tully Foote: 1
+Lisa Avila: 1
+Mike Bailey: 1
+Maria Luce Lupetti: 1
+Federica Rossetto: 1
+Seiko Myojin: 1
+Keisuke Sakai: 1
+Yutaka Hiroi: 1
+Akinori Ito: 1
+F.C.A. Groen: 1
+G.A. der Boer: 1
+A. van Inge: 1
+R. Stam: 1
+Aaron Powers: 1
+Sara Kiesler: 1
+Susan Fussell: 1
+Cristen Torrey: 1
+David Estevez: 1
+Juan Victores: 1
+Santiago Morante: 1
+Carlos Balaguer: 1
+KATE S. HONE: 1
+ROBERT GRAHAM: 1
+Paweł Kiper: 1
+Joanna Stożek: 1
+Stephanie Hyeyoung Lee: 1
+Ji-Yeong Lee: 1
+Mi-Young Kim: 1
+Yu-Jin Jeon: 1
+Suyoung Kim: 1
+Joon-Ho Shin: 1
+Victoria A. Goodwin: 1
+Suzanne H. Richards: 1
+Rod S. Taylor: 1
+Adrian H. Taylor: 1
+John L. Campbell: 1
+Lesley D Gillespie: 1
+M Clare Robertson: 1
+William J Gillespie: 1
+Catherine Sherrington: 1
+Simon Gates: 1
+Lindy Clemson: 1
+Sarah E Lamb: 1
+Gillian Barry: 1
+Brook Galna: 1
+Lynn Rochester: 1
+Sabine Janssen: 1
+Jaap de Ruyter van Steveninck: 1
+Hizirwan S. Salim: 1
+Helena M. Cockx: 1
+Bastiaan R. Bloem: 1
+Tjitske Heida: 1
+Richard J. A. van Wezel: 1
+Sylvia Wilbur: 1
+Y. Gao: 1
+K. Liu: 1
+L. Lin: 1
+L. Xie: 1
+Kate E Laver: 1
+Belinda Lange: 1
+Stacey George: 1
+Judith E Deutsch: 1
+Gustavo Saposnik: 1
+Maria Crotty: 1
+Dimitris Chatzopoulos: 1
+Carlos Bermejo: 1
+Zhanpeng Huang: 1
+Pan Hui: 1
+Mauro Dam: 1
+Laura Ventura: 1
+Michela Agostini: 1
+Carla Zucconi: 1
+Pawel Kiper: 1
+Annachiara Cagnin: 1
+Alberto J. Espay: 1
+Yoram Baram: 1
+Alok Kumar Dwivedi: 1
+Rakesh Shukla: 1
+Maureen Gartner: 1
+Laura Gaines: 1
+Andrew P. Duker: 1
+Fredy J. Revilla: 1
+S. Mann: 1
+Nate Hagbi: 1
+Oriel Bergig: 1
+Jihad El-Sana: 1
+Roy H. Campbell: 1
+Guy Garnett: 1
+Brian P. Bailey: 1
+Cindy M. Goral: 1
+Donald P. Greenberg: 1
+Bennett Battaile: 1
+Sabeur Bettaieb: 1
+Frédéric Noël: 1
+Ben McGarry: 1
+Erling Bjögvinsson: 1
+Pelle Ehn: 1
+Per-Anders Hillgren: 1
+Lucienne T.M. Blessing: 1
+Amaresh Chakrabarti: 1
+Boris Ewenstein: 1
+Jennifer Whyte: 1
+Fabio Bruno: 1
+Maurizio Muzzupappa: 1
+S. Bødker: 1
+Michele Caroline Bueno Ferrari Caixeta: 1
+Patrícia Tzortzopoulos: 1
+Márcio Minto Fabricio: 1
+Philip Cash: 1
+Anja Maier: 1
+Jacob Cohen: 1
+Richard Coyne: 1
+Hoon Park: 1
+Dorian Wiszniewski: 1
+Erica de Vries: 1
+Cédric Masclet: 1
+Andrew Drain: 1
+Aruna Shekar: 1
+Nigel Grigg: 1
+Claudia M Eckert: 1
+Jeffrey H Johnson: 1
+Ozgur Eris: 1
+Nikolas Martelaro: 1
+Francesco Ferrise: 1
+Serena Graziosi: 1
+Juliano Franz: 1
+Mohammed Alnusayri: 1
+Joseph Malloch: 1
+Derek Reilly: 1
+Onur Hisarciklilar: 1
+Finn Kensing: 1
+Jeanette Blomberg: 1
+Henna Lahti: 1
+Pirita Seitamaa-Hakkarainen: 1
+Kai Hakkarainen: 1
+Curtis LeBaron: 1
+Jürgen Streeck: 1
+Kristine Lund: 1
+Jean-Laurent Cassier: 1
+MARTIN MAGUIRE: 1
+Michael Studdert-Kennedy: 1
+Lorenza Mondada: 1
+Solomon O. Ogara: 1
+Chang Koh: 1
+Marian Petre: 1
+Ken Pfeuffer: 1
+Pernilla Qvarfordt: 1
+Jose Rubio-Tamayo: 1
+Manuel Gertrudix Barrio: 1
+Francisco García García: 1
+Mohsen Sadeghi: 1
+Frederic Noel: 1
+Khaled Hadj Hamou: 1
+Mickael Sereno: 1
+Xiyao Wang: 1
+Lonni Besancon: 1
+Michael J Mcguffin: 1
+Tobias Isenberg: 1
+Susan Leigh Star: 1
+Joachim Stempfle: 1
+Marc Steen: 1
+Hemant Bhaskar Surale: 1
+Aakar Gupta: 1
+Robert Suurmond: 1
+Finn Wynstra: 1
+Jan Dul: 1
+Larry J. Leifer: 1
+Melanie Tory: 1
+Sheryl Staub-French: 1
+Barry A. Po: 1
+Fuqu Wu: 1
+Dominique Vinck: 1
+Mary Lou Maher: 1
+Christopher R. Wilkinson: 1
+Antonella De Angeli: 1
+Cara Wilson: 1
+Bernd Ploderer: 1
+Laurianne Sitbon: 1
+Eiko Yasui: 1
+Helena Lovasz-Bukvova: 1
+Marvin Hölzl: 1
+Gerhard Kormann-Hainzl: 1
+Thomas Moser: 1
+Doris Aschenbrenner: 1
+Argun Çençen: 1
+Marc Latoschik: 1
+Stephan Lukosch: 1
+Andrew Pringle: 1
+Stefanie Hutka: 1
+Jesse Mom: 1
+Robin van Esch: 1
+Niall Heffernan: 1
+Paul Chen: 1
+Romina Kettner: 1
+Patrick RUPPRECHT: 1
+Hans KUEFFNER-MCCAULEY: 1
+Majesa TRIMMEL: 1
+Michael HORNACEK: 1
+Sebastian SCHLUND: 1
+Benedikt G. Mark: 1
+Dominik T. Matt: 1
+Michael Hornacek: 1
+Hans Küffner-McCauley: 1
+Luís Fernando de Souza Cardoso: 1
+Flávia Cristina Martins Queiroz Mariano: 1
+Ezequiel Roberto Zorzal: 1
+R. Müller: 1
+M. Vette: 1
+O. Mailahn: 1
+A. Ginschel: 1
+J. Ball: 1
+Karahanna: 1
+Agarwal: 1
+Angst: 1
+Susan G. Hill: 1
+Helene P. Iavecchia: 1
+James C. Byers: 1
+Alvah C. Bittner: 1
+Allen L. Zaklade: 1
+Richard E. Christ: 1
+Tiberiu Popa: 1
+Yunqiang Chen: 1
+Yong Rui: 1
+T.S. Huang: 1
+Kwang-Jin Choi: 1
+Hyeong-Seok Ko: 1
+B. Eberhardt: 1
+A. Weber: 1
+W. Strasser: 1
+Russell Gillette: 1
+Craig Peters: 1
+Nicholas Vining: 1
+Essex Edwards: 1
+V. Granville: 1
+M. Krivanek: 1
+J.-P. Rasson: 1
+Anna Hilsmann: 1
+David C. Schneider: 1
+Peter Eisert: 1
+Ladislav Kavan: 1
+Dan Gerszewski: 1
+Adam W. Bargteil: 1
+Bryn Lloyd: 1
+Gabor Szekely: 1
+Andrew Nealen: 1
+Eddy Boxerman: 1
+Mark Carlson: 1
+M. Teschner: 1
+B. Heidelberger: 1
+M. Muller: 1
+Aydin Varol: 1
+Mathieu Salzmann: 1
+Engin Tola: 1
+Adrian Korodi: 1
+Denis Anitei: 1
+Alexandru Boitor: 1
+Ioan Silea: 1
+V. Raghavan: 1
+J. Molineros: 1
+R. Sharma: 1
+Riccardo Palmarini: 1
+John Ahmet Erkoyuncu: 1
+Rajkumar Roy: 1
+Hosein Torabmostaedi: 1
+Xuyue Yin: 1
+Xiumin Fan: 1
+Xu Yang: 1
+Shiguang Qiu: 1
+Zhinan Zhang: 1
+JungHyun Byun: 1
+Marco Ojer: 1
+Ismael Serrano: 1
+Fátima A. Saiz: 1
+Iñigo Barandiaran: 1
+Daniel Aguinaga: 1
+Leire Querejeta: 1
+David Alejandro: 1
+Boris Lamontagne: 1
+Norman R. Fong: 1
+In-Hyouk Song: 1
+Penghui Ma: 1
+Pedro Barrios: 1
+Daniel Poitras: 1
+Jungong Han: 1
+Dong Xu: 1
+Luca Gallucci: 1
+Costantino Menna: 1
+Leopoldo Angrisani: 1
+Domenico Asprone: 1
+Rosario Schiano Lo Moriello: 1
+Francesco Bonavolontà: 1
+Francesco Fabbrocino: 1
+Oscar Blanco-Novoa: 1
+Tiago M. Fernandez-Carames: 1
+Paula Fraga-Lamas: 1
+Miguel A. Vilar-Montesinos: 1
+J. Hastad: 1
+B. Just: 1
+J. C. Lagarias: 1
+C. P. Schnorr: 1
+Jarkko Polvi: 1
+Atsunori Moteki: 1
+Toshiyuki Yoshitake: 1
+Toshiyuki Fukuoka: 1
+Antti Hietanen: 1
+Roel Pieters: 1
+Minna Lanz: 1
+Jyrki Latokartano: 1
+Joni-Kristian Kämäräinen: 1
+LESLIE SKLAIR: 1
+Teng Han: 1
+Takumi Yoshida: 1
+Yuki Hirobe: 1
+Lucas Ammann: 1
+Franz Coriand: 1
+Alexander Kleppe: 1
+Stefanie Zollmann: 1
+Wolfgang Sturzlinger: 1
+Paolo Cignoni: 1
+Roberto Scopigno: 1
+Marco Tarini: 1
+KennethP. Fishkin: 1
+Ran Gal: 1
+Daniel Cohen-Or: 1
+Jonathan Green: 1
+Tony Pridmore: 1
+John C. Goble: 1
+Neal F. Kassell: 1
+Taehee Lee: 1
+Jeremy Ginsberg: 1
+Jonathan Shade: 1
+Duane Fulk: 1
+David Koller: 1
+Lucas Pereira: 1
+Matt Ginzton: 1
+Sean Anderson: 1
+Gavin Miller: 1
+Yutaka Ohtake: 1
+Alexander Belyaev: 1
+Peter G. Polson: 1
+Clayton Lewis: 1
+John Rieman: 1
+Cathleen Wharton: 1
+Michael Burns: 1
+Doug DeCarlo: 1
+Johannes Schöning: 1
+S.M. Seitz: 1
+B. Curless: 1
+J. Diebel: 1
+D. Scharstein: 1
+R. Szeliski: 1
+Corey Toler-Franklin: 1
+Romain Vergne: 1
+Romain Pacanowski: 1
+Rony Zatzarinni: 1
+Ariel Shamir: 1
+Akio Watanabe: 1
+Yvonne Jansen: 1
+Pierre Dragicevic: 1
+Petra Isenberg: 1
+Johan Kildal: 1
+Nicolas J. Dedual: 1
+Ohan Oda: 1
+A. Butz: 1
+C. Beshers: 1
+Andre Kunert: 1
+Dingtian Zhang: 1
+Ryan Jones: 1
+Amber Solomon: 1
+Elizabeth Disalvo: 1
+Mark Guzdial: 1
+Wei-Kai Liou: 1
+Chun-Yen Chang: 1
+Yasuhiro Kushihashi: 1
+Sho Mizumura: 1
+Süleyman Nihat Şad: 1
+Francisco J. Romero-Ramirez: 1
+Rafael Muñoz-Salinas: 1
+Rafael Medina-Carnicer: 1
+Jean-Baptiste Thomas: 1
+Philippe Colantoni: 1
+Jon Y. Hardeberg: 1
+Irène Foucherot: 1
+Pierre Gouton: 1
+Pradeep Sen: 1
+Gaurav Garg: 1
+G. Sharma: 1
+H.J. Trussell: 1
+Dominique Cardon: 1
+Paul R. Carlile: 1
+Catherine Elsen: 1
+William W. Gaver: 1
+Nathalie Huet: 1
+Christian Escribe: 1
+Holger Salzmann: 1
+Mafkereseb Kassahun Bekele: 1
+Roberto Pierdicca: 1
+Emanuele Frontoni: 1
+Eva Savina Malinverni: 1
+James Gain: 1
+Mirfa Manzoor: 1
+Vivian Vimarlund: 1
+Gael Domenger: 1
+Julien Conan: 1
+Axel Domenger: 1
+Bing Liu: 1
+Linfang Ding: 1
+Liqiu Meng: 1
+Kun-Hung Cheng: 1
+Cosimo Tuena: 1
+Silvia Serino: 1
+Elisa Pedroli: 1
+Marco Stramba-Badiale: 1
+Claudia Repetto: 1
+Paul N. Wilson: 1
+Nigel Foreman: 1
+Danaë Stanton: 1
+Timothy P McNamara: 1
+Montana: 1
+Tuena: 1
+Serino: 1
+Cipresso: 1
+Riva: 1
+Ismini E. Lokka: 1
+Arzu Çöltekin: 1
+Jan Wiener: 1
+Sara I. Fabrikant: 1
+Christina Röcke: 1
+Emily K. Farran: 1
+Valerie Critten: 1
+Yannick Courbois: 1
+Emma Campbell: 1
+David Messer: 1
+Yanhong Zhou: 1
+Dong Wen: 1
+Huibin Lu: 1
+Wang Yao: 1
+Yijun Liu: 1
+Wenbo Qian: 1
+Jingpeng Yuan: 1
+Costas Boletsis: 1
+Jarl Erik Cedergren: 1
+Roy A. Ruddle: 1
+Ekaterina Volkova: 1
+Heinrich H. Bülthoff: 1
+Noah Coomer: 1
+Sadler Bullard: 1
+William Clinton: 1
+Betsy Williams-Sanders: 1
+Devi Acharya: 1
+Alfredo Velasco: 1
+Emanuel Bustamante: 1
+Richard Paris: 1
+Joshua Klag: 1
+Priya Rajan: 1
+Lauren Buck: 1
+Timothy P. McNamara: 1
+Bobby Bodenheimer: 1
+Russell A Epstein: 1
+Eva Zita Patai: 1
+Joshua B Julian: 1
+Hugo J Spiers: 1
+Julian Keil: 1
+Dennis Edler: 1
+Denise O’Meara: 1
+Annika Korte: 1
+Frank Dickmann: 1
+Li Bai: 1
+William Tompkinson: 1
+Yan Wang: 1
+M. Bertozzi: 1
+A. Broggi: 1
+Tarak Gandhi: 1
+Mohan Trivedi: 1
+Nuno Gracias: 1
+Mahmood R. Azimi-Sadjadi: 1
+Joellen Wilbur: 1
+Gerald J. Dobeck: 1
+Sjoerd van der Zwaan: 1
+Alexandre Bernardino: 1
+J.G. Cooke: 1
+J.-J.E. Slotine: 1
+J. Yuh: 1
+R. Matt Steele: 1
+Christopher Jaynes: 1
+David Hedberg: 1
+Emil Melander: 1
+Ann-Marie Pendrill: 1
+Mina C. Johnson-Glenberg: 1
+David A. Birchfield: 1
+Lisa Tolentino: 1
+Tatyana Koziupa: 1
+Michael Vollmer: 1
+Klaus-Peter Möllmann: 1
+Frank Pinno: 1
+Detlef Karstädt: 1
+Edmund Hazzard: 1
+Chris Gunn: 1
+Paul Dourish: 1
+Victoria Bellotti: 1
+Leslie D. Setlock: 1
+Jie Yang: 1
+Jiazhi Ou: 1
+Elizabeth Mauer: 1
+Adam D. I. Kramer: 1
+Aaron Genest: 1
+Pourang Irani: 1
+Mark Roseman: 1
+Jon Hindmarsh: 1
+Christian Heath: 1
+Chris Greenhalgh: 1
+Bernhard Kainz: 1
+Stefan Hauswiesner: 1
+Markus Steinberger: 1
+Lukas Gruber: 1
+Danae Stanton Fraser: 1
+Stephanie Rosenthal: 1
+Hanna M. Söderholm: 1
+Diane H. Sonnenwald: 1
+James E. Manning: 1
+Greg F. Welch: 1
+Scott Minneman: 1
+Franco Tecchia: 1
+Leila Alem: 1
+Weidong Huang: 1
+R.Y. Tsai: 1
+R.K. Lenz: 1
+Katsunari Sato: 1
+Kibum Kim: 1
+John Bolton: 1
+Audrey Girouard: 1
+Jeremy Cooperstock: 1
+Akira Hayamizu: 1
+Michita Imai: 1
+Keisuke Nakamura: 1
+Kazuhiro Nakadai: 1
+Steven Johnson: 1
+Bilge Mutlu: 1
+Leila Takayama: 1
+Hirohiko Hayakawa: 1
+Charith Lasantha Fernando: 1
+MHD Yamen Saraiji: 1
+Gina Venolia: 1
+Jason Procyk: 1
+Daniel Hawkins: 1
+
+Affiliation Rankings:
+Microsoft Research, Redmond, WA, USA: 49
+The University of Tokyo: 41
+Hasso Plattner Institute, Potsdam, Germany: 37
+Stanford University: 35
+University of Stuttgart, Stuttgart, Germany: 29
+Microsoft Research: 28
+Massachusetts Institute of Technology, Cambridge, MA, USA: 20
+The University of Electro-Communications: 18
+Tokyo Institute of Technology: 18
+Microsoft Research, Redmond, WA: 18
+Queen's University, Kingston, ON, Canada: 18
+Carnegie Mellon University, Pittsburgh, PA, USA: 18
+Osaka University, Osaka, Japan: 17
+University of British Columbia: 17
+University of Bristol, Bristol, United Kingdom: 15
+MIT Media Lab: 14
+University of South Australia: 12
+Osaka University: 12
+Zhejiang University: 12
+NVIDIA Research: 12
+Microsoft Research Cambridge, Cambridge, United Kingdom: 12
+Aarhus University, Aarhus, Denmark: 11
+University Erlangen-Nuremberg: 11
+Tokyo Institute of Technology, Tokyo, Japan: 11
+Max Planck Institute for Informatics: 11
+Columbia University: 11
+Technische Universität Darmstadt, Darmstadt, Germany: 11
+Computer Graphics GroupFriedrich-Alexander-University Erlangen-Nuremberg: 10
+TU Berlin, Berlin, Germany: 10
+TNO Sustainable Productivity &amp; Employability; Leiden, The Netherlands: 10
+Massachusetts Institute of Technology, Cambridge, Massachusetts, USA: 10
+*College of Optical Sciences, University of Arizona, Tucson, AZ 85721;: 10
+MIT CSAIL: 10
+University of Tokyo: 10
+University of Erlangen-Nuremberg: 10
+Bauhaus-Universität Weimar, Fac. of Architecture, Geschw. Scholl Str. 8, D-99423 Weimar: 10
+University of Science and Technology of China: 9
+Purdue University: 9
+The University of Tokyo, Tokyo, Japan: 9
+Mitsubishi Electric Research Labs (MERL), Cambridge, MA: 9
+University of Washington, Seattle, WA, USA: 9
+Robotic and Behavioral Neurehabilitation Laboratory, IRCCS Centro Neurolesi “Bonino Pulejo,” Messina, Italy: 9
+IRCCS Centro Neurolesi “Bonino Pulejo” Messina, Messina, Italy: 9
+University of Waterloo, Waterloo, ON, Canada: 8
+University of Illinois at Urbana-Champaign, Urbana, IL, USA: 8
+Disney Research: 8
+University of South Australia, Mawson Lakes, SA, Australia: 8
+University of Toronto, Toronto, ON, Canada: 8
+Mitsubishi Electric Research Labs, Cambridge MA: 8
+Sleep and Chronobiology Centre, Department of Psychiatry, University of Pittsburgh School of Medicine, Pittsburgh, USA: 7
+Lancaster University, UK: 7
+Microsoft Research, Redmond, Washington, USA: 7
+Osaka University, Toyonaka, Japan: 7
+Osaka University, Toyonaka, Osaka, Japan: 7
+Tangible Media Group, MIT Media Laboratory, 20 Ames Street, Cambridge, MA: 7
+Max-Planck-Institute for Informatics: 7
+IRCCS Centro Neurolesi “Bonino Pulejo,” Messina, Italy: 7
+University of Central Florida: 7
+Tokyo Institute of Technology, Japan: 6
+Soongsil University, Seoul, Korea: 6
+Osaka University, Japan: 6
+University of California, Irvine: 6
+At the time of this writing, Sherry Emery, Yoonsang Kim, Young Ku Choi, Glen Szczypka, and Frank J. Chaloupka were with the Institute for Health Research and Policy, University of Illinois at Chicago. Melanie Wakefield was with the Centre for Behavioural Research in Cancer, Cancer Council Victoria, Melbourne, Australia.: 6
+Applied Technology for Neuro-Psychology Laboratory, Istituto Auxologico Italiano, Milan, Italy.: 6
+University of North Carolina at Chapel Hill: 6
+Division of Robarts Research Institute, Western University, London, ON Canada: 6
+Carnegie Mellon University: 6
+University of British Columbia, Vancouver, BC, Canada: 6
+Intracom S.A.: 6
+Lancaster University, Lancaster, United Kingdom: 6
+Disney Research Zurich: 6
+Queen's University, Kingston, Ontario, Canada: 6
+NTT DOCOMO, Yokosuka, Kanagawa, Japan: 6
+Camera Culture Group, MIT Media Lab: 6
+Facebook Reality Labs Research: 6
+Massachusetts Institute of Technology: 6
+University of Southern California Centers of Creative Technologies: 6
+Fraunhofer, Darmstadt Germany: 6
+Faculty of Technical Sciences, Novi Sad: 6
+NVIDIA: 6
+Stanford University, Stanford, CA: 6
+EPFL: 6
+Georgia Institute of Technology, Atlanta, GA: 6
+Inesc-ID / Universidade de Lisboa: 6
+Bauhaus-Universität Weimar, Fac. of Media, Bauhausstr. 11, D-99423 Weimar: 6
+National Research Council Canada, Ottawa, Ontario: 6
+Graz University of Technology, Graz, Austria: 6
+Tokyo Electron Device, Japan: 5
+University of Tokyo, Tokyo, Japan: 5
+Gunma University: 5
+Department of Engineering, Hiroshima University: 5
+School of Mechatronics, Gwangju Institute of Science and Technology, Gwangju 500-712, Republic of Korea: 5
+MIT Media Lab, Cambridge, MA: 5
+Harvard University: 5
+University of Munich, Munich, Germany: 5
+David Hammond and Geoffrey T. Fong are with the Department of Psychology at the University of Waterloo, Waterloo, Ontario. Paul W. McDonald and Roy Cameron are with the Department of Health Studies, and K. Stephen Brown is with the Department of Statistics and Actuarial Science at the University of Waterloo. Paul W. McDonald and K. Stephen Brown are also with the Ontario Tobacco Research Unit. Geoffrey T. Fong, Paul W. McDonald, Roy Cameron, and K. Stephen Brown are also with the Centre for Behavioural...: 5
+From the Stroke Research Unit and Department of Health Care of the Elderly (P.B.), City Hospital, Nottingham, UK.: 5
+Nokia Research Center, Palo Alto, CA, USA: 5
+Helsinki Institute for Information Technology, Helsinki, Finland: 5
+Division of Cardiac Surgery, The Johns Hopkins Hospital , Baltimore, Maryland.: 5
+University of Colorado Boulder, Boulder, CO, USA: 5
+Microsoft Research, Redmond, Washington, United States: 5
+MIT Media Lab, Cambridge, USA: 5
+University of Copenhagen, Copenhagen, Denmark: 5
+Sheffield Hallam University, Sheffield, UK: 5
+Texas A&amp;M University, College Station, TX, USA: 5
+University of Toronto: 5
+University of Tsukuba: 5
+KAIST, Daejeon, South Korea: 5
+Korea Advanced Institute of Science and Technology, Daejeon, South Korea: 5
+MPI Informatics: 5
+Intel Research Seattle, Seattle, WA, USA: 5
+Georgia Tech, Atlanta, GA: 5
+University of Saskatchewan, Saskatoon, Canada: 5
+Georgia Institute of Technology, Atlanta, Georgia: 5
+Autodesk Research, Toronto, ON, Canada: 5
+Bauhaus-Universität Weimar: 5
+MTT Innovation Inc.: 5
+ETH Zurich: 5
+Department of Physical Therapy, Occupational Therapy, Rehabilitation and Physical Medicine, Faculty of Health Sciences, Rey Juan Carlos University, Alcorcón, Madrid, Spain: 5
+Carnegie Mellon University, Pittsburgh, PA: 5
+National Taiwan University, Taipei, Taiwan Roc: 5
+Purdue University, West Lafayette, IN, USA: 5
+University of Tsukuba, Pixie Dust Technologies, Inc.: 5
+Princeton University: 5
+INRIA Bordeaux University: 5
+Department of Computer Science, University of North Carolina at Chapel Hill: 5
+Keio University, Kohoku-ku, Yokohama-shi, Japan: 5
+S.I. Newhouse School of Public Communications, Syracuse University, Syracuse, NY, USA: 4
+State Key Lab of CAD&CG, Zhejiang University, Hangzhou, China: 4
+Univ. Grenoble Alpes, CNRS, Grenoble INP*, G-SCOP, Grenoble, France: 4
+The University of Melbourne, Melbourne, VIC, Australia: 4
+Visual Computing Group, Friedrich-Alexander-Universit&#x00E4;t Erlangen-N&#x00FC;rnberg, Germany: 4
+Inria Bordeaux, France: 4
+Kyushu University, Japan: 4
+Gunma University, Kiryu, Gunma, Japan: 4
+Cheriton School of Computer Science, University of Waterloo, Canada: 4
+Tohoku University, Japan: 4
+The University of Electro-Communications, Japan: 4
+University of Erlangen Nuremberg: 4
+University of California, Santa Barbara, Santa Barbara, California, United States: 4
+CITEC - Cluster of Excellence, Cognitive Interaction Technology, Bielefeld University, Bielefeld, Germany: 4
+Department of Computer Science, Columbia University, New York, NY: 4
+University of Utah: 4
+Nara Institute of Science and Technology: 4
+Disney Research Pittsburgh, Pittsburgh, PA, USA: 4
+Comprehensive Cancer Center, Division of Human Genetics, College of Medicine and Public Health, Ohio State University, Columbus, OH: 4
+Technische Universität München, München, Germany: 4
+Department of Computer Science and Engineering, University of Washington, Seattle, WA, USA: 4
+Texas A&amp;M University: 4
+The University of Electro-Communications, Tokyo, Japan: 4
+Michigan State Univeristy, East Lansing, MI: 4
+Stanford University, Stanford, CA, USA: 4
+Xerox Palo Alto Research Center, Palo Alto, CA: 4
+MERL, Mitsubishi Electric Research Labs: 4
+University of Queensland, Australia: 4
+Faculty of Health Sciences and Medicine; Bond University; Gold Coast Queensland Australia: 4
+Division of Cardiac Surgery, Department of Surgery, London, ON Canada: 4
+University of California, Santa Barbara: 4
+Intel China Research Center, Beijing, China: 4
+Department of Urology, Denver Health Medical Center, Denver, CO 80204 e-mail:: 4
+Department of Psychological Sciences; University of Liverpool; UK: 4
+University of Tsukuba, Japan: 4
+Upper Austria University of Applied Sciences, Austria: 4
+Honeywell Inc. Corporate Systems Development Division Golden Valley, Minnesota: 4
+Disney Research Zurich and ETH Zurich: 4
+Wellesley College, Wellesley, MA, USA: 4
+Bauhaus-University Weimar, Germany: 4
+NTT Communication Science Laboratories, Nippon Telegraph and Telephone Corporation, Japan: 4
+Arizona State University, Tempe, AZ, USA: 4
+Department of Electrical Engineering, National Cheng Kung University: 4
+Inria, Bordeaux, France: 4
+TU Darmstadt, Darmstadt, Germany: 4
+University of Saskatchewan: 4
+Korea Advanced Institute of Science and Technology, Daejeon, Republic of Korea: 4
+Brno University of Technology: 4
+NTT Communication Science Labs; 3-1 Morinosato Wakamiya Atsugi Kanagawa 243-0198 Japan: 4
+TNO Sustainable Productivity &amp; Employability, Leiden, The Netherlands: 4
+Industrial Light &amp; Magic: 4
+MERL, Cambridge, MA: 4
+Princeton University, Princeton, NJ: 4
+University of Glasgow, Glasgow, UK: 4
+Brown Univ., Providence, RI: 4
+The University of North Carolina at Chapel Hill: 4
+Department of Computer Science, Graduate School of Engineering, Iwate University: 4
+Max Planck Institute for Intelligent Systems, Tübingen, Germany: 4
+University of Tsukuba, Tsukuba, Ibaraki, Japan: 4
+Ryerson University, Toronto, ON, Canada: 4
+REVAL Rehabilitation Research Center, Faculty of Medicine and Life Science, Hasselt University, Hasselt, Belgium: 4
+Neuroscience Research Australia, Sydney, Australia: 4
+Mitsubishi Electric Research Laboratories, Cambridge, MA: 4
+Kyushu University, Nihi-ku, Fukuoka, Japan: 4
+University of Münster, Münster, Germany: 4
+University of Washington, Seattle, Washington, USA: 4
+Shanghai Jiao Tong University, China: 4
+The University of British Columbia: 4
+University of Glasgow, Glasgow, United Kingdom: 4
+Microsoft Research Cambridge, Cambridge, UK: 4
+KAIST Daejeon Republic of Korea: 4
+Primary Care Research Group, Peninsula Medical School, Exeter, United Kingdom: 4
+Cornell University, Ithaca, New York: 4
+Dalhousie University, Halifax, Canada: 4
+Queensland University of Technology, Brisbane, Queensland, Australia: 4
+Technion: 4
+Rhodes College: 4
+Elect. Engr. &amp; Comp. Science, Vanderbilt University: 4
+Physikalische Ingenieurwissenschaften, FH Brandenburg—University of Applied Sciences, Magdeburgerstrasse 50, 14770 Brandenburg, Germany: 4
+Graz University of Technology &amp; Christian Doppler Labor for Handheld AR, Graz, Austria: 4
+University of South Australia, SA, Australia: 3
+University of Applied Sciences, Schweinfurt, Germany: 3
+S.I. School of Newhouse Public Communications, Syracuse University, Syracuse, New York.: 3
+RealityTech, Bordeaux, France: 3
+School of Informatics and Engineering, The University of Electro-Communications, W9-603, 1-5-1 Chofugaoka, Chofu, Tokyo 182-8585, Japan: 3
+The University of Tokyo Bunkyo-ku, Japan: 3
+Shanghai Jiao Tong University, Shanghai, China: 3
+The Unisversity of Electro-Communications: 3
+Brown University: 3
+The University of Tokyo, Japan: 3
+Bauhaus University Weimar, Faculty of Architecture, Belvedere Allee 1, 99423 Weimar, Germany: 3
+University of Applied, Potsdam, Germany: 3
+Mind, Brain, and Behavior Research Center (CIMCYC); University of Granada; Granada Spain: 3
+National Chiao Tung University: 3
+U.S. Army Aeromedical Research Laboratory, Fort Rucker, Alabama: 3
+Computer Division, Lucasfilm Ltd.: 3
+University of Applied Sciences Esslingen, Neckar, Germany: 3
+University of Stuttgart, Pfaffenwaldring 5a, Stuttgart, Germany: 3
+University of Applied Sciences Esslingen, Esslingen am Neckar, Germany: 3
+Max-Planck-Institut für Informatik: 3
+Fujitsu Laboratories Ltd., Kanagawa, Japan: 3
+Departamento de Psicología Básica, Clínica y Psicobiología, Universidad Jaume I, Castellón de la Plana, Spain.: 3
+Vienna University of Technology, Vienna, Austria: 3
+Aalto University, Espoo, Finland: 3
+Hewlett-Packard Laboratories, Palo Alto, CA: 3
+University of Magdeburg, Magdeburg, Germany: 3
+Vienna University of Technology, Austria: 3
+Massachusetts Institute of Technology, Cambridge, MA: 3
+EML: 3
+Department of Computer Science, University of North Carolina, Chapel Hill, NC: 3
+Ohio State University: 3
+University of Michigan, Ann Arbor, MI: 3
+2Michigan State University: 3
+Mechanical Engineering, University of Bath, Bath, UK: 3
+U.S. Army Research Institute, Simulator Systems Research Unit, 12350 Research Parkway, Orlando, Florida 32826-3276.: 3
+NTT Human Interface Labs., Kanagawa, Japan: 3
+MIT Media Lab, Cambridge, MA, USA: 3
+CAVI and PIT, Aarhus University: 3
+University of Virginia: 3
+Max Planck Institute for Informatics, Saarbrücken, Germany: 3
+Deutsche Telekom Laboratories, Berlin, Germany: 3
+Simon Fraser University, Surrey BC, Canada: 3
+The Poznan University of Economics, Poland: 3
+University of California, Irvine, California, USA: 3
+Department of Physiology, University of Minnesota: 3
+Bauhaus-University Weimar: 3
+Nuremberg Institute of Technology, Nuremberg, Germany: 3
+Dept of Psychology, Uppsala University, Sweden: 3
+Cornell Tech, New York, NY, USA: 3
+DEMCON Advanced Mechatronics; the Netherlands: 3
+Univ. Grenoble Alpes, Grenoble France: 3
+Stuttgart Media University, Stuttgart, Germany: 3
+Stanford University, CA, USA: 3
+Space CREI, Skolkovo Institute of Science and Technology, Skoltech, Russia: 3
+Department of Information Physics and Computing, Graduate School of Information Science and Technology, University of Tokyo , Hongo 7-3-1, Bunkyo-ku, Tokyo 113-8656, Japan: 3
+University of Cambridge: 3
+The Rowland Institute at Harvard, Harvard University, Cambridge, United States: 3
+Universidad Rey Juan Carlos: 3
+Gunma University, Gunma, Japan: 3
+Kyoto Sangyo University, Kyoto, Japan: 3
+500 W 120th St., Columbia University, New York, NY: 3
+University of Manitoba, Winnipeg, Manitoba, Canada: 3
+Beijing Institute of Technology, China: 3
+University of Toronto &amp; Tactual Labs, Toronto, ON, Canada: 3
+Graduate School of Information Science and Technology, The University of Tokyo: 3
+IBM Research, T.J. Watson, Hawthorne, New York: 3
+Carnegie Mellon University, Pittsburgh, Pennsylvania, USA: 3
+Faculty of Education, Science, Technology and Mathematics; University of Canberra; Bruce ACT Australia: 3
+LUNAM Université, École, Centrale Nantes, CERMA UMR, Nantes Cedex, France: 3
+Disney Research, Pittsburgh, Pennsylvania, USA: 3
+Columbia University, New York, NY, USA: 3
+Walt Disney Animation Studios: 3
+University of California, Berkeley: 3
+University of Calgary, AB, Canada: 3
+University College London, London, UK: 3
+Lighting Research Center, Rensselaer Polytechnic Institute, 21 Union Street, Troy, NY 12180: 3
+Japan Advanced Institute of Science and Technology, Ishikawa, Japan: 3
+National Chiao Tung University, Hsinchu, Taiwan Roc: 3
+Autodesk Research, Toronto, Canada: 3
+RWTH Aachen University, Aachen, Germany: 3
+Digital Nature Group, University of Tsukuba: 3
+Korea Advanced Institute of Science &amp; Technology, Daejeon, Rebublic of Korea: 3
+University of São Paulo: 3
+University of Seville, Seville, Spain: 3
+Department of Rehabilitation, Eulji Hospital, Eulji University School of Medicine, Seoul, Korea.: 3
+Roessingh Research and Development B.V., Enschede, The Netherlands: 3
+Massachusetts Institute of Technology (MIT), Cambridge, MA, USA: 3
+Dyson Robotics Laboratory at Imperial College, Imperial College London, UK: 3
+INRIA, ORSAY, France: 3
+Autodesk Research, Canada: 3
+Ningo University; China: 3
+Department of Digital Media, Graduate School of Soongsil University, Seoul, 156-743, Korea., , .: 3
+Graduate School of Advanced Integration Science; Chiba University; Chiba Japan: 3
+Institute of Automation, CAS: 3
+The State University of New Jersey, Piscataway, NJ: 3
+The University of Hong Kong, Hong Kong, China: 3
+The University of Hong Kong, Hong Kong, Hong Kong: 3
+Massachusetts Institute of Technology, Cambridge, USA: 3
+Nanyang Technological University: 3
+The University of Tokyo, Hongo Bunkyo-ku, Tokyo, Japan: 3
+F.C. Donders Centre for Cognitive Neuroimaging, Radboud University Nijmegen, The Netherlands/Nijmegen Institute for Cognition and Information, Radboud University Nijmegen, The Netherlands: 3
+TNO, Leiden, The Netherlands: 3
+Gifu University: 3
+Escola Politécnica da Universidade de São Paulo -- USP, São Paulo, SP -- Brazil: 3
+Interaction Technology Laboratory, Department of Electrical Engineering and Information Systems, University of Tokyo, 7-3-1 Hongo, Bunkyo-ku, 113-8656 Tokyo, Japan: 3
+Flinders University; Department of Rehabilitation, Aged and Extended Care; Level 1, C Block, Repatriation General Hospital, Daws Road, Daw Park Adelaide South Australia Australia 5041: 3
+Industrial Management and Innovation, Massey University School of Engineering and Advanced Technology, Auckland, New Zealand: 3
+Institute for Geoinformatics, Münster, Germany: 3
+Universita Politecnica delle Marche, Italy: 3
+Communications Research Group, Department of Computer Science, University of Nottingham, Nottingham NG7 2RD, UK: 3
+PERCRO - Scuola Superiore Sant'Anna, CSIRO ICT Centre: 3
+Simon Fraser University: 3
+Virginia Tech, United States: 2
+GRANEM, University of Angers, Angers, France: 2
+GM Holden Ltd., Victoria, Australia: 2
+Kyushu University: 2
+Inria Bordeaux, Talence, France: 2
+Vialux GmbH, Germany: 2
+Microsoft, Redmond, WA, USA: 2
+Information Technology Center, The University of Tokyo, Tokyo, Japan: 2
+Graduate School of Design, Kyushu University: 2
+Universität Hamburg, Hamburg, Germany: 2
+University of South Australia, Mawson Lakes, Australia: 2
+Bina Nusantara University,Faculty of Computing and Media,Computer Science Department,Jakarta,Indonesia,11480: 2
+Tokyo Institute of Technology Yokohama, Japan: 2
+Graduate School of Information Science and Technology The University of Tokyo Hongo 7-3-1, Bunkyo-ku Tokyo 113-8656, Japan. Correspondence to: 2
+Shanghai Jiaotong University, Shanghai, China: 2
+Automation Department, Faculty of Electrical and Electronics Engineering, Kaunas University of Technology, Studentu St. 50-154, Kaunas, Lithuania: 2
+Bauhaus University Weimar, Faculty of Media, Hausknechtstrasse 7, 99423 Weimar, Germany: 2
+Institute of Management Science, TU Wien,Austria: 2
+Kyushu University, Fukuoka, Japan: 2
+Inria, University Bordeaux - LaBRI: 2
+CSIRO, Canberra, Australia: 2
+School of Science and Technology, Gunma University, Kiryu, Gunma, Japan: 2
+Gunma University, Japan: 2
+Department of Neurobiology; Barrow Neurological Institute; Phoenix Arizona USA: 2
+Columbia Univ., New York, NY: 2
+Department of Neurobiology, Stanford University School of Medicine, Stanford, California 94305;,: 2
+University of Washington, Seattle, USA: 2
+Aalborg University: 2
+Graz University of Technology: 2
+Cyber-Physical Systems University of Siegen, Germany: 2
+Division of Sleep and Chronobiology, Department of Psychiatry, University of Pennsylvania School of Medicine, Philadelphia, PA: 2
+Rank Xerox EuroPARC, Cambridge, UK: 2
+University of Florence, Italy: 2
+HEC Montréal, Montréal, Canada: 2
+Mosaic, HEC Montreal International Business Department Montreal Canada: 2
+Copernicus Institute of Sustainable Development, Utrecht University, Princetonlaan, Utrecht, The Netherlands: 2
+Boston College: 2
+Department of Economics, Management and Quantitative Methods, University of Milan, Milano, Italy: 2
+Hasso-Plattner-Institut, Potsdam, Germany: 2
+University of Manitoba, Winnipeg, Canada: 2
+Tohoku University, Sendai, Japan: 2
+Université Paris-Sud &amp; CNRS, Inria, France: 2
+Kyoto University Hospital: 2
+Carnegie Mellon University &amp; Disney Research Pittsburgh, Pittsburgh, PA, USA: 2
+INRIA 2004, route des Lucioles - B.P. 93, 06902 Sophia Antipolis Cedex, France: 2
+Departamento de Personalidad, Evaluación y Tratamientos Psicológicos, Universidad de Valencia, Valencia, Spain.: 2
+Department of Marketing, Villanova School of Business, Villanova University.: 2
+University of Wisconsin–Milwaukee, WI, USA: 2
+Department of Psychology Goldsmiths College University of London New Cross, London SE14 6NW United Kingdom.: 2
+Department of Psychology Goldsmiths College University of London New Cross, London SE14 6NW United Kingdom: 2
+Annenberg School for Communication & Journalism; University of Southern California; Los Angeles; CA; 90089-0281; USA: 2
+U.S. Army Research Institute for the Behavioral and Social Sciences 12350 Research Parkway, Orlando, FL 32826-3276,: 2
+Artec Group: 2
+Max Planck Institute for Informatics and Intel Visual Computing Institute: 2
+Institute for Dynamic Systems and Control, ETH Zurich, Zurich, Switzerland: 2
+University of Stuttgart -- VIS (Pfaffenwaldring 5a, 70569 Stuttgart, Germany): 2
+University College London: 2
+Tampere University of Technology, Tampere, Finland: 2
+FTW-Telecommunications Research Center Vienna, Vienna, Austria: 2
+Aalto University, Helsinki, Finland: 2
+Fraunhofer-IGD: 2
+ZGDV: 2
+Department of Mechanical Engineering, Johns Hopkins University, Baltimore, Maryland.: 2
+Virginia Tech, Blacksburg, VA, USA: 2
+Department of Interaction Science; Sungkyunkwan University; Seoul 110-745 Korea: 2
+Department of Psychology, University of Essex, Wivenhoe Park Colchester, Essex CO4 3SQ, UK: 2
+Tsinghua University, Beijing, China: 2
+Architecture, Sejong University, Seoul, Republic of Korea: 2
+University of Tokyo, Japan: 2
+Optical Diagnostics and Applications (ODA) Laboratory, College of Optics and Photonics, University of Central Florida 4000 Central Florida Boulevard, Orlando, FL 32816-2700: 2
+MIT Media Laboratory, Tangible Media Group, 20 Ames Street, Cambridge, MA: 2
+Adaptive Automation Group, Department of Mechanical and Manufacturing Engineering, Aalborg University: 2
+Disney Research Zurich, Zürich, Switzerland: 2
+University of Colorado Boulder, Boulder , CO, USA: 2
+Disney Research, Zurich: 2
+Univ. of Utah, Salt Lake City: 2
+Aarhus University: 2
+Adobe Systems, Inc.: 2
+MIT Media Laboratory, Cambridge, MA: 2
+Computer Science, Aarhus University, Denmark: 2
+German Research Center for Artificial Intelligence, Saarbrucken, Germany: 2
+Potsdam University of Applied Sciences, Potsdam, Germany: 2
+Design Lab, Urbanism and Planning, KU, Leuven: 2
+School of Psychology, University of East London, Stratford, London, United Kingdom.: 2
+Tohoku University: 2
+Microsoft Applied Sciences Group, Redmond, Washington, USA: 2
+University of Colorado, Boulder, Boulder, CO, USA: 2
+CNRS - IRIT, Toulouse, France: 2
+Monash University, Melbourne, Australia: 2
+The Smith-Kettlewell Eye Research Institute San Francisco, CA, USA: 2
+Department of Psychology, University of California, Berkeley, CA, USA: 2
+OFFIS --- Institute for Information Technology, Escherweg, Oldenburg, Germany: 2
+Lund University, Lund, Sweden: 2
+Department of Simulation and Graphics, Otto-von-Guericke University of Magdeburg, Universitätsplatz 2, 39016 Magdeburg, Germany: 2
+Graduate School of Media, Sogang University, Seoul, South Korea: 2
+Inria Bordeaux &amp; LaBRI, University of Bordeaux, France: 2
+Inria, Talence, France: 2
+The University of Sydney, Sydney, Australia: 2
+Sony CSL, Shinagawa-ku, Japan: 2
+LMU Munich, Munich, Germany: 2
+University of Calgary: 2
+Department of Information Systems, University of Portsmouth,: 2
+Microsoft Research, Cambridge, UK: 2
+School of Electrical and Computer Engineering, Georgia Institute of Technology, Atlanta, GA 30332; and: 2
+American University, Washington, DC: 2
+New York University: 2
+Rice University: 2
+University of Missouri, St. Louis: 2
+Osaka University, Osaka, JAPAN: 2
+Tokyo University of Agriculture and Technology, Tokyo, Japan: 2
+Computer Graphics Laboratory, ETH Zurich: 2
+Fraunhofer Application Center Industrial Automation, Lemgo, Germany: 2
+Institute for Behavioral Genetics, University of Colorado: 2
+Microsoft Corporation, Redmond, WA, USA: 2
+From the Laboratory of Biophysics, Columbia University, New York: 2
+Telecom ParisTech -- CNRS LTCI UMR 5141, Paris, France: 2
+Department of Mechanical and Aerospace Engineering, Seoul National University, Seoul, Korea: 2
+Technion, Haifa, Israel: 2
+Robotics and Intelligent Machines, College of Computing, Georgia Institute of Technology, Atlanta, GA, USA: 2
+McGill University, McConnell Engineering Building, Montreal, Quebec, Canada: 2
+USC Institute for Creative Technologies: 2
+Universiteit Hasselt, Belgium: 2
+U of Electro-Communications, Tokyo: 2
+Georgia Institute of Technology: 2
+Disney Research Pittsburgh &amp; Carnegie Mellon University, Pittsburgh, Pennsylvania, USA: 2
+University of California: 2
+Department of Computer Science, American University, Washington, DC, USA: 2
+University of Aarhus, Århus, Denmark: 2
+Alexandra Institute Ltd., Århus, Denmark: 2
+Department of Computer Science, University College London, UK: 2
+Oculus Research &amp; University of California, Davis, Sausalito, CA, USA: 2
+Massachusetts Insitute of Technology, Cambridge, MA, USA: 2
+School of Computer Science Engineering and Technology Bennett University,India: 2
+UNSW Sydney, Australia: 2
+Siemens Corporate Research, Imaging and Visualization Department, Princeton, NJ 08540, USA,: 2
+University of Houston: 2
+Department of Electronics and Computer Engineering, Hanyang University, Seoul, Republic of Korea: 2
+Indiana University School of Informatics and Computing: 2
+The University of Sydney, Sydney, NSW, Australia: 2
+Communication University of China, Beijing, P.R. China: 2
+Brown University, Providence, RI, USA: 2
+Imperial College London, London, United Kingdom: 2
+Centre of Research and Technology Hellas (CERTH) , Thessaloniki, Greece: 2
+Dublin City University (DCU), Dublin, Ireland: 2
+Informatics Center, Federal University of Pernambuco, Recife, Pernambuco, Brazil.: 2
+Faculty of Informatics, Technical University of Munich, Munich, Germany.: 2
+Institut Universitari de Neurorehabilitació Institut Guttman, Badalona, Spain: 2
+National Multiple Sclerosis Centre, Melsbroek, Belgium: 2
+Instituto Superiore di Sanità, Rome, Italy: 2
+School of Biological Sciences, University of Essex Colchester, UK: 2
+Univ. of New Brunswick, Fredericton, N.B., Canada: 2
+MPI Informatik: 2
+Télécom ParisTech and Saarland University: 2
+MPI Informatik and Saarland University: 2
+Sungkyunkwan University and MPI Informatik: 2
+Microsoft Corporation; Redmond WA USA: 2
+Department of Product and Systems Design Engineering, University of the Aegean, Hermoupolis, Syros, Greece: 2
+Lighting Systems Research Group, Lawrence Berkeley Laboratory: 2
+Department of Computer Science, National University of Ireland Maynooth, Co. Kildare, Ireland: 2
+Department of Computing, Imperial College London, UK: 2
+Technische Universität Berlin, Fachgebiet für Bionik, Sekr. ACK 1, Ackerstr. 71-76, 13355 Berlin, Germany,: 2
+Preferred Networks Inc., Tokyo, Japan: 2
+Caltech: 2
+University of California, Berkeley, Berkeley, California, USA: 2
+York University, Toronto, Ontario, Canada: 2
+Automation Department, Faculty of Electrical and Electronics Engineering, Kaunas University of Technology, Studentų g. 50-154, LT-51368 Kaunas, Lithuania: 2
+Software Engineering Department, Kaunas University of Technology, Kaunas, Lithuania: 2
+Chalmers University of Technology, Gothenburg, Sweden: 2
+University of California; Irvine United States: 2
+University of British Columbia, Vancouver, Canada: 2
+Bauhaus-Universität Weimar, Weimar, Germany: 2
+Bauhaus-Universitaet Weimar, Weimar, Germany: 2
+Technical University of Berlin, Berlin, Germany: 2
+Sony Computer Science Laboratory Inc., Takanawa Muse Building, 3-14-13, Higashi-gotanda, Shinagawa-ku, Tokyo 141 Japan: 2
+University of Oxford, Oxford OX, UK: 2
+University of Bath, Bath, Avon, United Kingdom: 2
+Xiamen University of Technology, Xiamen, Fujian, China: 2
+Hitachi, Ltd., Tokyo, Japan: 2
+Fakespace Labs: 2
+Graduate School of Engineering Science, Osaka University, Japan: 2
+Graduate School of Informatics; Kyoto Japan: 2
+Department of Psychology, Yeshiva University, New York 19: 2
+Technische Universität München, Garching, Germany: 2
+BMW AG, München: 2
+IBISC Laboratory, rue du Pelvoux, Evry Courcouronnes, France: 2
+University of Central Florida Orlando, Florida: 2
+Illinois State University: 2
+George Mason University: 2
+MIT Media Laboratory: 2
+Department of Computer Science and Electrical Engineering, University of Queensland, Brisbane, QLD 4072 Australia: 2
+Erasmus University: 2
+Royal BAM Group, Netherlands: 2
+EG&G Idaho, Inc., Idaho Falls, Idaho: 2
+Disney Interactive Studios: 2
+Tel-Aviv University, Tel-Aviv, Israel: 2
+Université de Toulouse le Mirail: 2
+University of Kentucky: 2
+The Advanced Educational Modeling Laboratory , The Concord Consortium, Concord, MA: 2
+University of Saskatchewan, Saskatoon, Saskatchewan, Canada: 2
+University of Manitoba, Winnipeg, MAN, Canada: 2
+Microsoft Research, Cambridge, United Kingdom: 2
+Work, Interaction &amp; Technology Research Group, The Management Centre, King's College London, London W8 7AH, UK: 2
+Keio University, Yokohama, Japan: 2
+Honda Research Institute Japan, Wako, Japan: 2
+University of Wisconsin-Madison, Madison, WI, USA: 2
+LEMNA, University of Nantes, Nantes, France: 1
+General Motors, Michigan: 1
+School of Computer Science, Engineering and Mathematics, Flinders University, Adelaide, SA, Australia: 1
+School of Aeronautics and Astronautics, Zhejiang University, Hangzhou, China: 1
+University of South Australia, Australia: 1
+University of Applied Sciences, Würzburg-Schweinfurt, Germany: 1
+Department of Informatics, Ying Wu College of Computing, New Jersey Institute of Technology, Newark, New Jersey.: 1
+University of Melbourne, Melbourne, Victoria, Australia: 1
+Human Interface Technology Laboratory at the University of Washington, Seattle: 1
+Department of Information Machines and Interfaces at Hiroshima City University, Japan: 1
+Inria Bordeaux &amp;38; LMU München, Munich, Germany: 1
+CNRS, IPAL, UMI2955, CNRS, IRIT, UMI5505, Singapore, Singapore: 1
+Université Paul Sabatier, IRIT, Toulouse, France: 1
+ENAC - Université de Toulouse, Tooulouse, France: 1
+Fraunhofer Institute for Applied Optics and Precision Engineering, Germany: 1
+University of Tokyo, Bunkyo-ku, Tokyo, Japan: 1
+Graduate School of Information Science and Technology, The University of Tokyo, Tokyo, Japan: 1
+iGravi Lab School of ICS UC Irvine, United States: 1
+Interactive Graphics &amp; Visualization Lab University of California Irvine, United States: 1
+Computer science UCI, United States: 1
+Faculty of Design, The University for Art and Science: 1
+Graduate School of Applied Statistics, National Institute of Development Administration (NIDA), 118 Seri Thai Rd., Bangkapi, Bangkok, Thailand: 1
+Cheriton School of Computer Science, University of Waterloo, Canada and Cheriton School of Computer Science, University of Waterloo, Canada: 1
+Binus Northumbria School of Design - Graphic Design and New Media, Bina Nusantara University,Jakarta,Indonesia,11480: 1
+Water Lily,Melaka,Malaysia,75200: 1
+University of North Carolina at Chapel Hill, Chapel Hill, NC, USA: 1
+Guangdong Institute of Semiconductor Industrial Technology Guangzhou, China: 1
+Giant Interactive Group Inc.: 1
+University of Bayreuth, Bayreuth, Germany: 1
+Centre of Real Time Computer Systems, Kaunas University of Technology, Baršausko St. 59-338a, Kaunas, Lithuania: 1
+Disney Research Zürich; Switzerland: 1
+Graduate School of Engineering Science; Osaka University; Japan: 1
+TU Berlin &amp; Microsoft Research, Berlin, Germany: 1
+TNO Sustainable Productivity &amp; Employability Leiden, The Netherlands: 1
+Bordeaux University, Bordeaux, France: 1
+INRIA Bordeaux Sud-Ouest, Bordeaux, France: 1
+University Bordeaux - LaBRI, Inria, ESTIA: 1
+Inria, University College London: 1
+ESTIA - LaBRI: 1
+IOGS - LP2N, Inria: 1
+The University of South Australia, Mawson Lakes, Australia: 1
+University of Oregon: 1
+Spanish Air Force Helicopter School, 78th Air Base Wing; Armilla Spain: 1
+University Centre of Defence, Spanish Air Force Academy; San Javier Spain: 1
+AT&amp;T Bell Labs, Holmdel, NJ: 1
+The Wellcome Department of Imaging Neuroscience, Institute of Neurology, University College London12 Queen Square, London WC1N 3BG, UK: 1
+Microsoft Research, Seattle, USA: 1
+Salzburg University of Applied Sciences: 1
+Institute of Information Systems and New Media University of Siegen, Germany: 1
+Institute of Information Systems and New Media, Germany: 1
+Hughes Research Laboratories, 3011 Malibu Canyon Road, MS RL96, Malibu, CA 90265. ,: 1
+Bell Labs, Holmdel, NJ: 1
+Bielefeld University, Bielefeld, Germany: 1
+NASA-Ames Research Center Moffett Field, CA: 1
+1*Departments of Political Science and Geography & Program in Planning, University of Toronto, Sidney Smith Hall, 100 St. George Street, Toronto, ON M5S 3G3, Canada: 1
+2**HEC Montréal, Department of International Business, 3000, chemin de la Côte-Sainte-Catherine, Montréal, QC H3T 2A7, Canada: 1
+Faculty of Geography, Philipps-University of Marburg, Deutschhausstraße 10, D-35032 Marburg, Germany: 1
+Department of Social and Economic Geography, and Centre for Research on Innovation and Industrial Dynamics (CIND), Uppsala University, PO Box 513, S-751 20 Uppsala, Sweden: 1
+Danish Research Unit for Industrial Dynamics (DRUID), Department of Industrial Economics and Strategy (IVS), Copenhagen Business School (CBS), Howitzvej 60, DK-2000 Frederiksberg, Denmark: 1
+University of Valencia, Spain: 1
+The University of Birmingham, UK: 1
+OECD, France: 1
+PSB Paris School of Business, Paris, France: 1
+LEMNA, University of Nantes Departement of Business Administration Nantes France: 1
+School of Innovation Sciences, Eindhoven University of Technology, Eindhoven, the Netherlands: 1
+Innovation Studies, Copernicus Institute of Sustainable Development, Utrecht University, Utrecht, the Netherlands: 1
+HafenCity University Hamburg, Germany: 1
+Curb Center at Vanderbilt University: 1
+Boston University: 1
+Department of Geography, Planning and Environment, H 1255-37 (Hall Building), Concordia University, 1455 de Maisonneuve W, Montréal, QC H3G 1M8, Canada: 1
+Department of Geography, University of Toronto, 100 St George Street, Toronto, ON M5S 3G3, Canada: 1
+Geography, UCLA, Hilgard Avenue, Los Angeles, CA 90095, USA.: 1
+Department of Economics and Management, University of Padova, Padova, Italy: 1
+Department of Management, ESSEC Business School, Cergy 92000, France: 1
+ESSEC Business School – Paris, France: 1
+Department of Business Administration, LEMNA, University of Nantes, Nantes, France.: 1
+Microsoft, and Microsoft Research, Redmond, WA: 1
+University of Southern California, Los Angeles, , CA, USA: 1
+University of North Carolina, Chapel Hill, Chapel Hill, NC, USA: 1
+Georgia Institute of Technology, Atlanta, GA, USA: 1
+Helsinki Institute for Information Technology HIIT, Helsinki, Finland: 1
+University of Duisburg-Essen, Germany: 1
+University of Duisburg-Essen, Germany and Lancaster University, UK: 1
+University of Oulu, Finland: 1
+Université Paris-Sud &amp; CNRS, Inria; University of Canterbury; University of Waterloo, Canada: 1
+Inria, Université Paris-Sud &amp; CNRS, Inria Chile, France: 1
+Chalmers University: 1
+Fujitsu Limited, Tokyo, Japan: 1
+Departamento de Expresión Gráfica en la Ingeniería, Universidad Politécnica de Valencia, Valencia, Spain.: 1
+Michigan State University, 400 Computer Center, East Lansing, Michigan 48824.: 1
+Wal-Mart Chair in Marketing, Department of Marketing and Logistics, Sam M. Walton College of Business, University of Arkansas.: 1
+Charles H. Kellstadt Chair in Marketing, Department of Marketing, Marquette University.: 1
+Korea University, Seoul, South Korea: 1
+Department of Communication; Portland State University; Portland; OR; 97201; USA: 1
+Keck School of Medicine at USC; University of Southern California; Los Angeles; CA; 90089-9034; USA: 1
+University of Arizona: 1
+Interactive Communication and Ergonomics of new Technologies Laboratory, Università Cattolica del Sacro Cuore, Milan, Italy.: 1
+Department of Basic and Clinical Psychology and Psychobiology, Universitat Jaume I de Castellón, València, Spain.: 1
+Medical Image Computing Laboratory (MEDICLAB), Universitat Politècnica de València, València, Spain.: 1
+University of Georgia: 1
+The Pennsylvania State University: 1
+Department of Communication, Michigan State University: 1
+Department of Communication, University of Wisconsin–Milwaukee: 1
+Michigan State University, Department of Communication, East Lansing, MI 48824; phone: 517-355-9659;: 1
+Department of Speech Communication at the University of Georgia: 1
+ISTC-Pervasive Computing, Intel Labs, Seattle, WA, USA: 1
+Microsoft Research Asia: 1
+University of Southern California: 1
+Adobe Research: 1
+UC Berkeley: 1
+Japan Aerospace Exploration Agency, Tokyo, Japan: 1
+Keio University, Fujisawa, Kanagawa, Japan: 1
+University of Munich -- Group for Media Informatics (Amalienstrasse 17, 80333 München, Germany): 1
+Stuttgart Media University -- Department of Electronic Media (Nobelstrasse 10, 70569 Stuttgart, Germany): 1
+University of Bristol, Bristol, Avon, United Kingdom: 1
+Bristol, Bristol, Avon, United Kingdom: 1
+School of Cognitive and Computing Sciences, University of Sussex, Falmer, Brighton BN1 9QH, UK: 1
+Psychology Department, University of Reading, Whiteknights, Reading RG6 2AZ, UK: 1
+Linköping University (LiU), Linköping, Sweden: 1
+Linköping University, Linköping, Sweden: 1
+Postgraduate, School of Built Environment, Curtin Univ., GPO Box U1987, Perth, WA 6845, Australia.: 1
+Curtin-Woodside Chair Professor, Australasian Joint Research Centre for Building Information Modeling, Curtin Univ., GPO Box U1987, Perth, WA 6845, Australia; and International Scholar, Dept. of Housing and Interior Design, Kyung Hee Univ., South Korea (corresponding author).: 1
+Lean Construction Advisor, Woodside Energy Ltd., Perth, WA 6000, Australia.: 1
+Nokia Research Center, Finland: 1
+Nokia Research Center, Helsinki, Finland: 1
+University of Cambridge, Cambridge, United Kingdom: 1
+University of Oulu, Oulu, Finland: 1
+Univ. of North Carolina, Chapel Hill: 1
+Spitz, Inc.: 1
+Vienna University of Technology, Favoritenstrasse 9-11/188, A-1040 Vienna, Austria, , ,: 1
+VRVis Research Center for Virtual Reality and Visualization, Vienna, Austria: 1
+Fraunhofer CRCG, Inc., Providence, Rhode Island: 1
+Imagination GmbH, Vienna, Austria: 1
+Australian National University, Canberra, Australia: 1
+University of California Los Angeles, Los Angeles, CA: 1
+University of Washington, Seattle, WA: 1
+Hiroshima City University, Asaminami-ku, Hiroshima, JAPAN and ATR MIC Labs, Soraku-gun, Kyoto, Japan: 1
+Sony CSL, Tokyo, JAPAN, and ATR MIC Labs, Soraku-gun, Kyoto, Japan: 1
+Division of Cardiac Surgery, The Johns Hopkins Hospital, Baltimore, Maryland.: 1
+Department of Computer Education and Instructional Technology; Istanbul University; Istanbul Turkey: 1
+Department of Anatomy; Faculty of Medicine, Ataturk University; Erzurum Turkey: 1
+Department of Computer Education and Instructional Technology; Ataturk University; Erzurum Turkey: 1
+Grado Department of Industrial & Systems Engineering, Virginia Tech, Blacksburg, USA: 1
+Human Factors Research Group, Faculty of Engineering, University of Nottingham, Nottingham, Nottingham, UK: 1
+Division of Cardiology, Department of Medicine, Western University, London, ON Canada: 1
+Mayo Clinic, Rochester, MN USA.: 1
+School of Optics/CREOL, and School of Electrical Engineering and Computer Science, University of Central Florida Orlando, FL 32816–2700: 1
+Department of Computer Science, University of North Carolina Chapel Hill, NC 27599-3175: 1
+Human-Technology Interaction Group Department of Technology Management Eindhoven University of Technology P.O. Box 513 5600 MB Eindhoven The Netherlands: 1
+Department of Industrial Design Delft University of Technology Jaffalaan 9 2628 BX Delft The Netherlands: 1
+Department of Psychology Goldsmiths College University of London New Cross, SE14 3SQ United Kingdom: 1
+Department of Psychology University of Essex Wivenhoe Park Colchester, Essex, CO4 3SQ United Kingdom: 1
+Human-Technology Interactions Group Department of Technology Management Eindhoven University of Technology P.O. Box 513 5600 MB Eindhoven The Netherlands: 1
+Department of Psychology, Goldsmiths College, University of London New Cross, SE14 6NW, UK,: 1
+Department of Electronic Systems Engineering, University of Essex, Wivenhoe Park Colchester, Essex, CO4 3SQ, UK: 1
+IPO Center for Research on User-System Interaction, Eindhoven University of Technology, POB 513, 5600 MB Eindhoven, The Netherlands: 1
+The Ohio State University, Columbus, Ohio, USA: 1
+Virginia Tech, Blacksburg, Virginia, USA: 1
+City University of New York: 1
+MERL: 1
+Department of Psychology, University Station, A8000 Austin, TX 78750, USA: 1
+Frankfurt Institute for Advanced Studies, Goethe‐University, Frankfurt, Room 1.404, Ruth‐Moufang‐Str. 1, 60438 Frankfurt, Germany: 1
+Department of Mechanical Engineering, Colorado School of Mines, Golden, CO 80401 e-mail:: 1
+Mem. ASME Department of Mechanical Engineering, Colorado School of Mines, Golden, CO 80401 e-mail:: 1
+1University of Wisconsin-Milwaukee: 1
+University of California, San Diego, CA, USA: 1
+Architecture, Inha University, Incheon, Republic of Korea: 1
+Architecture and Town Planning, Technion – Israel Institute of Technology, Haifa, Israel: 1
+Architectural Engineering, Sejong University, Seoul, Republic of Korea: 1
+Antwerp Management School, Expertise Center Business Design & Innovation, Antwerp, Belgium: 1
+Dipartimento di Meccanica, Politecnico di Milano, Milano, Italy: 1
+Université Grenoble Alpes, CNRS, Grenoble INP, G-SCOP, France: 1
+Lecturer, Design Lab, Faculty of Architecture, Design and Planning, The University of Sydney, Sydney, Australia; International Scholar, Department of Housing and Interior Design, Kyung Hee University, Seoul, Korea: 1
+The University of Tokyo and Tokyo Metropolitan University: 1
+University of Waterloo, Canada: 1
+Keio University, Japan: 1
+University of Alabama, Huntsville, Alabama.: 1
+University of Central Florida, Institute for Simulation and Training, Orlando, Florida.: 1
+AutoDesk, Inc., Sausalito, California.: 1
+University of Queensland, Queensland, Australia: 1
+University of Reading, Reading, England: 1
+Optical Diagnostics and Applications (ODA) Laboratory, University of Central Florida, Institute for Simulation and Training and College of Optics and Photonics, 4000 Central Florida Boulevard, Orlando, FL 32816-2700: 1
+Optical Diagnostics and Applications (ODA) Laboratory, College of Optics and Photonics, Institute for Simulation and Training, University of Central Florida, 4000 Central Florida Boulevard, Orlando, FL 32816-2700: 1
+Human Interface Technology Laboratory, University of Washington, Box 352-142, Seactle, WA: 1
+Centro de Computacao Graphica: 1
+Fraunhofer Institut für Graphische Datenverarbeitung: 1
+Zentrum für Graphische Datenverarbeitung: 1
+A&amp;C 2000 Srl.: 1
+Department of Computer Science, Zhejiang University of Technology, Hangzhou, People’s Republic of China: 1
+Department of Manufacturing Engineering and Engineering Management, City University of Hong Kong, Kowloon, Hong Kong: 1
+School of Mechanical andManufacturing Engineering, The University of New South Wales, Sydney, NSW, Australia: 1
+Weizmann Inst. Sci., Rehovot, Israel: 1
+ETH Zurich, Zürich, Switzerland: 1
+TU Berlin &amp; Disney Research, Zurich: 1
+Nokia Research Center, Tampere, Finland: 1
+Disney Research Pittsburgh, Pittsburgh, PA, USA and Université Paris-Sud, Orsay, France: 1
+Disney Research Pittsburgh and Carnegie Mellon University, Pittsburgh, PA, USA: 1
+Technical University of Lisbon, Lisbon, Portugal &amp; Microsoft Research, Redmond, Washington, United States: 1
+Caltech/JPL: 1
+Adobe Systems, Inc. and MPI Informatik: 1
+Adobe Systems, Inc. and Columbia University: 1
+Ulm University: 1
+Adobe Systems, Inc. and Dartmouth College: 1
+Adobe Systems, Inc. and Princeton University: 1
+University of Cambridge, Cambridge, UK: 1
+Aarhus School of Architecture, Denmark: 1
+Industrial Design, TU Eindhoven, The Netherlands: 1
+Aarhus School of Architecture, Aarhus, Denmark: 1
+University of Aarhus, Aarhus, Denmark: 1
+Computer Graphics Lab, New York Institute of Technology, Old Westbury, New York: 1
+Museon, Den Haag, The Netherlands: 1
+University of Sussex, UK: 1
+Queensland University of Technology, Brisbane, Queensland: 1
+Integrated Media Systems Center and School of Gerontology, University of Southern California, Los Angeles, California.: 1
+Sensory Motor Performance Program, Rehabilitation Rehabilitation Institute of Chicago, Chicago, Illinois,: 1
+Department of Physical Medicine and Rehabilitation Rehabilitation Institute of Chicago, Chicago, Illinois: 1
+Department of Mechanical and Aerospace Engineering and Department of Biomedical Engineering, University of California, Irvine, California: 1
+Department of Brain and Cognitive Sciences, McGovern Institute for Brain Research, Massachusetts Institute of Technology, Cambridge, Massachusetts.: 1
+Catherine A. Trombly, ScD, OTR, FAOTA, is Professor, Department of Occupational Therapy, Sargent College of Health & Rehabilitation Sciences, Boston University, 635 Commonwealth Avenue, Boston, Massachusetts 02215; ctrombly@bu.edu: 1
+Ching-Yi Wu, ScD, OTR, is Assistant Professor, Department of Occupational Therapy, College of Medicine, Chang Gung University, Kwei-shan, Tao-yuan, Taiwan. At the time of this study, she was Doctoral Candidate, Boston University: 1
+University of British Columbia, Vancouver, BC Canada: 1
+Johannes Kepler University Linz Bauhaus-University Weimar, Germany: 1
+University of Toronto, Toronto, Ontario, Canada: 1
+Sanders Capital, New York, New York, USA: 1
+Graduate School of Information Science and Technology, University of Tokyo, Tokyo, Japan: 1
+Microsoft Research &amp; University of Illinois at Urbana-Champaign, Urbana, Illinois, USA: 1
+IRSA, Carbon Blanc, France: 1
+University Toulouse - ENAC &amp; Inria, Toulouse, France: 1
+Escuela Politecnica Nacional, Quito, Ecuador: 1
+University of Alicante, Alicante, Spain: 1
+La Salle Barcelona Universitat Ramon Llull, Barcelona, Spain: 1
+University of Toulouse &amp; CNRS, Toulouse, France: 1
+University of Toulouse &amp; CNRS; IRIT, Toulouse, France: 1
+Touch Graphics, Inc. New York, USA: 1
+Departments of Psychology and Neuroscience, Allegheny College, Meadville, PA, USA: 1
+Smith-Kettlewell Eye Research Institute, San Francisco, CA, USA: 1
+Cornell University, Ithaca, NY, USA: 1
+Portland State University, Portland, OR, USA: 1
+Zhejiang University, Hangzhou, Zhejiang, China: 1
+Cornell University &amp; Cornell Tech, New York, NY, USA: 1
+Department of Computer Science and Information Engineering, Da-Yeh University: 1
+Buddhist Tzu Chi General Hospital: 1
+Department of Hepato-Pancreato-Biliary Surgery & Liver Transplantation; University Medical Center Groningen; the Netherlands: 1
+Precision Engineering, Science-based Engineering; University of Twente; the Netherlands: 1
+Minimally Invasive Surgery & Robotics, MIRA Institute for Biomedical Technology and Technical Medicine; University of Twente; the Netherlands: 1
+School of Photography & Motion Picture, Kyungil University, Kyungsan, South Korea: 1
+Department of Art & Technology/Graduate School of Media, Sogang University, Seoul, South Korea: 1
+INRIA, Talence, France: 1
+Waseda University: 1
+University of Lancaster, Lancaster, United Kingdom: 1
+NTT DOCOMO, Chiyoda, Tokyo, Japan: 1
+University of Toulouse - ENAC, France and Inria Bordeaux &amp; LaBRI, University of Bordeaux, France: 1
+Stanford University, CA, USA and Interdisciplinary Center (IDC) Herzliya, Israel: 1
+LMU Munich, Munich, Bavaria, Germany: 1
+Ulm University, Ulm, Baden-Wurttemberg, Germany: 1
+Hamburg University of Applied Science, Hamburg, Germany: 1
+ENAC, Toulouse, France: 1
+Aalborg University, Aalborg, Denmark: 1
+UEC, Choufu-shi, Japan: 1
+German Research Center for Artificial Intelligence, Saarbrücken, Germany: 1
+Fraunhofer Inst. for Comput. Graphics, Germany: 1
+University of Calgary and University of Saskatchewan: 1
+Microsoft Research, Remond, WA, USA: 1
+Korea Advanced Institute of Science and Technology, Daejeon, Korea, Republic of: 1
+Korea Advanced Institute of Science and Technology, Deajeon, Republic of Korea: 1
+Brunei University: 1
+Department of Information Systems, University of Portsmouth, Burnaby Terrace, 1-8 Burnaby Road, Portsmouth, Hampshire, UK PO1 3AE, ,: 1
+School of Design, Engineering & Computing, Bournemouth University, Bournemouth, Dorset, UK BH12 5BB,: 1
+Bauhaus-University Weimar, Germany and Osaka University, Japan: 1
+University of British Columbia, Canada: 1
+NTT Communication Science Laboratories, Kyoto, Japan: 1
+University of Maryland University College: 1
+The University of Tokyo, Tokyo, Japan Tomohiro: 1
+Christian-Albrechte-Universitat &amp; Kiel University of Applied Sciences, Kiel, Germany: 1
+New York University and ETH Zurich: 1
+Faculty of Design, Kyushu University: 1
+NeuroGEARS Ltd, London, United Kingdom: 1
+Institute of Neuroscience, Department of Psychology, University of Oregon, Eugene, United States: 1
+Facebook AI Research: 1
+Technical University of Munich: 1
+Ilmenau University of Technology, Ilmenau, Germany: 1
+Ilmenau University of Technology &amp; fayteq GmbH, Ilmenau, Germany: 1
+POSTECH: 1
+Microsoft Research, Redmond, WA and University of Illinois at Urbana-Champaign, Urbana, IL: 1
+Yahoo Inc., Sunnyvale, CA: 1
+Tokyo Eisei Gakuen College, Tokyo, Japan: 1
+Systems Research Center, Virginia Tech, Blacksburg VA 24061,: 1
+Department of Computer Science and Engineering, Mississippi State University: 1
+Systems Research Center Virginia Tech: 1
+China Mobile Communications Corporation Research Institute, China: 1
+SAP AG, Darmstadt, Germany: 1
+Ostwestfalen-Lippe University of Applied Sciences, Lemgo, Germany: 1
+Curtiss-Wright Corporation,: 1
+Mitsubishi Electric Research Labs: University of Toronto, Boston, MA: 1
+Disney Research Pittsburgh, Pittsburgh, PA and Carnegie Mellon University, Pittsburgh, PA: 1
+Microsoft Research Asia, Beijing, China: 1
+Disney Research Pittsburgh, Pittsburgh, PA: 1
+University of Alberta, Edmonton, Alberta, Canada &amp; Microsoft Research, Redmond, WA, USA: 1
+University of Alberta, Edmonton, Alberta, Canada: 1
+NVIDIA, USA: 1
+Rochester Institute of Technology, NVIDIA: 1
+Graduate School of Engineering, Utsunomiya University: 1
+Palo Alto Research Center, Palo Alto, CA: 1
+LIFL &amp; INRIA Lille, University of Lille, Villeneuve d'Ascq, Lille, France: 1
+INRIA, Lille, France: 1
+University of Waterloo, Waterloo, Ontario, Canada: 1
+StoneSoup Consulting, Los Altos, CA: 1
+University of Aarhus, Aabogade 34A, 8200 Aarhus N, Denmark: 1
+Microsoft Research &amp; University of Wisconsin-Madison: 1
+Microsoft Research &amp; University of Southern California: 1
+National University of Singapore and Télécom ParisTech - CNRS LTCI UMR 5141, Singapore, Singapore: 1
+Telecom ParisTech - CNRS LTCI UMR 5141, Paris, France: 1
+National University of Singapore, Singapore, Singapore: 1
+Medical Research Council, Applied Psychology Unit, Cambridge, United Kingdom.: 1
+University of British Columbia, Vancouver, BC: 1
+INRIA Lorraine, Vandoeuvre, France: 1
+PKSHA Technology Inc.: 1
+EPFL/Tsinghua University: 1
+Zhejiang University and Disney Research Zurich: 1
+Department of Computer Science University of North Carolina at Chapel Hill: 1
+Alternate Realities Corporation: 1
+Syracuse University: 1
+U of North Carolina at Chapel Hill: 1
+Bauhaus University, Weimar: 1
+University of California, Berkeley &amp; Autodesk Research (Canada), Berkeley, CA, USA: 1
+University of California, Berkeley, Berkeley, CA, USA: 1
+Disney Research Pittsburgh, Pittsburgh, Pennsylvania, USA: 1
+Princeton University and Disney Research Boston, Princeton, NJ: 1
+MIT CSAIL, Cambridge, MA: 1
+Carnegie Mellon University, Vancouver, BC, Canada: 1
+Columbia University, New York City, NY, USA: 1
+Department of Physics, Georgetown University, Washington, DC, USA: 1
+Werner Reichardt Center for Integrative Neuroscience, University of Tübingen, Tübingen, Germany: 1
+Walt Disney Animation Studios and Universidad de Zaragoza: 1
+Disney Research Los Angeles: 1
+Universidad de Zaragoza: 1
+Quantat Research Cambridge Inc.: 1
+Bauhaus University, Weimar, Germany: 1
+Fraunhofer Center for Research in Computer Graphics (CRCG), Providence, RI: 1
+University of Bristol, Bristol, UK: 1
+Aarhus School of Architecture, Århus, Denmark: 1
+Fraunhofer IAO: 1
+digital IMAGE: 1
+Hasselt University - tUL - iMinds, Diepenbeek, Belgium: 1
+Hasso Plattner Institute, Potsdam , Germany: 1
+Department of Computer Science, University College London, UK,: 1
+School of Technology Management and Economics, Chalmers University, Sweden: 1
+Computer Science Engineering Bennett University,India: 1
+University of Haifa, Mount Carmel, Haifa 31905, Israel (). In her research, she uses the discursive approach to investigate mathematical thinking: 1
+The University of Sydney, Australia: 1
+KTH (Royal Institute of Technology), Sweden: 1
+Queen Mary and Westfield College, London, UK: 1
+Department of Computer and Information Science, Indiana University Purdue University Indianapolis (IUPUI), Indianapolis, IN 46202-05132,: 1
+University of Chicago and Argonne National Laboratories: 1
+University of California, Irvine, CA: 1
+University of Chicago, Argonne National Laboratory, Argonne, IL: 1
+Intuitive Surgical/Fakespace Labs: 1
+Zhejiang University; Hangzhou China: 1
+University of Illinois at Urbana-Champaign, Urbana, IL: 1
+University of California, Santa Cruz: 1
+Max Planck Institute for Intelligent Systems, Tübingen, Germany and Industrial Light and Magic, San Francisco, CA: 1
+Autodesk Research &amp; Carnegie Mellon University, Pittsburgh, USA: 1
+Department of Product Design, Ming Chuan University: 1
+Department of Psychology, Tokyo Metropolitan University, 1-1 Minami-Osawa, Hachioji, Tokyo 192-0397, Japan: 1
+NTT Communication Science Laboratories, 3-1 Morinosato Wakamiya, Atsugi 243-0198, Japan: 1
+Faculty of Education, Iwate University, 3-18-8 Ueda, Morioka, Iwate, Japan: 1
+The Technical staff in the Human Information Processing Department, Bell Telephone Laboratories, Murray Hill, N.J.: 1
+Experimental Psychology, School of Biology, University of Sussex, Brighton BN1 9QG, UK: 1
+Department of Psychology, Osaka City University, Sumiyoshi-ku, Osaka 558, Japan: 1
+Cambridge Basic Research, Nissan Research & Development, Inc: 1
+Laboratoire de Psychologie Experimentale, CNRS, Universit$eA Ren$eA Descartes, Paris, France: 1
+Department of Electrical Engineering, McGill University: 1
+Department of Intelligent Robot Engineering, Hanyang University, Seoul, Republic of Korea: 1
+Department of Electronic Engineering, Hanyang University, Seoul, Republic of Korea: 1
+National Instruments, USA: 1
+Japan Advanced Institute of Science and Technology, Nomi, Ishikawa, Japan: 1
+University of Alberta, Edmonton, Canada: 1
+University of Technology Sydney, Ultimo, NSW, Australia: 1
+Guangdong University of Technology, Guangzhou, P.R China: 1
+Naresuan University, Phisanulok, Thailand: 1
+Recruit Marketing Partners Co., Ltd.: 1
+IPLAB, University of Tsukuba: 1
+ISI-Dentsu, Ltd., Open Innovation Lab.: 1
+Disney Research Pittsburgh: 1
+University of the Arts Berlin, Germany: 1
+Studio NAND, Germany: 1
+University of Toronto, Toronto, Canada: 1
+University of Erlangen-Nuremberg and Stanford University: 1
+Microsoft Research Cambridge: 1
+Telecom ParisTech (TPT), Paris, France: 1
+University of Geneva, Geneva, Switzerland: 1
+Harvey C. Fruehauf Professor of Business Administration at the University of Michigan Business School in Ann Arbor: 1
+Michael R. and Mary Kay Hallman Fellow of Electronic Business and Professor of Marketing at the University of Michigan Business School: 1
+Federal Institute of Education, Science and Technology of São Paulo: 1
+University of Málaga, Málaga, Spain: 1
+Pablo de Olavide University, Seville, Spain: 1
+University of Osuna, Osuna, Spain: 1
+Department of Biomedical Engineering, Keimyung University, Daegu, Korea.: 1
+Department of Rehabilitation, Daehan Hospital, Seoul, Korea.: 1
+Graduate School of Technology and Innovation Management, Hanyang University, Seoul, Korea.: 1
+Department of Occupational Therapy, Eulji Hospital, Seoul, Korea.: 1
+Department of Physical therapy, Eulji Hospital, Seoul, Korea.: 1
+Department of Biostatistics, Yonsei University of College of Medicine, Seoul, Korea.: 1
+REVAL Rehabilitation Research Center, Faculty of Medicine and Life Science, Hasselt University, Hasselt, Belgium/IPEM Institute for Psychoacoustics and Electronic Music, Faculty of Arts and Philosophy, Ghent University, Ghent, Belgium: 1
+Rehabilitation & MS Centre Overpelt, Overpelt, Belgium/FBI, BIOMED, Faculty of Life Sciences and Physiotherapy, Hasselt University, Hasselt, Belgium: 1
+REVAL Rehabilitation Research Center, Faculty of Medicine and Life Science, Hasselt University, Hasselt, Belgium/Rehabilitation & MS Centre Overpelt, Overpelt, Belgium: 1
+Fit Up, Physiotherapy Centre, Kontich, Belgium: 1
+Demyelinating Diseases Unit, Neurology Service, Clínico San Carlos University Hospital, Madrid, Spain: 1
+Centre for Research and Education in Active Living, University of Tasmania, Hobart, Australia: 1
+ASL 3 Umbria, Unità Organica di Riabilitazione Intensiva Neuromotoria, Trevi, Italy: 1
+Pragma Engineering, Perugia, Italy: 1
+Signo Motus srl Messina, Italy: 1
+University of Illinois at Urbana-Champaign, USA: 1
+Industrial Engineering Department, Parahyangan Catholic University, Ciumbuleuit 94, Bandung 40141, Indonesia: 1
+Expertise Centre for Digital Media-tUL-iMinds, Hasselt University, Wetenschapspark 2, 3590 Diepenbeek, Belgium: 1
+Cleveland Clinic Lerner Research Institute; Department of Biomedical Engineering, Department of Physical Medicine and Rehabilitation; Cleveland OH USA: 1
+Department of Occupational Therapy; University of Illinois at Chicago; Chicago IL USA: 1
+Department of Neurology, Free University, Amsterdam, the Netherlands: 1
+Scientific and Clinical Review Associates LLC, New York, NY: 1
+Division of Neurology, Hospital for Sick Children, Toronto, Ontario, Canada: 1
+Department of Neurosciences, University Hospital Center, Toulouse, France: 1
+Mellen Center for Multiple Sclerosis Treatment and Research, Cleveland Clinical Foundation, Cleveland, OH: 1
+Neuroimaging Research Unit, Division of Neuroscience, Scientific Institute and University Hospital San Raffaele, Milan, Italy: 1
+Department of Multiple Sclerosis Therapeutics, Tohoku University Graduate School of Medicine, Sendai, Japan: 1
+Department of Neurology, First Faculty of Medicine, Charles University, Prague, Czech Republic: 1
+St Vincent's University Hospital, Elm Park, Dublin, Ireland: 1
+Departments of Neurology and Biomedicine, University Hospital, Kantonsspital, Basel, Switzerland: 1
+Corrine Goldsmith Dickinson Center for Multiple Sclerosis, Department of Neurology, Mount Sinai School of Medicine, New York, NY: 1
+Clinical Neuroimmunology Unit, Multiple Sclerosis Center of Catalonia, University Hospital Vall d'Hebron, Barcelona, Spain: 1
+Division of Neurology, St. Michael's Hospital, University of Toronto, Toronto, Ontario, Canada: 1
+Department of Neurology, University Hospital, Lund, Sweden: 1
+University College London Institute of Neurology, United Kingdom: 1
+Multiple Sclerosis Center, University of California, San Francisco, CA: 1
+Department of Neurology, Mayo Clinic, Rochester, MN: 1
+Department of Neurology, University of Texas Health Sciences Center, Houston, TX: 1
+IST/INESC-ID Lisbon, Lisbon, Portugal: 1
+Technical University of Lisbon, Lisbon, Portugal: 1
+IST/INESC-ID, Lisbon, Portugal, Lisbon, Portugal: 1
+University of Beira Interior, Covilhã, Portugal: 1
+University of Lisbon, Lisbon, Portugal: 1
+Department of Kinesiology and Community Health, University of Illinois at Urbana-Champaign, Urbana, Illinois: 1
+Department of Kinesiology and Community Health, University of Illinois at Urbana-Champaign, Urbana, Illinois,: 1
+Department of Medicine, Dentistry & Health sciences, University of Melbourne; Department of Rehabilitation Medicine, Royal Melbourne Hospital and; Poplar Road Parkville Melbourne Victoria Australia 3052: 1
+King's College London and Northwick Park Hospital; Regional Rehabilitation Unit; Watford Road Harrow Middlesex UK HA1 3UJ: 1
+Royal Melbourne Hospital, Royal Park Campus; Department of Rehabilitation Medicine; Poplar Road Parkville Victoria Australia 3052: 1
+The University of Melbourne; Centre for Neuroscience; Poplar Road Parkville Melbourne Victoria Australia 3010: 1
+Royal Melbourne Hospital; Department of Rehabilitation Medicine; Poplar Road Parkville Melbourne Victoria Australia VIC 3052: 1
+Carnegie Mellon University, Pittsburgh, PA and Mitsubishi Electric Research Laboratories, Cambridge, MA: 1
+Mitsubishi Electric Research Laboratories, Cambridge, MA and Stanford University, Stanford, CA: 1
+ISIT/KYUSHU, Momochihama, Sawara-ku, Fukuoka, Japan: 1
+University Stefan cel Mare of Suceava, 13 Universitatii, 720229 Suceava, Romania. E-mail: vatavu@eed.usv.ro: 1
+University of British Columbia and KAUST and Stanford University: 1
+KAUST and University of British Columbia: 1
+University of Bonn: 1
+Robotics Institute, Carnegie Mellon University, Pittsburgh, PA, USA: 1
+Kensington, CA: 1
+InSciTech, Mountain View, CA: 1
+Institute for Simulation and Training University of Central Florida 3100 Technology Parkway Orlando, Florida 32826: 1
+University of Art and Design, Berlin, Germany: 1
+ETHZ Computational Laboratory (CoLab), Institute of Computational Science (ICoS), Swiss Federal Institute of Technology, 8092 Zürich, Switzerland: 1
+University of Applied Science Vorarlberg, Dornbirn, Austria: 1
+Czech Technical University in Prague, Prag, Czech Rep: 1
+Inesc-ID / Universidade de Lisboa and FCSH / Universidade Nova de Lisboa: 1
+Tecgraf, PUC-Rio Brasil: 1
+University of Maryland, College Park, MD: 1
+Centre d'Études de la, Navigation Aérienne, 7 avenue Edouard Belin, 31055 Toulouse cedex, France and Input Research Group, CSRI, University of Toronto, Toronto, ON M5S 1A4, Canada: 1
+Input Research Group, CSRI, University of Toronto, Toronto, ON M5S 1A4, Canada and IBM Almaden, Research Center, 650 Harry Road, San Jose, CA: 1
+Preferred Networks Inc. &amp; University of Waterloo, Tokyo, Japan: 1
+Northwestern University, Chicago, Illinois, USA: 1
+Kansas State University, Manhattan, Kansas, USA: 1
+Bell Labs: 1
+Özyeğin University, Istanbul, Turkey: 1
+Smart Technologies, Calgary, AB, Canada: 1
+Microsoft, Redmond, WA: 1
+Graduate School of Information Science and Technology, University of Tokyo: 1
+Department of Multimedia Engineering, Faculty of Informatics, Kaunas University of Technology, Studentų g. 50-414a, LT-51368 Kaunas, Lithuania: 1
+Multimedia Engineering Department, Kaunas University of Technology, Kaunas, Lithuania: 1
+Computer Science Department, Kaunas University of Technology, Kaunas, Lithuania: 1
+Department of Physical Medicine & Rehabilitation, The Johns Hopkins School of Medicine, Baltimore, MD, USA: 1
+Department of Rehabilitation Medicine, University of Washington, VA Puget Sound Health Care System, Seattle, WA, USA: 1
+International Center for Spinal Cord Injury, Hugo W. Moser Research Institute at Kennedy Krieger & Department of Physical Medicine & Rehabilitation, The Johns Hopkins School of Medicine, Baltimore, MD, USA: 1
+Nara Institute of Science and Technology (NAIST), Nara, Japan: 1
+Uppsala University, Uppsala, Sweden: 1
+TU Berlin, Strasse des 17. Juni 152, D-10623 Berlin: 1
+King Abdullah University of Science and Technology and University of British Columbia, Vancouver, Canada: 1
+Hiroshima City University, Hiroshima, Japan: 1
+University of Illinois at Urbana-Champaign, Urbana, Illinois &amp; Microsoft Research, Redmond, Washington, United States: 1
+Microsoft Research &amp; University of Southern California, Los Angeles, CA, USA: 1
+Microsoft Research &amp; University of Waterloo, Waterloo, ON, Canada: 1
+University of Toronto 10 King's College Road, Toronto, Canada,: 1
+Sony CSLabs, Inc.: 1
+North Carolina State University, USA,: 1
+University of Córdoba, Córdoba Spain: 1
+University of Oxford and Nankai University, Nankai, Tianjin, China: 1
+Microsoft Research Cambridge, Oxford OX, UK: 1
+University of Oxford, Cambridge, UK: 1
+Disney Research Zürich: 1
+MIT CSAIL, Disney Research Zürich: 1
+Beifang University of Nationalities, Yinchuan, Ningxia, China: 1
+University of Hull: 1
+The Chinese University of Hong Kong: 1
+New York University, New York, NY: 1
+IBM T.J. Watson Research Center, Hawthorne, NY: 1
+Hitachi, Ltd., Kokubunji-shi, Tokyo, Japan: 1
+Microsoft Research, Redmond, WA, USA and University of Toronto, Toronto, ON, Canada: 1
+PRESTO, Japan Science and Technology Agency, Japan: 1
+Graduate School of Engineering Science; Toyonaka Japan: 1
+URJC Madrid: 1
+INRIA (French National Institute for Research in Computer Science and Control), Campus de Beaulieu, 35042 Rennes Cedex, France: 1
+Technical University Ilmenau, Postfach, Ilmenau: 1
+IBISC Laboratory / Wassa, rue de l'Eglise, Boulogne-Billancourt, France: 1
+Carnegie Mellon Univ., Pittsburgh, PA: 1
+School of Computer Science, University of HertfordshireCollege Lane, Hatfield AL10 9AB, UK: 1
+Max Planck Institute for Psycholinguistics, Nijmegen, The Netherlands/Department of Linguistics and Literary Sciences. University of Bielefeld, Bielefeld, Germany: 1
+F.C. Donders Centre for Cognitive Neuroimaging, Radboud University Nijmegen, The Netherlands/Department of Cognitive Psychology and Ergonomics, University of Twente, Enschede, The Netherlands: 1
+F.C. Donders Centre for Cognitive Neuroimaging, Radboud University Nijmegen, The Netherlands: 1
+Max Planck Institute for Psycholinguistics, Nijmegen, The Netherlands: 1
+U.S. Army Research Laboratory: 1
+School of Engineering, Zurich University of Applied Sciences (ZHAW), Winterthur, Switzerland: 1
+Department of Design and Manufacturing Technology, University of Limerick, Limerick, Ireland: 1
+Department of Numerical Ingineering, QUARTZ, Paris, France: 1
+Department of Mathematical and Industrial Engineering, Polytechnique Montreal, Montreal, Canada: 1
+LAMIH CNRS, Arts et Métiers ParisTech, Paris, France: 1
+CAOR, Mines ParisTech, Paris, France: 1
+Exxelia Group, Paris, France: 1
+Program of Computer Graphics, Cornell University, Ithaca, New York: 1
+Sibley School of Mechanical and Aerospace Engineering, Cornell University, Ithaca, New York: 1
+Stanford Univ., Stanford, CA: 1
+MCC, Austin, TX: 1
+The Interaction Research Group, Department of Information Science and Media Studies, University of Bergen, Fosswinckelsgate 6, 5020 Bergen, Norway: 1
+School of Sport and Health Sciences, University of Exeter, United Kingdom: 1
+c/o Cochrane Bone, Joint and Muscle Trauma Group; Centre for Musculoskeletal Research, Institute of Inflammation and Repair, The University of Manchester; Manchester UK: 1
+Department of Medicine, Dunedin School of Medicine; University of Otago; Dunedin New Zealand: 1
+Hull York Medical School; University of Hull; Hull UK: 1
+Institute for Musculoskeletal Health, School of Public Health, Faculty of Medicine and Health; The University of Sydney; Sydney Australia: 1
+Cancer Research UK Clinical Trials Unit, School of Cancer Sciences, Institute of Cancer and Genomic Sciences; University of Birmingham; Birmingham UK: 1
+Faculty of Health Sciences; The University of Sydney; Lidcombe Australia: 1
+Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal Sciences (NDORMS); University of Oxford; Oxford UK: 1
+Univ. of Washington, Seattle: 1
+Department of Computer Science, University College London, London WCIE 6BT, UK.: 1
+Department of Computer Science, QMW University of London, London El 4NS, UK.: 1
+Flinders University; School of Health Sciences, Discipline of Physiotherapy; Adelaide Australia: 1
+Rutgers University; Department of Rehabilitation and Movement Science; Newark New Jersey USA: 1
+University of Toronto; Department of Medicine (Neurology), St Michael's Hospital; Toronto Canada M5C 1R6: 1
+University of California at Berkeley: 1
+Erling Björgvinsson is a researcher and teacher at Malmö University in interaction design. He has over ten years of experience working with collaborative and participatory design within the fields of culture and healthcare. His research area is in design methodology, specifically on collaborative and participatory design-lead research. He has published articles in, amongst others, CoDesign – International Journal of CoCreation in Design and The Arts and in The Proceedings of Participatory Design.: 1
+Pelle Ehn is a professor at the School of Arts and Communication at Malmö University in Sweeden. For more than 30 years, he has been engaged in research on design and participation, and has published widely on the subject. Major publications span from “Work-Oriented Design of Computer Artifacts” (1988) to the collaborative work Design Things: A. Telier (Cambridge, MA: MIT Press, 2011).: 1
+Per-Anders Hillgren is a researcher and teacher at Malmö University in interaction design. He has over ten years of experience working with collaborative and participatory design within the field of healthcare, urban development and social innovation. His research area is in design methodology, specifically on collaborative and participatory design-lead research. He has published articles in, amongst others, CoDesign – International Journal of CoCreation in Design and The Arts and in The Proceedings of...: 1
+McKinsey & Company, Inc., Kurfürstendamm 185, 10707 Berlin, Germany,: 1
+University of Reading, UK,: 1
+Mississippi State University, Mississippi State, Mississippi NICHOLAS I. BENIMOFF, AT&T Bell Laboratories, Holmdel, New Jersey: 1
+Haskins Laboratories: 1
+Linköpings universitet, Linköping, Sweden: 1
+IBM Almaden Research Center, San Jose, California: 1
+Marc Steen works as a senior scientist at TNO, an independent research organization in the Netherlands. He earned MSc, MTD and PhD degrees in Industrial Design Engineering at Delft University of Technology and worked at telecom operator KPN and Philips Electronics. At TNO, he works in diverse research and innovation projects. His expertise is in human-centered design, co-design, open innovation and innovation management. He also engages in critical reflection on projects in which he works.: 1
+Maastricht University: 1
+Trinity College Dublin, Dublin, Ireland: 1
+Adobe Inc.: 1
+DAQRI &amp; Curtiss-Wright, Dublin, Ireland: 1
+DAQRI &amp; Komprise: 1
+Computer Sciences Corporation, Moorestown, New Jersey: 1
+Battelle Human Affairs Research Center, Seattle, Washington: 1
+CHI Systems, Spring House, Pennsylvania: 1
+U.S. Army Research Institute, Fort Bliss, Texas: 1
+TU Berlin: 1
+Carnegie Mellon University and Disney Research, Pittsburgh, Pennsylvania, USA: 1
+University of Würzburg, Würzburg, Germany: 1
+Immersive Media Group, Würzburg, Germany: 1
+York University, Toronto, Canada: 1
+University of Haifa: 1
+RIKEN: 1
+Rutgers University: 1
+Disney Research, Pittsburgh, Pittsburgh, Pennsylvania, USA &amp; The University of Tokyo, Tokyo, Japan: 1
+Disney Research, Pittsburgh, Pittsburgh, Pennsylvania, United States: 1
+Disney Research, Pittsburgh &amp; Carnegie Mellon University, Pittsburgh, Pennsylvania, United States: 1
+The Interdisciplinary Center: 1
+Department of Surgery, University of North Carolina, Chapel Hill: 1
+INRIA, Saclay, France: 1
+Inria, Saclay, France: 1
+Nokia, Espoo, Finland: 1
+Massachusetts Institute of Technology, Cambridge, Massachusetts , USA: 1
+Sony Cooperation, Shinagawa, Tokyo, Japan: 1
+Cornell University: 1
+Information Systems Department, School of Management, Boston University, 595 Commonwealth Avenue, Boston, Massachusetts 02215: 1
+Computer Science Department, University of Cape Town and CIC, School of Media Culture and Creative Arts, Curtin University, Australia: 1
+Computer Science Department, University of Cape Town, South Africa: 1
+SINTEF Digital, Forskningsveien 1, Oslo, Norway: 1
+University of Oslo, Gaustadalléen 23B, Oslo, Norway: 1
+University of Leeds, UK and Max Planck Institute for Biological Cybernetics, Tübingen, Germany: 1
+Max Planck Institute for Biological Cybernetics, Tübingen, Germany: 1
+Max Planck Institute for Biological Cybernetics and Korea University, Tübingen, Germany: 1
+Psychology, University of Cincinnati: 1
+Dept. of Psychology, Vanderbilt University: 1
+Mersive Technologies: 1
+University of Saskatchewan, Saskatoon, SK, Canada: 1
+Newcastle University, Newcastle upon Tyne &amp; Microsoft Research, Cambridge, United Kingdom: 1
+RWTH Aachen University, Aachen, Germany &amp; Microsoft Research, Cambridge, United Kingdom,: 1
+University of Nottingham, Nottingham, UK: 1
+University of Bath, Bath, UK: 1
+Intel Labs Seattle, Seattle, WA, USA: 1
+Queen's University, Kingston &amp; Carleton University, Ottawa, Ontario, Canada: 1
+McGill University, Montreal, Quebec, Canada: 1
+University of Wisconsin, Madison, Madison, WI, USA: 1
+Willow Garage, Menlo Park, CA, USA: 1
+Microsoft &amp; Google, Redmond, WA, USA: 1
+Simon Fraser University, Surrey, BC, Canada: 1
+
+Top Author: Daisuke Iwai

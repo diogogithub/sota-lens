@@ -1,0 +1,44 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "sota-lens"
+version = "0.1.0"
+description = "Exploratory citation-network mapping for state-of-the-art and scoping reviews"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+authors = [
+  {name = "Diogo Peralta Cordeiro", email = "mail@diogo.site"}
+]
+keywords = ["literature-review", "scoping-review", "bibliometrics", "citation-network", "network-science"]
+classifiers = [
+  "Development Status :: 3 - Alpha",
+  "Intended Audience :: Science/Research",
+  "License :: OSI Approved :: MIT License",
+  "Programming Language :: Python :: 3",
+  "Topic :: Scientific/Engineering :: Information Analysis"
+]
+dependencies = [
+  "networkx>=3.0",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0", "ruff>=0.5"]
+scholar = ["requests>=2.31", "beautifulsoup4>=4.12", "tqdm>=4.66"]
+
+[project.urls]
+Homepage = "https://diogogithub.github.io/sota-lens/"
+Repository = "https://github.com/diogogithub/sota-lens"
+Issues = "https://github.com/diogogithub/sota-lens/issues"
+Paper = "https://github.com/diogogithub/sota-lens/tree/master/paper"
+
+[project.scripts]
+sota-lens = "sota_lens.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Tool — SotA Lens</title>
+  <meta name="description" content="Load CSV and GEXF files into the SotA Lens browser tool for exploratory citation-network inspection.">
+  <meta property="og:image" content="assets/sota-lens-wordmark-whitebg.png">
+  <link rel="stylesheet" href="assets/style.css">
+  <script defer src="assets/theme.js"></script>
+  <script defer src="assets/tool.js"></script>
+</head>
+<body>
+<header class="site-header">
+  <a class="brand" href="index.html" aria-label="SotA Lens home">
+    <img class="brand-logo" src="assets/sota-lens-wordmark-transparent.png" alt="SotA Lens">
+  </a>
+  <nav class="nav">
+    <a href="methodology.html">Methodology</a>
+    <a href="tool.html">Tool</a>
+    <a href="publication.html">Publication</a>
+    <a href="https://github.com/diogogithub/sota-lens">GitHub</a>
+    <button class="theme-toggle" type="button" data-theme-toggle>Dark mode</button>
+  </nav>
+</header>
+
+<main id="toolTop" class="tool-main">
+  <section class="tool-intro section">
+    <div class="section-heading row">
+      <div>
+        <p class="eyebrow">Web tool</p>
+        <h1 class="tool-title">Load your own review corpus.</h1>
+        <p class="subtitle">This page opens empty by default. Load an article CSV, add a Gephi-compatible GEXF, or explicitly try the DPM/SAR case study used in the paper.</p>
+      </div>
+      <div class="actions compact">
+        <input id="csvInput" type="file" accept=".csv,text/csv" hidden>
+        <input id="gexfInput" type="file" accept=".gexf,.xml,application/xml,text/xml" hidden>
+        <button class="button primary" id="loadCsv" type="button">Load CSV</button>
+        <button class="button" id="loadGexf" type="button">Load GEXF</button>
+        <button class="button" id="loadDemo" type="button">Try paper case study</button>
+      </div>
+    </div>
+    <div id="datasetStatus" class="note dataset-empty"><strong>No dataset loaded.</strong> Use <em>Load CSV</em> for article records, <em>Load GEXF</em> for graph layouts/edges, or <em>Try paper case study</em> to load the bundled Dynamic Projection-Mapping / Spatial Augmented Reality dataset.</div>
+  </section>
+
+  <section id="explorer" class="section explorer disabled">
+    <div class="panel">
+      <div class="table-head">
+        <h3>Dataset controls</h3>
+        <div class="actions compact in-panel">
+          <button class="button" id="downloadFiltered" type="button">Export filtered CSV</button>
+          <button class="button" id="resetView" type="button">Reset graph view</button>
+        </div>
+      </div>
+      <div class="controls">
+        <label>Search title, DOI, author, subject<input id="searchBox" type="search" placeholder="e.g., projector calibration, Daisuke Iwai, 10.1109…" disabled></label>
+        <label>Year from<input id="yearFrom" type="number" placeholder="" disabled></label>
+        <label>Year to<input id="yearTo" type="number" placeholder="" disabled></label>
+        <label>Depth<select id="depthFilter" disabled><option value="">Any</option><option value="0">Seed / depth 0</option><option value="1">Reference / depth 1</option></select></label>
+        <label>Minimum degree<input id="degreeMin" type="number" min="0" value="0" disabled></label>
+      </div>
+    </div>
+
+    <section class="section split">
+      <div class="panel">
+        <h3>Citation graph</h3>
+        <p class="hint">After loading data, drag to pan, use the mouse wheel to zoom, and click a node or table row to inspect an article.</p>
+        <canvas id="graphCanvas" width="1280" height="720" aria-label="Citation network explorer"></canvas>
+      </div>
+      <div class="panel">
+        <h3>Selected article</h3>
+        <div id="articleDetails" class="details muted">No dataset loaded yet.</div>
+      </div>
+    </section>
+
+    <div class="grid three">
+      <div class="panel"><h3>Top authors</h3><ol id="authorsList" class="ranked"></ol></div>
+      <div class="panel"><h3>Top subject terms</h3><ol id="subjectsList" class="ranked"></ol></div>
+      <div class="panel"><h3>Communities</h3><div id="communitiesList" class="chips"></div></div>
+    </div>
+
+    <div class="panel">
+      <div class="table-head"><h3>Articles</h3><span id="resultCount" class="muted">0 results</span></div>
+      <div class="table-wrap">
+        <table id="articlesTable">
+          <thead><tr><th>Year</th><th>Degree</th><th>Community</th><th>Title</th><th>Authors</th><th>DOI / ID</th></tr></thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <section class="section split">
+    <div>
+      <p class="eyebrow">Offline pipeline</p>
+      <h2>Generate CSV, JSON, and GEXF from the command line.</h2>
+      <p>Use the GitHub repository for reproducible corpus generation, versioned datasets, tests, and Gephi export. The browser tool is for inspection and lightweight upload, not for live Google Scholar scraping.</p>
+      <div class="actions">
+        <a class="button primary" href="https://github.com/diogogithub/sota-lens" target="_blank" rel="noopener">Open GitHub repository</a>
+        <a class="button" href="https://github.com/diogogithub/sota-lens#quick-start" target="_blank" rel="noopener">Offline CLI</a>
+      </div>
+    </div>
+    <pre class="code"><code>sota-lens build \
+  --articles data/case-study/articles_full.csv \
+  --out build/dpm-sar \
+  --web-json build/dpm-sar/web-dataset.json</code></pre>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <span>Files are processed locally in the browser.</span>
+  <span><a href="methodology.html">Read the methodology</a></span>
+</footer>
+</body>
+</html>
