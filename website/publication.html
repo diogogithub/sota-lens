@@ -4,6 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Publication — SotA Lens</title>
+  <meta name="description" content="Publication, archival, DOI, preprint, and citation information for SotA Lens.">
   <meta property="og:image" content="assets/sota-lens-wordmark-whitebg.png">
   <link rel="stylesheet" href="assets/style.css">
   <script defer src="assets/theme.js"></script>
@@ -27,21 +28,36 @@
     <img class="intro-mark" src="assets/sota-lens-icon-transparent.png" alt="SotA Lens icon">
     <div>
       <p class="eyebrow">Publication and citation</p>
-      <h1>SotA Lens paper, preprint, and software</h1>
-      <p class="lead">The repository includes the public software release, the browser-based explorer, a concise JOSS software paper, and a longer arXiv-style methodology preprint.</p>
+      <h1>SotA Lens software, preprint, and archival status</h1>
+      <p class="lead">SotA Lens is released as open-source research software and archived through Zenodo. The arXiv preprint is pending endorsement/submission, and the JOSS manuscript is available for transparency and possible future resubmission after a longer public open-development period.</p>
+    </div>
+  </section>
+
+  <section class="card">
+    <h2>Current status</h2>
+    <ul>
+      <li><strong>Software DOI:</strong> <a href="https://doi.org/10.5281/zenodo.19860899">10.5281/zenodo.19860899</a>.</li>
+      <li><strong>Software release:</strong> <a href="https://github.com/diogogithub/sota-lens/releases/latest">latest GitHub release</a>, archived through Zenodo.</li>
+      <li><strong>arXiv preprint:</strong> pending endorsement/submission. A rendered PDF is available below while the arXiv identifier is pending.</li>
+      <li><strong>JOSS:</strong> manuscript available, but not currently under review. The first submission was procedurally rejected because JOSS requires a longer public open-development history for projects that were privately developed before public release.</li>
+    </ul>
+    <div class="actions">
+      <a class="button primary" href="assets/sotalens-preprint-pending.pdf">Rendered preprint PDF</a>
+      <a class="button" href="https://doi.org/10.5281/zenodo.19860899">Zenodo</a>
+      <a class="button" href="https://github.com/diogogithub/sota-lens/releases/latest">GitHub</a>
     </div>
   </section>
 
   <section class="grid two">
     <article class="card">
-      <h2>JOSS manuscript</h2>
-      <p>The JOSS manuscript is included under <code>paper/paper.md</code>, with references in <code>paper/paper.bib</code>. It is the compact software paper for journal submission.</p>
-      <a class="button" href="https://github.com/diogogithub/sota-lens/tree/master/paper">Open JOSS paper directory</a>
-    </article>
-    <article class="card">
-      <h2>arXiv preprint</h2>
+      <h2>arXiv preprint source</h2>
       <p>The longer methodology paper is included under <code>arxiv/main.tex</code>. It expands the comparison with PRISMA, PRISMA-ScR, systematic mapping, and bibliometric mapping, and documents the DPM/SAR proof of concept.</p>
       <a class="button" href="https://github.com/diogogithub/sota-lens/tree/master/arxiv">Open arXiv source directory</a>
+    </article>
+    <article class="card">
+      <h2>JOSS-ready manuscript</h2>
+      <p>The compact software manuscript remains available under <code>paper/paper.md</code>, with references in <code>paper/paper.bib</code>. It is retained for transparency and for possible future resubmission after a public open-development period.</p>
+      <a class="button" href="https://github.com/diogogithub/sota-lens/tree/master/paper">Open manuscript directory</a>
     </article>
   </section>
 
@@ -58,13 +74,21 @@
   </section>
 
   <section class="card">
-    <h2>Software citation</h2>
+    <h2>Recommended citation</h2>
+    <p>Please cite the Zenodo software archive:</p>
+    <pre><code>Peralta Cordeiro, D. (2026). SotA Lens: Citation-network mapping for exploratory state-of-the-art reviews (Version 0.1.0) [Computer software]. https://doi.org/10.5281/zenodo.19860899</code></pre>
+  </section>
+
+  <section class="card">
+    <h2>BibTeX</h2>
     <pre><code>@software{sotalens2026,
-  author = {Cordeiro, Diogo Peralta},
-  title = {SotA Lens: Citation-network mapping for exploratory state-of-the-art reviews},
-  year = {2026},
+  title   = {SotA Lens: Citation-network mapping for exploratory state-of-the-art reviews},
+  author  = {Peralta Cordeiro, Diogo},
+  year    = {2026},
+  doi     = {10.5281/zenodo.19860899},
+  url     = {https://github.com/diogogithub/sota-lens},
   version = {0.1.0},
-  url = {https://github.com/diogogithub/sota-lens}
+  note    = {Computer software}
 }</code></pre>
   </section>
 

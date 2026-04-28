@@ -1,0 +1,37 @@
+{
+  "title": "SotA Lens: Citation-network mapping for exploratory state-of-the-art reviews",
+  "creators": [
+    {
+      "name": "Peralta Cordeiro, Diogo",
+      "affiliation": "Faculty of Engineering, University of Porto",
+      "orcid": "0000-0002-0260-5121"
+    }
+  ],
+  "description": "SotA Lens is an open-source toolkit for exploratory literature mapping through citation networks. It provides a Python command-line pipeline and static browser-based explorer for building, exporting, and inspecting citation-network datasets before formal state-of-the-art, scoping, or systematic mapping reviews are finalised.",
+  "license": "MIT",
+  "keywords": [
+    "literature review",
+    "state of the art",
+    "citation networks",
+    "bibliometrics",
+    "scoping review",
+    "systematic mapping",
+    "network science",
+    "Python",
+    "Gephi"
+  ],
+  "upload_type": "software",
+  "access_right": "open",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/diogogithub/sota-lens",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://diogogithub.github.io/sota-lens/",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}

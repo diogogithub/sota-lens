@@ -4,9 +4,10 @@
   <img src="website/assets/sota-lens-wordmark-transparent.png" alt="SotA Lens artwork" width="900">
 </p>
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19860899.svg)](https://doi.org/10.5281/zenodo.19860899)
 [![Python tests](https://github.com/diogogithub/sota-lens/actions/workflows/python-tests.yml/badge.svg?branch=master&event=push)](https://github.com/diogogithub/sota-lens/actions/workflows/python-tests.yml)
 [![Deploy GitHub Pages](https://github.com/diogogithub/sota-lens/actions/workflows/pages.yml/badge.svg?branch=master&event=push)](https://github.com/diogogithub/sota-lens/actions/workflows/pages.yml)
-[![Build JOSS paper](https://github.com/diogogithub/sota-lens/actions/workflows/joss-paper.yml/badge.svg?branch=master&event=push)](https://github.com/diogogithub/sota-lens/actions/workflows/joss-paper.yml)
+[![Build JOSS manuscript](https://github.com/diogogithub/sota-lens/actions/workflows/joss-paper.yml/badge.svg?branch=master&event=push)](https://github.com/diogogithub/sota-lens/actions/workflows/joss-paper.yml)
 [![Build arXiv preprint](https://github.com/diogogithub/sota-lens/actions/workflows/arxiv-build.yml/badge.svg?branch=master&event=push)](https://github.com/diogogithub/sota-lens/actions/workflows/arxiv-build.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
@@ -23,8 +24,10 @@ The project combines:
 - **Website:** <https://diogogithub.github.io/sota-lens/>
 - **Interactive tool:** <https://diogogithub.github.io/sota-lens/tool.html>
 - **Repository:** <https://github.com/diogogithub/sota-lens>
-- **JOSS paper manuscript:** [`paper/paper.md`](paper/paper.md)
-- **arXiv preprint source:** [`arxiv/main.tex`](arxiv/main.tex)
+- **Software archive DOI:** [10.5281/zenodo.19860899](https://doi.org/10.5281/zenodo.19860899)
+- **Rendered preprint PDF:** <https://diogogithub.github.io/sota-lens/assets/sotalens-preprint-pending.pdf>
+- **arXiv preprint source:** [`arxiv/main.tex`](arxiv/main.tex) — pending arXiv endorsement/submission
+- **JOSS manuscript:** [`paper/paper.md`](paper/paper.md) — not currently under JOSS review
 
 ## Why SotA Lens
 
@@ -61,7 +64,7 @@ sota-lens/
 ├── tests/                   Pytest-based tests
 ├── website/                 Static GitHub Pages site
 │   └── assets/              CSS, JavaScript, data, and SotA Lens artwork
-├── paper/                   JOSS-ready paper manuscript and bibliography
+├── paper/                   JOSS-ready manuscript and bibliography
 ├── docs/                    Supporting documentation
 ├── data/case-study/         Bundled DPM/SAR case-study corpus and graph artifacts
 └── .github/workflows/       CI and GitHub Pages deployment
@@ -145,21 +148,27 @@ The tool page opens **empty by default**. The bundled case study is loaded only 
 
 The included case study maps literature around **Dynamic Projection-Mapping** and **Spatial Augmented Reality**. In the underlying exploration, two broad seed queries produced 200 seed results and a citation graph with **2,198 publication nodes** and **8,249 citation edges**. The browser demo uses a reduced subset for responsiveness, while the repository includes the richer supporting artifacts in [`data/case-study/`](data/case-study/).
 
-## Publication
+## Publication and archival status
 
-This repository includes a **complete JOSS-ready paper manuscript** in [`paper/paper.md`](paper/paper.md), references in [`paper/paper.bib`](paper/paper.bib), and a longer arXiv-style methodology preprint in [`arxiv/`](arxiv/). It also includes tests, licensing, citation metadata, CI workflows, and a website.
+SotA Lens is distributed as open-source research software and archived through Zenodo.
+
+- **Software archive:** [10.5281/zenodo.19860899](https://doi.org/10.5281/zenodo.19860899).
+- **Rendered preprint PDF:** available at <https://diogogithub.github.io/sota-lens/assets/sotalens-preprint-pending.pdf> while arXiv endorsement/submission is pending.
+- **arXiv source:** the longer methodology preprint is available under [`arxiv/`](arxiv/).
+- **JOSS:** a JOSS-ready manuscript is available under [`paper/paper.md`](paper/paper.md), but the project is **not currently under JOSS review**. The initial submission was procedurally rejected because JOSS currently requires a longer public open-development history for projects developed privately before public release. The repository will remain public while future work proceeds through public issues, pull requests, and releases.
 
 ## Citation
 
-If you use SotA Lens, please cite the software repository and the accompanying paper manuscript.
+If you use SotA Lens, please cite the Zenodo software archive:
 
 ```bibtex
 @software{sotalens2026,
-  author = {Cordeiro, Diogo Peralta},
-  title = {SotA Lens: Citation-network mapping for exploratory state-of-the-art reviews},
-  year = {2026},
-  version = {0.1.0},
-  url = {https://github.com/diogogithub/sota-lens}
+	title        = {SotA Lens: Citation-network mapping for exploratory state-of-the-art reviews},
+	author       = {Peralta Cordeiro, Diogo},
+	year         = 2026,
+	doi          = {10.5281/zenodo.19860899},
+	url          = {https://github.com/diogogithub/sota-lens},
+	version      = {0.1.0}
 }
 ```
 
